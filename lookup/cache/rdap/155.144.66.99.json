@@ -1,0 +1,264 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/155.144.66.99",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-06-22T05:00:35Z"
+        }
+    ],
+    "name": "AUST-POST",
+    "remarks": [
+        {
+            "description": [
+                "Australian Postal Corporation"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/155.144.66.99",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/155.144.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/155.144.66.99",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/155.144.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "155.144.0.0",
+    "ipVersion": "v4",
+    "endAddress": "155.144.255.255",
+    "objectClassName": "ip network",
+    "handle": "155.144.0.0 - 155.144.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-12T01:29:09Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "rey.palacio@auspost.com.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/155.144.66.99",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-AUPOSTCORP-NON-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-AUPOSTCORP-NON-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 1777\nMelbourne, 3000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rey.palacio@auspost.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "rey.palacio@auspost.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-AUPOSTCORP-NON-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:34Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: ZA90-ARIN",
+                        "is-role: Y",
+                        "last-name: Australian Postal Corporation",
+                        "street: PO Box 1777 Melbourne, 3000",
+                        "country: AU",
+                        "mailbox: hostmaster@auspost.com.au",
+                        "bus-phone: 61 3 9204 7171",
+                        "reg-date: 2001-06-29",
+                        "changed: hostmaster@arin.poc 20020627",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/155.144.66.99",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/APC1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Australian Postal Corporation"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 1777 Melbourne, 3000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 3 9204 7171"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@auspost.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "APC1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "155.144.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

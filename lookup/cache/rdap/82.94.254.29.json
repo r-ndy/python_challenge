@@ -1,0 +1,210 @@
+{
+    "handle": "82.94.254.0 - 82.94.254.31",
+    "startAddress": "82.94.254.0",
+    "endAddress": "82.94.254.31",
+    "ipVersion": "v4",
+    "name": "XS4ALL-CUST",
+    "type": "ASSIGNED PA",
+    "country": "NL",
+    "parentHandle": "82.92.0.0 - 82.95.255.255",
+    "entities": [
+        {
+            "handle": "XS42-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "XS4ALL-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "XS42-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "XS4ALL Internet NOC"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "XS4ALL Internet BV\nPostbus 1848\n1000BV Amsterdam\nThe Netherlands"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+31 20 3987654"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+31 20 3987604"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "netmaster@xs4all.nl"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@xs4all.nl"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "CB127",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KAI11-RIPE",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "MVS5",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "RZ2757-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "TFR-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "XS4ALL-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "NetMatch"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/82.94.254.29",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/82.94.254.29"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-02-15T09:06:07Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/82.94.254.29",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

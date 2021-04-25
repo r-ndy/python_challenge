@@ -1,0 +1,203 @@
+{
+    "handle": "193.219.169.0 - 193.219.169.255",
+    "startAddress": "193.219.169.0",
+    "endAddress": "193.219.169.255",
+    "ipVersion": "v4",
+    "name": "SIAULIAI-SCHOOL-NET",
+    "type": "ASSIGNED PA",
+    "country": "LT",
+    "parentHandle": "193.219.128.0 - 193.219.191.255",
+    "entities": [
+        {
+            "handle": "AS2847-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "LH1454-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "LR1201-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Litnet registry"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Kaunas University of Technology\nLITNET\nStudentu 48a-101\nLT-51367 Kaunas\nLithuania"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+370 37 353325"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+370 37 300643"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+370 37 331925"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "hostmaster@litnet.lt"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "cert@litnet.lt"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "AS2847-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "AS44043-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "DT78",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "RJ2000-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "Internet connection to Siauliai sec.Schools"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/193.219.169.92",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/193.219.169.92"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2009-09-02T14:20:39Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/193.219.169.92",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

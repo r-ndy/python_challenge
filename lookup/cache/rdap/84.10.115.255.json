@@ -1,0 +1,172 @@
+{
+    "handle": "84.10.71.0 - 84.10.124.255",
+    "startAddress": "84.10.71.0",
+    "endAddress": "84.10.124.255",
+    "ipVersion": "v4",
+    "name": "UPC-PL",
+    "type": "ASSIGNED PA",
+    "country": "PL",
+    "parentHandle": "84.10.0.0 - 84.10.255.255",
+    "entities": [
+        {
+            "handle": "LGI-RIPE",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "MNT-LGI",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "UP94-RIPE",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "UPA2-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "UPC Poland Abuse"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "UPC Polska Sp. z.o.o.\nAl. Jana Pawla II 27\n00-867 Warszawa\nPoland"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "abuse@upc.pl"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@upc.pl"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "LGI-RIPE",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "MNT-LGI",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "UPC Polska Sp. z o.o.",
+                "CPE Customers PL"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/84.10.115.255",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/84.10.115.255"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-07-03T08:13:34Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/84.10.115.255",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

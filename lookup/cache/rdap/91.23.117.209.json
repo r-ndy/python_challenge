@@ -1,0 +1,170 @@
+{
+    "handle": "91.0.0.0 - 91.23.255.255",
+    "startAddress": "91.0.0.0",
+    "endAddress": "91.23.255.255",
+    "ipVersion": "v4",
+    "name": "DTAG-DIAL22",
+    "type": "ASSIGNED PA",
+    "country": "DE",
+    "parentHandle": "91.0.0.0 - 91.63.255.255",
+    "entities": [
+        {
+            "handle": "DTAG-NIC",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "DTIP",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "DTST",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ORG-DTAG1-RIPE",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "DTAG4-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Deutsche Telekom Abuse Contact"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Deutsche Telekom AG"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "abuse@telekom.de"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@telekom.de"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "DTAG-NIC",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "Deutsche Telekom AG"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/91.23.117.209",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/91.23.117.209"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-06-18T06:24:45Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/91.23.117.209",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

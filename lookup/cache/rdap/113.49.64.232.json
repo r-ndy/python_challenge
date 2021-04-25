@@ -1,0 +1,243 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/113.49.64.232",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-01T22:21:32Z"
+        }
+    ],
+    "name": "CGWNET",
+    "remarks": [
+        {
+            "description": [
+                "China Great Wall Internet Server Provider",
+                "No. 20, FuXin Road, Beijing,P.R.C"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/113.49.64.232",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/113.48.0.0/14",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/113.49.64.232",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/113.48.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "113.48.0.0",
+    "endAddress": "113.51.255.255",
+    "objectClassName": "ip network",
+    "handle": "113.48.0.0 - 113.51.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:53Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/113.49.64.232",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/FZ11-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "FU PING ZHOU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.20, Fuxing Road, Beijing"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-010-66813424"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-010-66806696"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "zhoufp@cesec.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "FZ11-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-01T08:57:39Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that CNNIC is not an ISP and is not",
+                        "empowered to investigate complaints of network abuse.",
+                        "Please contact the tech-c or admin-c of the network."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/113.49.64.232",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CNNIC-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CNNIC-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Beijing, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipas@cnnic.cn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ipas@cnnic.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CNNIC-CN"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "113.48.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

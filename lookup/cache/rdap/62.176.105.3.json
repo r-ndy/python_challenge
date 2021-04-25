@@ -1,0 +1,157 @@
+{
+    "handle": "62.176.104.0 - 62.176.107.255",
+    "startAddress": "62.176.104.0",
+    "endAddress": "62.176.107.255",
+    "ipVersion": "v4",
+    "name": "BTC-LAN",
+    "type": "ASSIGNED PA",
+    "country": "BG",
+    "parentHandle": "62.176.64.0 - 62.176.127.255",
+    "entities": [
+        {
+            "handle": "BT95-ADM",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "BTC3-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "BTC3-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "BTC IP ADDRESS SPACE administration"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Bulgarian Telecommunications Company Plc.\n115I, Tsarigradsko shose Blvd.\n1784, Sofia\nBulgaria"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "registry-ip@vivacom.bg"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse-ip@vivacom.bg"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "BT95-ADM",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "BTC-LAN customers"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/62.176.105.3",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/62.176.105.3"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-12-04T11:36:20Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/62.176.105.3",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

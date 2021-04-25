@@ -1,0 +1,130 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "TWNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from TWNIC. To obtain more specific information, please use the TWNIC whois server at whois.twnic.net."
+            ],
+            "links": [
+                {
+                    "value": "https://twnic.rdap.apnic.net/ip/61.228.170.121",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TW",
+    "name": "HINET-NET",
+    "remarks": [
+        {
+            "description": [
+                "Taipei Taiwan"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://twnic.rdap.apnic.net/ip/61.228.170.121",
+            "rel": "self",
+            "href": "https://twnic.rdap.apnic.net/ip/61.228.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://twnic.rdap.apnic.net/ip/61.228.170.121",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/61.228.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "endAddress": "61.228.255.255",
+    "ipVersion": "v4",
+    "startAddress": "61.228.0.0",
+    "objectClassName": "ip network",
+    "handle": "61.228.0.0 - 61.228.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://twnic.rdap.apnic.net/ip/61.228.170.121",
+                    "rel": "self",
+                    "href": "https://twnic.rdap.apnic.net/entity/HN184-TW",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "HINET"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Taipei Taiwan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "network-adm@hinet.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HN184-TW"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "61.228.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

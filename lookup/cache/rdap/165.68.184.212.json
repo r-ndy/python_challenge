@@ -1,0 +1,744 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-165-68-0-0-1",
+    "startAddress": "165.68.0.0",
+    "endAddress": "165.68.255.255",
+    "ipVersion": "v4",
+    "name": "U-CHICAGO-2",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-165-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2010-08-03T17:02:33-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1993-04-12T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/165.68.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-165-68-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "UNIVER-174",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "University of Chicago"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1155 E. 60th Street\nChicago\nIL\n60637\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/UNIVER-174"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/UNIVER-174"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-05T10:53:02-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1986-07-08T00:00:00-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NSC26-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "IT Security\r\n6045 S. Kenwood\nChicago\nIL\n60637\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Security Center"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Security Center"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "security@uchicago.edu"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-773-702-2378"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NSC26-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NSC26-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-02T11:55:19-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-07-28T18:30:29-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "DNO22-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "IT Services - Networking\n1155 East 60th Street\nChicago\nIL\n60637\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Data Network Operations"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Data Network Operations"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "noc@uchicago.edu"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-773-702-7626"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "noc"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DNO22-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DNO22-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-12T11:07:58-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-07-28T18:30:31-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "DOMAI99-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "IT Service - Networking\n1155 East 60th Street\nChicago, IL 60637\nUnited States\nChicago\nIL\n60637\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Domain Administrator"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Domain Administrator"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "domainadmin@uchicago.edu"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-773-702-7626"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DOMAI99-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DOMAI99-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-12T11:09:47-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-07-28T18:30:32-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NSC26-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "IT Security\r\n6045 S. Kenwood\nChicago\nIL\n60637\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Security Center"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Network Security Center"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "security@uchicago.edu"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-773-702-2378"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NSC26-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NSC26-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-02T11:55:19-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-07-28T18:30:29-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "DNO22-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "IT Services - Networking\n1155 East 60th Street\nChicago\nIL\n60637\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Data Network Operations"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Data Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@uchicago.edu"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-773-702-7626"
+                    ]
+                ]
+            ],
+            "roles": [
+                "noc"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/DNO22-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/DNO22-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-12T11:07:58-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-07-28T18:30:31-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "DOMAI99-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "IT Service - Networking\n1155 East 60th Street\nChicago, IL 60637\nUnited States\nChicago\nIL\n60637\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Domain Administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domainadmin@uchicago.edu"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-773-702-7626"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/DOMAI99-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.68.184.212",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/DOMAI99-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-12T11:09:47-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-07-28T18:30:32-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "165.68.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

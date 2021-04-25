@@ -1,0 +1,601 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-207-128-0-0-1",
+    "startAddress": "207.128.0.0",
+    "endAddress": "207.131.255.255",
+    "ipVersion": "v4",
+    "name": "HONDA-CIDR-1",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-207-0-0-0-0",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-02T10:31:36-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1996-05-06T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/207.128.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-207-128-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "AHMC-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "American Honda Motor Company, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1919 Torrance Blvd, 600-2C-1H\nTorrance\nCA\n90501\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/AHMC-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/AHMC-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-27T13:44:03-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-12-20T15:44:09-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "HOSTM845-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1919 Torrance Blvd, 600-2C-1H\nTorrance\nCA\n90501\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Hostmaster"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Hostmaster"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@ahm.honda.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-310-783-2519"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-310-781-5007"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "noc"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/HOSTM845-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/HOSTM845-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-14T12:06:36-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2006-07-20T08:50:05-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "JP2052-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1919 Torrance Blvd, 600-2C-1H\nTorrance\nCA\n90501-2746\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Joe Pace"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Pace",
+                                    "Joe",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "Joe_Pace@ahm.honda.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@ahm.honda.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-310-567-6086"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/JP2052-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/JP2052-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-27T13:33:42-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1996-05-24T10:37:35-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "UTTAM-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "24025 Honda Parkway\nMarysville\nOH\n43040\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Mike Uttam"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Uttam",
+                                    "Mike",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "hostmaster@ahm.honda.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-937-644-7807"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/UTTAM-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/UTTAM-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-27T13:31:02-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2021-01-27T13:31:02-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "JP2052-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1919 Torrance Blvd, 600-2C-1H\nTorrance\nCA\n90501-2746\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Joe Pace"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Pace",
+                            "Joe",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Joe_Pace@ahm.honda.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@ahm.honda.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-310-567-6086"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/JP2052-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.128.74.152",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/JP2052-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-27T13:33:42-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1996-05-24T10:37:35-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "207.128.0.0",
+            "length": 14
+        }
+    ],
+    "arin_originas0_originautnums": [
+        6289
+    ]
+}

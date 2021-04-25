@@ -1,0 +1,252 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.209.46.179",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-06-17T13:04:21Z"
+        }
+    ],
+    "name": "SEQEB",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for SEQEB"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 147.209.0.0 - 147.209.255.255",
+                "netname: SEQEB",
+                "org-id: SEQEB",
+                "status: assignment",
+                "rev-srv: BASTION1.ENERGEX.COM.AU BASTION2.ENERGEX.COM.AU NS1.TELSTRA.NET INET03.CITEC.QLD.GOV.AU",
+                "tech-c: AD665-ARIN",
+                "reg-date: 1991-07-24",
+                "changed: hostmaster@arin.net 20020801",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/147.209.46.179",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/147.209.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/147.209.46.179",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/147.209.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "147.209.0.0",
+    "ipVersion": "v4",
+    "endAddress": "147.209.255.255",
+    "objectClassName": "ip network",
+    "handle": "147.209.0.0 - 147.209.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-26T01:25:46Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.209.46.179",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/EQS1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Energy Queensland SecOps"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "420 Flinders St, Townsville"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 7 3003 3000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dnsadmins@energyq.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "EQS1-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-20T05:32:18Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "dnsadmins@energyq.com.au",
+                        "dnsadmins@energyq.com.au was validated on 2021-03-20"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.209.46.179",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-ENERGEX-NON-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-ENERGEX-NON-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 15760\nCity East\nBrisbane Queensland 4002"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dnsadmins@energyq.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "dnsadmins@energyq.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-ENERGEX-NON-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "147.209.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

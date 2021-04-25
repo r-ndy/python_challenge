@@ -1,0 +1,194 @@
+{
+    "handle": "94.125.134.32 - 94.125.134.63",
+    "startAddress": "94.125.134.32",
+    "endAddress": "94.125.134.63",
+    "ipVersion": "v4",
+    "name": "WARWICKNET-UOW-TRUTAC",
+    "type": "ASSIGNED PA",
+    "country": "GB",
+    "parentHandle": "94.125.128.0 - 94.125.135.255",
+    "entities": [
+        {
+            "handle": "CCTS-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "MNT-CABLECOM",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "CCTS-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Glide Group Role"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Glide Group\n1 Rivermead Court\nWindmill Road\nKenn\nBS21 6FT\nUK"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "hostmaster@glide.co.uk"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@glide.co.uk"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "GLIDE-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "LEEJ",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "PS11017-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "RICH",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "TIM",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ZEB",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "TRUTAC - Leased Line"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/94.125.134.36",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/94.125.134.36"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-03-31T13:00:25Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/94.125.134.36",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

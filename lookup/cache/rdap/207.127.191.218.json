@@ -1,0 +1,572 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-207-127-0-0-1",
+    "startAddress": "207.127.0.0",
+    "endAddress": "207.127.255.255",
+    "ipVersion": "v4",
+    "name": "APPLIEDT-CCA80000-18",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-207-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-03-20T10:38:58-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1996-05-07T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/207.127.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-207-127-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "CLEAR-1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ClearBlue Technologies"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "400 Minuteman Road\nAndover\nMA\n01810\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/CLEAR-1"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/CLEAR-1"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-01-28T08:32:29-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NAT19-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Minuteman Road\nAndover\nMA\n01810\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NaviSite Abuse Team"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "NaviSite Abuse Team"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@navisite.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-978-682-8300"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NAT19-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NAT19-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-03-01T21:08:43-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2008-12-08T11:12:07-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NNE26-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Minuteman Road\nAndover\nMA\n01810\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NaviSite Network Engineering"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "NaviSite Network Engineering"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "arin@navisite.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-978-682-3800"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NNE26-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NNE26-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-03-01T10:31:41-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2008-12-09T10:44:31-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "MKE2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Minuteman Road\nAndover\nMA\n01810\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Mike Kelley"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Kelley",
+                                    "Mike",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "mkelley@navisite.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-978-682-8300"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2013-11-16"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/MKE2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/MKE2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2012-10-03T12:17:43-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2003-01-06T15:29:54-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NDA5-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "AppliedTheory Communications, Inc.\n125 Elwood Davis Road\nSyracuse\nNY\n13212-4311\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DNS Administration"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "DNS Administration"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "Hostmaster@appliedtheory.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-315-453-2912"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "fax"
+                            ]
+                        },
+                        "text",
+                        "+1-315-453-3052"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2011-06-23"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NDA5-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/207.127.191.218",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NDA5-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-06-23T23:33:53-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1995-12-14T09:52:56-05:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "207.127.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

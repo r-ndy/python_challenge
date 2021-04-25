@@ -1,0 +1,178 @@
+{
+    "handle": "156.52.0.0 - 156.52.255.255",
+    "startAddress": "156.52.0.0",
+    "endAddress": "156.52.255.255",
+    "ipVersion": "v4",
+    "name": "NET-FREDRIKSTAD-KOMMUNE",
+    "type": "LEGACY",
+    "country": "NO",
+    "parentHandle": "0.0.0.0 - 255.255.255.255",
+    "entities": [
+        {
+            "handle": "FREDRIKSTAD-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KJ650-RIPE",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "LYSE-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ORG-Fk13-RIPE",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "PAAA2-RIPE",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "IA3350-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IT avdelingen"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Fredrikstad kommune"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "paaa@fredrikstad.kommune.no"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "paaa@fredrikstad.kommune.no"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "ADMIN-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "Fredrikstad kommune",
+                "Postboks 1405, 1602 Fredrikstad"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/156.52.130.209",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/156.52.130.209"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2019-12-04T13:04:56Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/156.52.130.209",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

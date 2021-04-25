@@ -1,0 +1,899 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-158-139-0-0-1",
+    "startAddress": "158.139.0.0",
+    "endAddress": "158.139.255.255",
+    "ipVersion": "v4",
+    "name": "COP-158-139",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-158-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-10-07T18:10:33-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1992-03-10T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/158.139.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-158-139-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "CONOC-1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ConocoPhillips Company"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "925 N Eldridge Pkwy\nHouston\nTX\n77079\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/CONOC-1"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/CONOC-1"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-12-20T11:12:58-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2003-08-12T17:19:58-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "VMT-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Information Center\r\n511 South Keeler Avenue\nBartlesville\nOK\n74004\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Vulnerability Management Team"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Vulnerability Management Team"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@conocophillips.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-918-661-7518"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2019-08-20"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/VMT-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/VMT-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-08-20T16:02:28-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-05-24T12:02:48-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "SOR4-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "925 N Eldridge Pkwy\nHouston\nTX\n77079\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Sean Orta"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Orta",
+                                    "Sean",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ortass@conocophillips.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-918-661-3199"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SOR4-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SOR4-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-21T14:13:15-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-05-04T10:45:18-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "TECHN1442-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "511 S. Keeler\nBartlesville\nOK\n74004\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Technical Contact"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Technical Contact"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "gisnetworkoperations@conocophillips.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-918-661-3199"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/TECHN1442-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/TECHN1442-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-08-09T15:30:40-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2017-04-05T18:42:04-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "RDB211-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "511 S. Keeler\nBartlesville\nOK\n74004\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Richard Dwayne Berry"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Berry",
+                                    "Richard",
+                                    "Dwayne",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "richard.d.berry@conocophillips.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-918-661-7549"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "cell"
+                                    ]
+                                },
+                                "text",
+                                "+1-859-559-8048"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/RDB211-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/RDB211-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-09T18:06:11-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2014-10-07T16:07:06-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "VMT-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Information Center\r\n511 South Keeler Avenue\nBartlesville\nOK\n74004\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Vulnerability Management Team"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Vulnerability Management Team"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@conocophillips.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-918-661-7518"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2019-08-20"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VMT-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/VMT-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-08-20T16:02:28-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-05-24T12:02:48-04:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "SOR4-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "925 N Eldridge Pkwy\nHouston\nTX\n77079\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Orta"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Orta",
+                            "Sean",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ortass@conocophillips.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-918-661-3199"
+                    ]
+                ]
+            ],
+            "roles": [
+                "noc",
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/SOR4-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/SOR4-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-21T14:13:15-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-05-04T10:45:18-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RDB211-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "511 S. Keeler\nBartlesville\nOK\n74004\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Richard Dwayne Berry"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Berry",
+                            "Richard",
+                            "Dwayne",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "richard.d.berry@conocophillips.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-918-661-7549"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "cell"
+                            ]
+                        },
+                        "text",
+                        "+1-859-559-8048"
+                    ]
+                ]
+            ],
+            "roles": [
+                "noc",
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/RDB211-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/158.139.201.246",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/RDB211-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-09T18:06:11-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-10-07T16:07:06-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "158.139.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

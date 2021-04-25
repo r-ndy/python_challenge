@@ -1,0 +1,694 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-131-199-0-0-1",
+    "startAddress": "131.199.0.0",
+    "endAddress": "131.199.255.255",
+    "ipVersion": "v4",
+    "name": "C-NET-BLK-2",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-131-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-01-13T12:00:13-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1989-01-09T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/131.199.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-131-199-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "ROCKW-11",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Rockwell Collins, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "400 Collins Rd N.E.\nCedar Rapids\nIA\n52498\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ROCKW-11"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/ROCKW-11"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-05-10T14:16:47-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-05-13T15:37:41-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "KENTL2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Collins Rd NE\nCedar Rapids\nIA\n52498\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Linda Kent"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Kent",
+                                    "Linda",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "linda.kent@collins.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-319-263-2185"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KENTL2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KENTL2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-05-11T10:27:14-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2017-05-10T13:58:57-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "DRS97-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Collins Rd NE\r\nM/S 131-101\nCedar Rapids\nIA\n52498\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "David Ray Siefer"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Siefer",
+                                    "David",
+                                    "Ray",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "drsiefer@rockwellcollins.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-319-295-9082"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DRS97-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DRS97-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-04T10:37:34-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-03-24T11:45:28-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "STONE9-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Collins Rd NE\nCedar Rapids\nIA\n52498\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Mitch Stoner"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Stoner",
+                                    "Mitch",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "mitch.stoner@collins.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-319-295-4890"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/STONE9-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/STONE9-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-08T07:42:38-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-05-25T17:27:28-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "GRAVE-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Collins Rd NE\nCedar Rapids\nIA\n52498\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Michael Graves"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Graves",
+                                    "Michael",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "mdgraves@rockwellcollins.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "michael.graves@rockwellcollins.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "michael.graves@collins.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-319-295-6514"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/GRAVE-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/GRAVE-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-04-20T13:06:54-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2009-11-23T12:09:07-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NETWO3542-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Collins Rd NE\nCedar Rapids\nIA\n52498\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Administration"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Administration"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "network-admins@rockwellcollins.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-319-295-1557"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Standard Hours: 0700-1900 CST"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NETWO3542-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.199.71.175",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NETWO3542-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-15T10:14:08-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2009-11-23T09:54:25-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "131.199.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": [
+        1341
+    ]
+}

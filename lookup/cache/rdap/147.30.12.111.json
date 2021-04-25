@@ -1,0 +1,190 @@
+{
+    "handle": "147.30.0.0 - 147.30.31.255",
+    "startAddress": "147.30.0.0",
+    "endAddress": "147.30.31.255",
+    "ipVersion": "v4",
+    "name": "GPON_FTTH_SERVICES_KT",
+    "type": "ASSIGNED PA",
+    "country": "KZ",
+    "parentHandle": "147.30.0.0 - 147.30.255.255",
+    "entities": [
+        {
+            "handle": "KN913-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KNIC-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KNIC1-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kazakhtelecom Network Information Center"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Kazakhtelecom Corporate sales administration\n129 Panfilov\nAlmaty 050000\nKazakhstan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+7 727 2588254"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+7 727 2587977"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+7 727 2585855"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "nic@online.kz"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@telecom.kz"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "DZ810-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KNIC-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "JSC Kazakhtelecom, Kazakhstan Online Backbone",
+                "Dynamic GPON-FTTH",
+                "Almaty"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/147.30.12.111",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/147.30.12.111"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-19T09:05:29Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/147.30.12.111",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

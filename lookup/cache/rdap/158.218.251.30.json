@@ -1,0 +1,87 @@
+{
+    "handle": "158.218.0.0 - 158.218.255.255",
+    "startAddress": "158.218.0.0",
+    "endAddress": "158.218.255.255",
+    "ipVersion": "v4",
+    "name": "TIEUROPE",
+    "type": "LEGACY",
+    "country": "GB",
+    "parentHandle": "0.0.0.0 - 255.255.255.255",
+    "entities": [
+        {
+            "handle": "ERX-NET-158-218-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "JT1195-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "Texas Instruments",
+                "Manton Lane, Bedford, England MK41 7PA"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/158.218.251.30",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/158.218.251.30"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2019-12-04T13:13:13Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/158.218.251.30",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

@@ -1,0 +1,604 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-130-20-0-0-1",
+    "startAddress": "130.20.0.0",
+    "endAddress": "130.20.255.255",
+    "ipVersion": "v4",
+    "name": "PNLNET",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-130-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-02T10:31:36-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1988-04-26T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/130.20.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-130-20-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "PNNL-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Pacific Northwest National Laboratory"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "902 Battelle Boulevard\nRichland\nWA\n99352\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/PNNL-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/PNNL-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-09-24T08:30:57-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-02-16T06:46:36-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "SCT2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Battelle Pacific Northwest Laboratory\n3320 Q Avenue\nRichland\nWA\n99352\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Cullen Tollbom"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Tollbom",
+                                    "Cullen",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "cullen.tollbom@pnl.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-509-375-2896"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-509-375-6703"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2017-12-14"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SCT2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SCT2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2016-12-14T13:34:48-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "JOS20-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "902 Battelle Boulevard, K7-53\r\nP.O Box 999\nRichland\nWA\n99352-0999\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "James Owen Schroeder"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Schroeder",
+                                    "James",
+                                    "Owen",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jim.schroeder@pnnl.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-509-375-2855"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2013-12-02"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/JOS20-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/JOS20-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2012-07-16T13:30:23-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2008-07-28T18:54:05-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "LWA96-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "902 Battelle Boulevard\nRichland\nWA\n99352\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Lewis W Allen"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Allen",
+                                    "Lewis",
+                                    "W",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "lewis.allen@pnl.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-509-375-3974"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/LWA96-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/LWA96-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-12-06T11:00:43-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-06-04T18:06:02-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "SCT2-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Battelle Pacific Northwest Laboratory\n3320 Q Avenue\nRichland\nWA\n99352\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cullen Tollbom"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Tollbom",
+                            "Cullen",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "cullen.tollbom@pnl.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-509-375-2896"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "fax"
+                            ]
+                        },
+                        "text",
+                        "+1-509-375-6703"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2017-12-14"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/SCT2-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/130.20.177.23",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/SCT2-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-12-14T13:34:48-05:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "130.20.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

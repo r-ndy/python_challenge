@@ -1,0 +1,386 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-129-41-90-0-1",
+    "startAddress": "129.41.90.0",
+    "endAddress": "129.41.166.255",
+    "ipVersion": "v4",
+    "name": "IBM-RSCH-NET1",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-129-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-20T17:13:03-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1987-07-29T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/129.41.90.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-129-41-90-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "IBM-1-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IBM"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "3039 Cornwallis Road\nResearch Triangle Park\nNC\n27709-2195\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/IBM-1-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/IBM-1-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-05-06T07:25:29-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-05-06T07:25:29-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "RAIN-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "3039 Cornwallis Road\nResearch Triangle Park\nNC\n27709-2195\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Registrar Authority, Internet numbers"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Registrar Authority, Internet numbers"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ipreg@us.ibm.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-800-426-7378"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "abuse",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/RAIN-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/RAIN-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-12-09T12:16:28-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2006-09-07T15:24:06-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ORGAB-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "3039 Conwallis Road\nResearch Triagle Park\nNC\n27709-2195\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Org Abuse"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Org Abuse"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ibm.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-630-568-1187"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2010-07-08"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ORGAB-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/129.41.106.187",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/ORGAB-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2005-05-23T12:30:28-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-05-23T12:30:28-04:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "129.41.90.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "129.41.92.0",
+            "length": 22
+        },
+        {
+            "v4prefix": "129.41.96.0",
+            "length": 19
+        },
+        {
+            "v4prefix": "129.41.128.0",
+            "length": 19
+        },
+        {
+            "v4prefix": "129.41.160.0",
+            "length": 22
+        },
+        {
+            "v4prefix": "129.41.164.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "129.41.166.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

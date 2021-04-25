@@ -1,0 +1,106 @@
+{
+    "handle": "144.248.0.0 - 144.248.255.255",
+    "startAddress": "144.248.0.0",
+    "endAddress": "144.248.255.255",
+    "ipVersion": "v4",
+    "name": "UZB-NET",
+    "type": "LEGACY",
+    "country": "BE",
+    "parentHandle": "0.0.0.0 - 255.255.255.255",
+    "entities": [
+        {
+            "handle": "BELNET-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "JG9312-RIPE",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RVV1-RIPE",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "SDB507-RIPE",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "UZBRUSSEL-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "UZ Brussel"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/144.248.206.70",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/144.248.206.70"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-10-22T09:50:44Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/144.248.206.70",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

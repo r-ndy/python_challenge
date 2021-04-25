@@ -1,0 +1,399 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-173-208-62-0-1",
+    "startAddress": "173.208.62.0",
+    "endAddress": "173.208.127.255",
+    "ipVersion": "v4",
+    "name": "LU",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-173-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-02-15T09:32:57-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2009-12-17T12:22:40-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/173.208.62.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-173-208-62-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "LU",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Leaseweb USA, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "9480 Innovation Dr\nManassas\nVA\n20109\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "www.leaseweb.com"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/LU"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/LU"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-08-13T13:18:49-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-09-13T11:41:51-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "LEASE-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "9301 Innovation Drive \nSuite 100\nManassas\nVA\n20110-2223\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Leaseweb ARIN"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Leaseweb ARIN"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "arin@us.leaseweb.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "netops@us.leaseweb.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@us.leaseweb.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-571-814-3777"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "noc",
+                        "technical",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Please send all abuse notifications to the following email address: abuse@us.leaseweb.com. To ensure proper processing of your abuse notification, please visit the website www.leaseweb.com/abuse for notification requirements. All police and other government agency requests must be sent to subpoenas@us.leaseweb.com."
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/LEASE-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/LEASE-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-05-12T10:55:42-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-09-02T11:29:59-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "LUAD3-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "9480 Innovation Dr\nManassas\nVA\n20109\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Leaseweb US abuse dept"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Leaseweb US abuse dept"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@us.leaseweb.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-571-814-3777"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Please send all abuse notifications to the following email address: abuse@us.leaseweb.com. To ensure proper processing of your abuse notification, please visit the website www.leaseweb.com/abuse for notification requirements. All police and other government agency requests must be sent to subpoenas@us.leaseweb.com."
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/LUAD3-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/173.208.89.20",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/LUAD3-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-18T04:13:53-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2014-09-17T07:42:28-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "173.208.62.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "173.208.64.0",
+            "length": 18
+        }
+    ],
+    "arin_originas0_originautnums": [
+        15003
+    ]
+}

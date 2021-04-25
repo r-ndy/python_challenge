@@ -1,0 +1,272 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-204-244-92-0-1",
+    "startAddress": "204.244.92.0",
+    "endAddress": "204.244.92.255",
+    "ipVersion": "v4",
+    "name": "204-244-92-0-12193",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-204-244-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-07-11T18:18:51-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2012-07-11T18:18:51-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/204.244.92.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-204-244-92-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/204.244.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "EC-77",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Evolve Communications"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Box 1372\nVanderhoof\nBC\nV0J 3A0\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/EC-77"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/EC-77"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-12-08T20:46:33-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2012-07-11T18:16:31-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "RRA171-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Box 1372\nVanderhoof\nBC\nV0J 3A0\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Ryan Ray"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Ray",
+                                    "Ryan",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@evolvecommunications.ca"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-866-976-3416"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/RRA171-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/204.244.92.77",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/RRA171-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-04-22T17:44:31-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2009-09-08T15:24:15-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "204.244.92.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

@@ -1,0 +1,790 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-152-124-0-0-1",
+    "startAddress": "152.124.0.0",
+    "endAddress": "152.133.255.255",
+    "ipVersion": "v4",
+    "name": "VA-INTERNET",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-152-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-21T11:23:52-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1991-08-15T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/152.124.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-152-124-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "DVA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Department of Veterans Affairs"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "810 Vermont Ave., NW\nWashington\nDC\n20420\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/DVA"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/DVA"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-04-15T11:40:17-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1991-01-23T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "HALLM300-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "221 Butler Ave, Bldg 511\nMartinsburg\nWV\n25405\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Mark Hall"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Hall",
+                                    "Mark",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "Mark.Hall@va.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-304-262-5203"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/HALLM300-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/HALLM300-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-09-29T09:25:48-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-09-29T09:25:48-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NETWO9266-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "221 Butler Ave, Bldg 511\nMartinsburg\nWV\n25405\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Admin"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Admin"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "david.polanco@va.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-304-262-7747"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "VA TIC POC"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NETWO9266-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NETWO9266-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-08T13:45:12-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-07-08T13:45:12-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "GARDN352-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "811 Vermont Ave\nWashington\nDC\n20420\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "John Gardner"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Gardner",
+                                    "John",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "John.Gardner@va.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-202-461-4409"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/GARDN352-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/GARDN352-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-10-21T13:48:31-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-10-21T13:48:31-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ABUSE1137-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "VA Network Operations Center\n882 TJ Jackson Drive\nFalling Waters\nWV\n25419\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Abuse"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Abuse"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@va.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-800-877-4328"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2018-11-16"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ABUSE1137-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/ABUSE1137-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-16T12:20:45-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-03-07T17:06:08-05:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "VNOC2-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "VA Network and Security Operations Center\r\n882 TJ Jackson Drive\nFalling Waters\nWV\n25419\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "VA Network Operations Center"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "VA Network Operations Center"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "va-nsoc@va.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-800-877-4328"
+                    ]
+                ]
+            ],
+            "roles": [
+                "noc"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2018-12-02"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VNOC2-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/VNOC2-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-12-02T07:02:55-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-03-07T09:00:15-05:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NETWO9266-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "221 Butler Ave, Bldg 511\nMartinsburg\nWV\n25405\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Admin"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Network Admin"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "david.polanco@va.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-304-262-7747"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "VA TIC POC"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NETWO9266-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/152.126.204.231",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NETWO9266-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-08T13:45:12-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-07-08T13:45:12-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "152.124.0.0",
+            "length": 14
+        },
+        {
+            "v4prefix": "152.128.0.0",
+            "length": 14
+        },
+        {
+            "v4prefix": "152.132.0.0",
+            "length": 15
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

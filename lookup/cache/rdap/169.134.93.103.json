@@ -1,0 +1,697 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-169-134-0-0-1",
+    "startAddress": "169.134.0.0",
+    "endAddress": "169.134.255.255",
+    "ipVersion": "v4",
+    "name": "VDHNET",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-169-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-11-06T08:00:21-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1994-11-04T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/169.134.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-169-134-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "VDH",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Virginia Department of Health"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1500 East Main Street, Room 211\nRichmond\nVA\n23219\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VDH"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/VDH"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-10-06T12:29:44-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1994-11-04T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "KRW4-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "109 Governor St\nRichmond\nVA\n23219\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Kenneth Ray White"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "White",
+                                    "Kenneth",
+                                    "Ray",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "kenny.white@itp.vita.virginia.gov"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-804-416-5641"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2016-09-29"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KRW4-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KRW4-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2015-09-30T11:42:34-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2015-09-30T11:42:34-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KNW-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Office of Information Management\n1500 East Main St., Room 211\nRichmond\nVA\n23219\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Kenneth NONE White"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "White",
+                                    "Kenneth",
+                                    "NONE",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "kwhite@vdh.state.va.us"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-804-692-0720"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2010-07-12"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KNW-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KNW-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2004-07-02T10:55:52-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2003-03-25T11:30:07-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "SNM2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Office of Information Management\n1500 East Main St., Room 211\nRichmond\nVA\n23219\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Scott NONE Matz"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Matz",
+                                    "Scott",
+                                    "NONE",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "smatz@vdh.state.va.us"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-804-786-8446"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2010-07-13"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SNM2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SNM2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2004-07-02T10:55:52-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2003-03-24T17:00:05-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "BOYLE54-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "109 Governor St\nRichmond\nVA\n23219\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Chris Boyle"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Boyle",
+                            "Chris",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "chris.boyle@vdh.virginia.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-804-864-7133"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "remarks": [
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2016-11-04"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/BOYLE54-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/BOYLE54-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-05T15:30:03-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2015-11-05T15:30:03-05:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "CHAND136-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "109 Governor St\nRichmond\nVA\n23219\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Naras Chandrasekaran"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Chandrasekaran",
+                            "Naras",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "naras.chandrasekaran@vdh.virginia.gov"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-804-864-7135"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/CHAND136-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/169.134.93.103",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/CHAND136-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-11-07T08:36:28-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2015-11-05T15:28:01-05:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "169.134.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

@@ -1,0 +1,285 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-138-34-0-0-1",
+    "startAddress": "138.34.0.0",
+    "endAddress": "138.34.255.255",
+    "ipVersion": "v4",
+    "name": "ETAN-1",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-138-0-0-0-0",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-05T11:34:56-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1990-01-31T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/138.34.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-138-34-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "ETC-1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ETA Technologies Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "2-254 Hastings St. North \r\nP.O. Box 1226\nBancroft\nON\nK0L-1C0\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ETC-1"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/ETC-1"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-03-25T11:02:46-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1990-01-31T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "CKN23-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "123 Main St\nAnytown\nVA\n20151\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Contact Known No"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "No",
+                                    "Contact",
+                                    "Known",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "nobody@example.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-800-555-1234"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "There is no known POC for this organization. This is a placeholder record. Please contact hostmaster@arin.net if you can provide contact information for this record."
+                            ]
+                        },
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2016-11-19"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/CKN23-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/138.34.16.238",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/CKN23-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2015-11-20T12:11:23-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-02-18T14:57:07-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "138.34.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

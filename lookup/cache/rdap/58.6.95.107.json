@@ -1,0 +1,250 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/58.6.95.107",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-06-03T13:04:10Z"
+        }
+    ],
+    "name": "IINET-AU",
+    "remarks": [
+        {
+            "description": [
+                "iiNet Limited"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/58.6.95.107",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/58.6.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/58.6.95.107",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/58.6.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "58.6.0.0",
+    "ipVersion": "v4",
+    "endAddress": "58.7.255.255",
+    "objectClassName": "ip network",
+    "handle": "58.6.0.0 - 58.7.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2012-01-16T06:42:06Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/58.6.95.107",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NO20-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "iiNet Limited\nLevel 1\n502 Hay Street\nSubiaco WA 6008"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 8 9214 2222"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 8 9214 2211"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apnic-admin@staff.iinet.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NO20-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-08T13:24:00Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "noc@staff.iinet.net.au was validated on 2020-12-08"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/58.6.95.107",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-IINET-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-IINET-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "iiNet Limited\nLevel 9, 250 St Georges Tce\nPerth\nWA 6000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@staff.iinet.net.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "noc@staff.iinet.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-IINET-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "58.6.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

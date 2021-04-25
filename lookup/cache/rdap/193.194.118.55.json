@@ -1,0 +1,201 @@
+{
+    "handle": "193.194.116.0 - 193.194.119.255",
+    "startAddress": "193.194.116.0",
+    "endAddress": "193.194.119.255",
+    "ipVersion": "v4",
+    "name": "EXNESS-NET",
+    "type": "ASSIGNED PI",
+    "country": "NL",
+    "parentHandle": "0.0.0.0 - 255.255.255.255",
+    "entities": [
+        {
+            "handle": "AN30806-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KPA18-RIPE",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "MNT-EXNESS",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NB6878-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ORG-EL340-RIPE",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RIPE-DB-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RIPE-NCC-END-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "EA2018",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Exness Abuse Team"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1504 B, 363 Queen Street, Auckland, New Zealand"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "abuse@exness.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@exness.com"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "AN30806-RIPE",
+                    "roles": [
+                        "administrative"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "MNT-EXNESS",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NB6878-RIPE",
+                    "roles": [
+                        "administrative",
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/193.194.118.55",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/193.194.118.55"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2019-07-25T08:50:44Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/193.194.118.55",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

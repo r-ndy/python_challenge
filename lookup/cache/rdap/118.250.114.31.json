@@ -1,0 +1,338 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/118.250.114.31",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-05-04T00:10:32Z"
+        }
+    ],
+    "name": "CHINANET-HN",
+    "remarks": [
+        {
+            "description": [
+                "CHINANET Hunan province network",
+                "China Telecom",
+                "No.31,jingrong street",
+                "Beijing 100032"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "service provider",
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/118.250.114.31",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/118.248.0.0/13",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/118.250.114.31",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/118.248.0.0%2F13?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "118.248.0.0",
+    "ipVersion": "v4",
+    "endAddress": "118.255.255.255",
+    "objectClassName": "ip network",
+    "handle": "118.248.0.0 - 118.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-02-27T03:37:38Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/118.250.114.31",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CH93-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Chinanet Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.31 ,jingrong street,beijing\n100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-58501724"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-58501724"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CH93-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-11-15T00:31:55Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/118.250.114.31",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CHINANET-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CHINANET-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.31 ,jingrong street,beijing\n100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CHINANET-CN"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-02T13:36:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam reports to 13348615181@189.cn",
+                        "and abuse reports to 13348615181@189.cn",
+                        "Please include detailed information and",
+                        "times in UTC"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/118.250.114.31",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CH636-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CHINANET HUNAN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.1 TuanJie road,ChangSha,Hunan 410005"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86 731 4792092"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86 731 4792007"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "13348615181@189.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CH636-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "118.248.0.0",
+            "length": 13
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

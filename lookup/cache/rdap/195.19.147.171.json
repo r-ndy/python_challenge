@@ -1,0 +1,201 @@
+{
+    "handle": "195.19.147.0 - 195.19.147.255",
+    "startAddress": "195.19.147.0",
+    "endAddress": "195.19.147.255",
+    "ipVersion": "v4",
+    "name": "PROMECOL",
+    "type": "ASSIGNED PA",
+    "country": "RU",
+    "parentHandle": "195.19.27.0 - 195.19.255.255",
+    "entities": [
+        {
+            "handle": "AI1073-RIPE",
+            "roles": [
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ROSNIIROS-MNT",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "SA494-RIPE",
+            "roles": [
+                "administrative"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RR-ORG",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ROSNIIROS Registry"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Autonomous Nonprofit Organisation \"Russian Scientific-Research Institute for Public Networks\"\n1, Kurchatov sq\nMoscow"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+74991943031"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+74991964984"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "ip-reg@ripn.su"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "ip-reg@ripn.su"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "EGK46-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KI1811-RIPE",
+                    "roles": [
+                        "administrative"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ROSNIIROS-MNT",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "YVG1-RIPE",
+                    "roles": [
+                        "technical"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "Institute of Promishlennoj Ecologii",
+                "Ural Department of RAS"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/195.19.147.171",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/195.19.147.171"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2006-11-09T15:19:21Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/195.19.147.171",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

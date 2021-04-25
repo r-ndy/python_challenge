@@ -1,0 +1,367 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-104-108-0-0-1",
+    "startAddress": "104.108.0.0",
+    "endAddress": "104.108.15.255",
+    "ipVersion": "v4",
+    "name": "AIBV",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-104-64-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-06-30T08:29:42-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2016-06-30T08:29:41-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/104.108.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-104-108-0-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/104.64.0.0/10"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "AIB-17",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Akamai International, BV"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Prins Bernhardplein 200\nAmsterdam\n\n1097 JB\nNetherlands"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/AIB-17"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/AIB-17"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-12-14T16:58:11-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-09-19T08:46:23-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "AIBVH-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Prins Bernhardplein 200\nAmsterdam\n\n1097 JB\nNetherlands"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "AIBV Hostmaster"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "AIBV Hostmaster"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ip-admin@akamai.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1.617.444.4699"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/AIBVH-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/AIBVH-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-14T08:52:46-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-09-19T08:46:23-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NUS-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "8 Cambridge Center\r\nMailstop 926-G\nCambridge\nMA\n02142\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "NOC United States"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "NOC United States"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@akamai.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-617-444-2535"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2018-03-07"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NUS-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/104.108.5.162",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NUS-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2017-03-07T12:49:03-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-11-18T12:58:03-05:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "104.108.0.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

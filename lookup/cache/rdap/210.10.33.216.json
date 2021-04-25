@@ -1,0 +1,251 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/210.10.33.216",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-05-12T03:38:10Z"
+        }
+    ],
+    "name": "AAPT",
+    "remarks": [
+        {
+            "description": [
+                "AAPT Limited",
+                "180-188 Burnley Street",
+                "Richmond VIC 3121"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "Send email about security incidents to",
+                "security@connect.com.au",
+                "Send email about UBE to abuse1@aapt.com.au"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/210.10.33.216",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/210.8.0.0/14",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/210.10.33.216",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/210.8.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "210.8.0.0",
+    "ipVersion": "v4",
+    "endAddress": "210.11.255.255",
+    "objectClassName": "ip network",
+    "handle": "210.8.0.0 - 210.11.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-11-19T18:08:36Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "ipnoc@aapt.com.au was validated on 2020-10-30",
+                        "abuse1@aapt.com.au was validated on 2020-11-19"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/210.10.33.216",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-AAPT-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-AAPT-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "AAPT Limited\n30 Ross St\nGlebe NSW 2037"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61282644660"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipnoc@aapt.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse1@aapt.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-AAPT-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-06-29T07:36:30Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/210.10.33.216",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ANO2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "AAPT Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "AAPT Limited\n30 Ross St\nGlebe NSW 2037"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61282644660"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "routing@aapt.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ANO2-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "210.8.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

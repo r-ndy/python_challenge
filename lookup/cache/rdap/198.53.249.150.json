@@ -1,0 +1,535 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-198-53-248-0-1",
+    "startAddress": "198.53.248.0",
+    "endAddress": "198.53.251.255",
+    "ipVersion": "v4",
+    "name": "TELUS-HSIA-OKTKAB2",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-198-53-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-05T10:26:00-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2020-10-05T10:26:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/198.53.248.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-198-53-248-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/198.53.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C07654200",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TELUS-HSIA-OKTKAB02"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "409 CENTRE AVENUE\nOKOTOKS\nAB\nT1S 1G5\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C07654200"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C07654200"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-10-05T10:25:59-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-10-05T10:25:59-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "TACE",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "TELUS Communications Inc."
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "10 - 3777 Kingsway\nBurnaby\nBC\nV5H-3Z7\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/TACE"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/TACE"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-10-09T18:00:03-04:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "TBOTP-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "3777 Kingsway - Floor 9S\nBurnaby\nBC\nV5H 3Z7\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "TELUS BC ORG TECH POC"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "TELUS BC ORG TECH POC"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "IPadmin@telus.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-877-310-8324"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/TBOTP-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/TBOTP-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-09-24T12:07:52-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-08-24T08:00:54-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ZT93-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "3777 Kingsway - Floor 9S\nBurnaby\nBC\nV5H 3Z7\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Hostmaster"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Hostmaster"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@telus.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-877-310-8324"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "Abuse contact is abuse@telus.com 780-945-8220"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ZT93-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ZT93-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-09-24T11:33:52-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2001-11-02T10:49:57-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "AAT-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "10th Floor 10020 100 Street NW\nEdmonton\nAB\nT5J-0N5\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Abuse at TELUS"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Abuse at TELUS"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@telus.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-877-945-8220"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/AAT-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/198.53.249.150",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/AAT-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-03-31T12:42:35-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-08-24T07:58:50-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "198.53.248.0",
+            "length": 22
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

@@ -1,0 +1,288 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-47-53-0-0-2",
+    "startAddress": "47.53.0.0",
+    "endAddress": "47.53.255.255",
+    "ipVersion": "v4",
+    "name": "VODAFONE-ITALY-CUSTOMERS",
+    "type": "ALLOCATION",
+    "parentHandle": "NET-47-53-0-0-1",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "For any abuse or spamming issue, please send an email to: italy.abuse@mail.vodafone.it For any communication about ARIN objects registration, please send an email to: IP-ASSIGN@mail.vodafone.it"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-01-07T08:46:36-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2013-05-20T09:39:31-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/47.53.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-47-53-0-0-2"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/47.53.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "VON-3",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "VODAFONE OMNITEL N.V."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Via Jervis, 13\nIvrea.Turin\nTO\n10015\nItaly"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VON-3"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/VON-3"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-05-20T07:44:23-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-05-20T07:44:23-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "IAVI-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Via Jervis, 13\nIvrea\n\n\nItaly"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IP admin Vodafone Italy"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "IP admin Vodafone Italy"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "IP-ASSIGN@mail.vodafone.it"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+39 0125 624624"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "abuse",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "For any abuse or spamming issue please send an email to italy.abuse@mail.vodafone.it\r",
+                                "For any communication about ARIN objects registration\r",
+                                "please send an email to:\r",
+                                "IP-ASSIGN@mail.vodafone.it"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/IAVI-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.53.198.225",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/IAVI-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-04-27T03:07:01-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2012-06-21T03:47:56-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "47.53.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": [
+        30722,
+        44957
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "handle": "194.142.168.128 - 194.142.168.191",
+    "startAddress": "194.142.168.128",
+    "endAddress": "194.142.168.191",
+    "ipVersion": "v4",
+    "name": "JJ-LAKKAPAA-NET",
+    "type": "ASSIGNED PA",
+    "country": "FI",
+    "parentHandle": "194.142.0.0 - 194.142.255.255",
+    "entities": [
+        {
+            "handle": "DATANET-NOC",
+            "roles": [
+                "registrant"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KE2347-RIPE",
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "RSF6-RIPE",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Registry Telia Finland"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Telia Finland Oyj\nHatanpaankatu 1\n33900 TAMPERE\nFinland"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+358 2040 1"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+358 2040 72598"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "email"
+                        },
+                        "text",
+                        "lir@telia.fi"
+                    ],
+                    [
+                        "email",
+                        {
+                            "type": "abuse"
+                        },
+                        "text",
+                        "abuse@sonera.net"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "entities": [
+                {
+                    "handle": "DATANET-NOC",
+                    "roles": [
+                        "registrant"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "NIKI1-RIPE",
+                    "roles": [
+                        "administrative"
+                    ],
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "PL841-RIPE",
+                    "roles": [
+                        "administrative"
+                    ],
+                    "objectClassName": "entity"
+                }
+            ],
+            "objectClassName": "entity"
+        }
+    ],
+    "remarks": [
+        {
+            "description": [
+                "J&J Lakkap\u00e4\u00e4 Oy",
+                "Ylitornio"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.db.ripe.net/ip/194.142.168.152",
+            "rel": "self",
+            "href": "https://rdap.db.ripe.net/ip/194.142.168.152"
+        },
+        {
+            "value": "http://www.ripe.net/data-tools/support/documentation/terms",
+            "rel": "copyright",
+            "href": "http://www.ripe.net/data-tools/support/documentation/terms"
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-10-18T06:25:46Z"
+        }
+    ],
+    "rdapConformance": [
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Filtered",
+            "description": [
+                "This output has been filtered."
+            ]
+        },
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "RIPE"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the RIPE Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.db.ripe.net/ip/194.142.168.152",
+                    "rel": "terms-of-service",
+                    "href": "http://www.ripe.net/db/support/db-terms-conditions.pdf",
+                    "type": "application/pdf"
+                }
+            ]
+        }
+    ],
+    "port43": "whois.ripe.net",
+    "objectClassName": "ip network"
+}

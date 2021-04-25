@@ -1,0 +1,277 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-156-72-0-0-1",
+    "startAddress": "156.72.0.0",
+    "endAddress": "156.72.255.255",
+    "ipVersion": "v4",
+    "name": "SJHS",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-156-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2009-12-02T13:16:39-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1991-12-19T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/156.72.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-156-72-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "STJOS-7",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "St. Joseph Health System"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "3345 Michelson Dr #100\nIrvine\nCA\n92612\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/STJOS-7"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/STJOS-7"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-06T18:17:15-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2009-08-27T10:52:25-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NSS11-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1515 E. Orangewood ave.\nAnaheim\nCA\n92805\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Services and Support"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Services and Support"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "craig.robbins@providence.org"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "noc@stjoe.org"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-503-902-9068"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-714-296-3574"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "abuse",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NSS11-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/156.72.240.250",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NSS11-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-11-06T15:10:48-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2009-08-24T17:30:10-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "156.72.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

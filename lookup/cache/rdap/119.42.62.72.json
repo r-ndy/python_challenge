@@ -1,0 +1,245 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.42.62.72",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "HK",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-06-24T01:36:40Z"
+        }
+    ],
+    "name": "SERVERS-HK",
+    "remarks": [
+        {
+            "description": [
+                "RMS 05-15, 13A/F South Tower",
+                "World Finance CTR Harbour City",
+                "17 Canton Rd TST KLN"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/119.42.62.72",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/119.42.60.0/22",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/119.42.62.72",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/119.42.60.0%2F22?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "119.42.60.0",
+    "ipVersion": "v4",
+    "endAddress": "119.42.63.255",
+    "objectClassName": "ip network",
+    "handle": "119.42.60.0 - 119.42.63.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-07-22T04:36:12Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.42.62.72",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/SAA17-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Servers.com Asia Administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "RMS 05-15, 13A/F South Tower, World Finance CTR Harbour City, 17 Canton Rd TST KLN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+6567429698"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apnic@servers.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "SAA17-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-30T05:48:03Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@servers.com was validated on 2020-12-30",
+                        "apnic@servers.com was validated on 2020-12-30"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.42.62.72",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-SERVERS-HK",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-SERVERS-HK"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "RMS 05-15, 13A/F South Tower, World Finance CTR Harbour City, 17 Canton Rd TST KLN"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apnic@servers.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@servers.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-SERVERS-HK"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "119.42.60.0",
+            "length": 22
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

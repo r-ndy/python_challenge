@@ -1,0 +1,250 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.40.240.181",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-25T13:17:02Z"
+        }
+    ],
+    "name": "PMC-AU",
+    "remarks": [
+        {
+            "description": [
+                "Department of the Prime Minister and Cabinet"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/158.40.240.181",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/158.40.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/158.40.240.181",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/158.40.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "158.40.0.0",
+    "endAddress": "158.40.255.255",
+    "objectClassName": "ip network",
+    "handle": "158.40.0.0 - 158.40.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-25T13:17:00Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "matthew.henry@pmc.gov.au was validated on 2021-01-06"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.40.240.181",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-PMC2-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-PMC2-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Andrew Fisher Building\n1 National Circuit\nBarton ACT 2600"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 6271 5111"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "matthew.henry@pmc.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "matthew.henry@pmc.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-PMC2-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-25T07:08:54Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.40.240.181",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/DOTP2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Department of the Prime Minister and Cabinet administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Andrew Fisher Building\n1 National Circuit\nBarton ACT 2600"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 3 9840 6677"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "matthew.henry@pmc.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "DOTP2-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "158.40.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

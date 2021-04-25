@@ -1,0 +1,393 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-135-197-0-0-1",
+    "startAddress": "135.197.0.0",
+    "endAddress": "135.208.255.255",
+    "ipVersion": "v4",
+    "name": "ATT-135-197-219-B",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-135-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-02T10:31:36-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1996-04-30T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/135.197.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-135-197-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "ATTSE-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "AT&T Services, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Enterprise IP Group\r\nc/o Ed Williams\r\n240 N Meridian Street\r\nRoom 280\nIndianapolis\nIN\n46204\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "http://www.att.com"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ATTSE-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/ATTSE-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-12-10T09:26:57-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2009-01-30T14:51:24-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "ABUSE7-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2701 W 15th ST\nPlano\nTX\n75075\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "abuse"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "abuse"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@att.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-919-319-8167"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Contact abuse@att.net for all policy abuse issues."
+                            ]
+                        },
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2019-03-08"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ABUSE7-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ABUSE7-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-03-08T11:51:58-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-08-24T08:22:47-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "WILLI576-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "240 N Meridian St.\nIndianapolis\nIN\n46204\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Ed Williams"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Williams",
+                                    "Ed",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ew2497@att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-317-265-8902"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/WILLI576-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/135.202.52.146",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/WILLI576-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-28T08:05:19-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-12-10T08:27:10-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "135.197.0.0",
+            "length": 16
+        },
+        {
+            "v4prefix": "135.198.0.0",
+            "length": 15
+        },
+        {
+            "v4prefix": "135.200.0.0",
+            "length": 13
+        },
+        {
+            "v4prefix": "135.208.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

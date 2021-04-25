@@ -1,0 +1,382 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-216-235-208-0-1",
+    "startAddress": "216.235.208.0",
+    "endAddress": "216.235.223.255",
+    "ipVersion": "v4",
+    "name": "INTERNET-URSI",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-216-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-06-11T14:06:25-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1999-09-22T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/216.235.208.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-216-235-208-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "URS-1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "United Recovery Systems, LP"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "5800 North Course Dr\nHouston\nTX\n77072\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/URS-1"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/URS-1"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-06-11T14:07:35-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1999-09-22T00:00:00-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NETWO8574-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "5800 North Course Drive\nHouston\nTX\n77072\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Networking Department"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Networking Department"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ITReg@ursi.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-713-458-4916"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "abuse",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Http://www.alltran.com",
+                                "Contact hours: Mon - Fri  8am thru 5PM CST"
+                            ]
+                        },
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2019-06-11"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NETWO8574-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NETWO8574-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-06-11T13:50:59-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2018-06-11T13:50:59-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NETWO8574-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "5800 North Course Drive\nHouston\nTX\n77072\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Networking Department"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Networking Department"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ITReg@ursi.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-713-458-4916"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical",
+                "abuse"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "Http://www.alltran.com",
+                        "Contact hours: Mon - Fri  8am thru 5PM CST"
+                    ]
+                },
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2019-06-11"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NETWO8574-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/216.235.211.155",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NETWO8574-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-06-11T13:50:59-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-06-11T13:50:59-04:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "216.235.208.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

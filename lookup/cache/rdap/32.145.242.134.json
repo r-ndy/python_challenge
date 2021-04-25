@@ -1,0 +1,938 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-32-0-0-0-1",
+    "startAddress": "32.0.0.0",
+    "endAddress": "32.207.255.255",
+    "ipVersion": "v4",
+    "name": "ATT-32-0-0-0-A",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-32-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-02-11T14:29:45-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1990-05-30T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/32.0.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-32-0-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "ATGS",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "AT&T Global Network Services, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "3200 Lake Emma Road\nLake Mary\nFL\n32746\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ATGS"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/ATGS"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-05T10:24:46-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NETWO10-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "5732 Pacific Center Blvd\nSan Diego\nCA\n92121\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Provisioning"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Provisioning"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ARINMAINT@list.att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "rm-mhops-ap@intl.att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-877-789-2877"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NETWO10-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NETWO10-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-04-22T07:29:47-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-09-04T11:06:45-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "DRU40-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Rautistr. 75\nZurich\nZH\n8048\nSwitzerland"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Daniel Rueegg"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Rueegg",
+                                    "Daniel",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "daniel.rueegg@intl.att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "dr6348@att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+41 1 4957899;ext899"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "routing",
+                        "noc"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DRU40-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DRU40-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-10-22T11:13:21-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2007-07-30T08:00:06-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "YANLI5-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "200 S Laurel Ave Bldg A, Room A3-1G24\nMiddletown\nNJ\n07748\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Li  Yan"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Yan",
+                                    "Li ",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ly6264@att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-732-420-9441"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/YANLI5-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/YANLI5-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-21T15:53:14-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-07-21T15:53:14-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "LEITM2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Tomasikova 64\nBratislava\n\n831 04 \nSlovakia"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Lucia Leitmanova"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Leitmanova",
+                                    "Lucia",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "rm-ip_allocator@intl.att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+421 2 332 25571  "
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "routing",
+                        "noc"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/LEITM2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/LEITM2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-15T05:21:21-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2021-02-15T05:21:21-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ATTAB-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "400 Interpace Parkway\nParsippany\nNJ\n07054\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "ATT Abuse"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "ATT Abuse"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@att.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-919-319-8130"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2011-06-25"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ATTAB-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ATTAB-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2010-06-25T08:45:31-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-09-24T15:36:27-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ICC-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "200 S. Laurel AVE\nMIDDLETOWN\nNJ\n07748\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IP Team"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "IP Team"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "rm-ipspecialist@att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "bm870e@intl.att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "sj110j@intl.att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jb1849@att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "rs5219@intl.att.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "bs712s@intl.att.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-888-613-6330;ext2-1"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Contact AT&T Abuse (abuse@att.net) for policy",
+                                "issues.",
+                                "All policy abuse issues sent to other POCs will be",
+                                "disregarded."
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ICC-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ICC-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-12T13:11:39-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-09-24T15:36:27-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "IAA17-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Room C3-3A28\n200 S Laurel Ave\nMiddletown\nNJ\n07748\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Address Administration"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "IP Address Administration"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "addrmgt@qsun.att.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-732-420-2071"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "Contact AT&T Abuse (abuse@att.net) for policy",
+                        "abuse issues.",
+                        "All policy abuse issues sent to other POCs will be",
+                        "disregarded."
+                    ]
+                },
+                {
+                    "title": "Unvalidated POC",
+                    "description": [
+                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2016-10-27"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/IAA17-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/32.145.242.134",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/IAA17-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-10-28T16:27:13-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2007-05-18T11:06:06-04:00"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "32.0.0.0",
+            "length": 9
+        },
+        {
+            "v4prefix": "32.128.0.0",
+            "length": 10
+        },
+        {
+            "v4prefix": "32.192.0.0",
+            "length": 12
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

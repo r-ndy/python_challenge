@@ -1,0 +1,278 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-150-105-0-0-1",
+    "startAddress": "150.105.0.0",
+    "endAddress": "150.105.255.255",
+    "ipVersion": "v4",
+    "name": "OPENTEXT-NET-GXS",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-150-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-06-03T15:05:14-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1991-06-04T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/150.105.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-150-105-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "OTC-68",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Open Text Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "275 Frank Tompa Drive\nWaterloo\nON\nN2L 0A1\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "https://www.opentext.com"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/OTC-68"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/OTC-68"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-12-17T15:42:47-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-12-17T15:42:47-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "DA16-ORG-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "275 Frank Tompa Drive\nWaterloo\nON\nN2L-0A1\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Open Text Corporation"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Open Text Corporation"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "dns@opentext.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jbarbosa@opentext.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-519-888-7111"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "noc",
+                        "technical",
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DA16-ORG-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/150.105.102.248",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DA16-ORG-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-03-19T13:20:36-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1999-02-26T18:04:52-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "150.105.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": [
+        26704,
+        27458
+    ]
+}

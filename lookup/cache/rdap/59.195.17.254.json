@@ -1,0 +1,324 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.195.17.254",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2013-07-29T01:10:01Z"
+        }
+    ],
+    "name": "eGovNet",
+    "remarks": [
+        {
+            "description": [
+                "China eGovNet Information Center",
+                "Xicheng District ,Beijing, P.R. China"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/59.195.17.254",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/59.192.0.0/10",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/59.195.17.254",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/59.192.0.0%2F10?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "59.192.0.0",
+    "endAddress": "59.255.255.255",
+    "objectClassName": "ip network",
+    "handle": "59.192.0.0 - 59.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:24Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.195.17.254",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CW532-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Changsheng Wang"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Xicheng District ,Beijing, P.R. China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-010- 68558931"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-010- 68557542"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ningjj@cei.gov.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CW532-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-01T08:57:39Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that CNNIC is not an ISP and is not",
+                        "empowered to investigate complaints of network abuse.",
+                        "Please contact the tech-c or admin-c of the network."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.195.17.254",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CNNIC-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CNNIC-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Beijing, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipas@cnnic.cn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ipas@cnnic.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CNNIC-CN"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:46:58Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.195.17.254",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CX522-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Chunxue Xu"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Xicheng District ,Beijing, P.R. China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-010-68557516"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-010-68557542"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yxc02@cei.gov.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CX522-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "59.192.0.0",
+            "length": 10
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

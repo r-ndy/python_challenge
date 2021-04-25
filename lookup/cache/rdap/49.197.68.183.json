@@ -1,0 +1,263 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.197.68.183",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-15T01:45:04Z"
+        }
+    ],
+    "name": "OPTUSINTERNET-AU",
+    "remarks": [
+        {
+            "description": [
+                "Optus Internet Pty Ltd",
+                "Building A, 2nd Floor",
+                "1 Lyonpark Road"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/49.197.68.183",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/49.192.0.0/13",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/49.197.68.183",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/49.192.0.0%2F13?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "49.192.0.0",
+    "endAddress": "49.199.255.255",
+    "objectClassName": "ip network",
+    "handle": "49.192.0.0 - 49.199.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2012-09-25T01:42:42Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam/abuse reports to abuse@optus.net.au",
+                        "please use http://wq.apnic.net/apnic-bin/whois.pl",
+                        "to identify networks before sending reports and",
+                        "always include full headers/logs."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.197.68.183",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/OI3-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Optus Internet"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1 Lyonpark Rd.\nMacquarie Park, NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61-2-8082 7800"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61-2-8082 7100"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipadmin@optus.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "OI3-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-30T01:44:55Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@optus.net.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.197.68.183",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-OPTUSINTERNET-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-OPTUSINTERNET-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1 Lyonpark Rd.\nMacquarie Park, NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@optus.net.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@optus.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-OPTUSINTERNET-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "49.192.0.0",
+            "length": 13
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,279 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "KRNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from KRNIC. To obtain more specific information, please use the KRNIC whois server at whois.kisa.or.kr."
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "KR",
+    "name": "KHUNET-KR",
+    "remarks": [
+        {
+            "description": [
+                "Kyung Hee University"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+            "rel": "self",
+            "href": "https://krnic.rdap.apnic.net/ip/163.180.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/163.180.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "163.180.0.0",
+    "endAddress": "163.180.255.255",
+    "ipVersion": "v4",
+    "objectClassName": "ip network",
+    "handle": "163.180.0.0 - 163.180.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-19T07:36:36Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IRT-KRNIC-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-KRNIC-KR"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Seocho-ro 398, Seocho-gu, Seoul, Korea"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-KRNIC-KR"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/YC169-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gyeonggi-do Giheung-gu, Yongin-si Deogyeong-daero 1732\nGlobal Campus, Kyunghee Univ."
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-31-201-3161"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "it@khu.ac.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "YC169-KR"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/163.180.185.36",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/JL169-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gyeonggi-do Giheung-gu, Yongin-si Deogyeong-daero 1732\nGlobal Campus, Kyunghee Univ."
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-31-201-3161"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "it@khu.ac.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JL169-KR"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "163.180.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

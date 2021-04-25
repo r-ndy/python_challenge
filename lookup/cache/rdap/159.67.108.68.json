@@ -1,0 +1,374 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-159-67-0-0-1",
+    "startAddress": "159.67.0.0",
+    "endAddress": "159.67.255.255",
+    "ipVersion": "v4",
+    "name": "NCNTA",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-159-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-04-02T10:31:36-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1992-03-13T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/159.67.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-159-67-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "VERIZ-557-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Verizon Data Services LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "7701 East Telecom Parkway\nMail Code B3E\nTemple Terrace\nFL\n33637\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VERIZ-557-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/VERIZ-557-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-05-06T12:51:31-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2009-10-26T16:49:20-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "VAT1-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "7701 East Telecom Parkway\nMail Code B3E\nTemple Terrace\nFL\n33637\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "VDSLLC ARIN TEAM"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "VDSLLC ARIN TEAM"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "vdsllc-arin-team@verizon.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "IPMGMT@verizon.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-972-507-1472"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "abuse",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2017-12-07"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/VAT1-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/VAT1-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2016-12-07T14:19:05-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2008-10-02T13:12:14-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "VIS1-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1880 Campus Commons Dr\nReston\nVA\n20191\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Verizon Internet Services"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Verizon Internet Services"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "stephen.r.middleton@verizon.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "IPMGMT@verizon.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "800-243-6994"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/VIS1-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/159.67.108.68",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/VIS1-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-27T11:28:11-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-11-06T17:57:04-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "159.67.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

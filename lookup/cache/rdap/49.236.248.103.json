@@ -1,0 +1,251 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.236.248.103",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-08T04:21:25Z"
+        }
+    ],
+    "name": "CCLOUD-AU",
+    "remarks": [
+        {
+            "description": [
+                "Comwire Cloud Pty Ltd",
+                "15b Richard Street"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/49.236.248.103",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/49.236.240.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/49.236.248.103",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/49.236.240.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "49.236.240.0",
+    "ipVersion": "v4",
+    "endAddress": "49.236.255.255",
+    "objectClassName": "ip network",
+    "handle": "49.236.240.0 - 49.236.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-23T04:33:22Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.236.248.103",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CCPL6-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Comwire Cloud Pty Ltd administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "15b Richard Street, Hindmarsh South Australia 5007"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61-8-8297-1880"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61-8-8297-1880"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@hostexpress.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CCPL6-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-23T04:21:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@hostexpress.com.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.236.248.103",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CCLOUD-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CCLOUD-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "15b Richard Street, Hindmarsh South Australia 5007"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@hostexpress.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@hostexpress.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CCLOUD-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "49.236.240.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

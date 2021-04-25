@@ -1,0 +1,744 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-164-113-0-0-1",
+    "startAddress": "164.113.0.0",
+    "endAddress": "164.113.255.255",
+    "ipVersion": "v4",
+    "name": "KANREN",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-164-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-04T08:34:39-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1993-02-24T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/164.113.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-164-113-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "KREN-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Kansas Research and Education Network"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/KREN-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/KREN-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-27T10:09:56-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-04-28T10:13:01-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NETAD8-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Administration"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Administration"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "bdfleming@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "netadm@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jlsorrels@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "crussell@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "cort@kanren.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-785-856-9820"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "KanREN Network Operations Center, Network Administration"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NETAD8-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NETAD8-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-10-31T18:08:16-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-12-06T17:45:29-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KANRE-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "KanREN-Administrative"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "KanREN-Administrative"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "cort@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ermcdiffett@kanren.net"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "jjeffers@kanren.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-785-856-9800"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "cell"
+                                    ]
+                                },
+                                "text",
+                                "+1-785-865-7206"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "KanREN Organizational Management (Administrative)"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KANRE-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KANRE-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-11-01T13:04:01-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-12-13T14:45:04-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "KAT10-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "KanREN Abuse Team"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "KanREN Abuse Team"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "kr-abuse@kanren.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-785-856-9820"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/KAT10-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/KAT10-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-11-13T15:09:24-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-07-07T15:37:58-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NETAD8-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Administration"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Network Administration"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "bdfleming@kanren.net"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "netadm@kanren.net"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jlsorrels@kanren.net"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "crussell@kanren.net"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "cort@kanren.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-785-856-9820"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical",
+                "noc"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "KanREN Network Operations Center, Network Administration"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NETAD8-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NETAD8-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-10-31T18:08:16-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2002-12-06T17:45:29-05:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "KAT10-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PO Box 442167\nLawrence\nKS\n66044\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "KanREN Abuse Team"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "KanREN Abuse Team"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kr-abuse@kanren.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-785-856-9820"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/KAT10-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/164.113.193.211",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/KAT10-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-11-13T15:09:24-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2011-07-07T15:37:58-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "164.113.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": [
+        2495
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.52.112.235",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-12-09T23:12:10Z"
+        }
+    ],
+    "name": "TELSTRAINTERNET4-AU",
+    "remarks": [
+        {
+            "description": [
+                "Telstra Internet",
+                "Locked Bag 5744",
+                "Canberra",
+                "ACT 2601"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "-----",
+                "All reports regarding SPAM or security breaches",
+                "should be addressed to abuse@telstra.net",
+                "------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/203.52.112.235",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/203.52.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/203.52.112.235",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.52.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "203.52.0.0",
+    "endAddress": "203.53.255.255",
+    "objectClassName": "ip network",
+    "handle": "203.52.0.0 - 203.53.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-01T19:09:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@telstra.net was validated on 2020-12-01"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.52.112.235",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TELSTRA-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TELSTRA-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Telstra Internet"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@telstra.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@telstra.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TELSTRA-AU"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-10-30T03:42:28Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Telstra Internet Address Registry Role Object"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.52.112.235",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TIAR-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telstra Internet Address Registry"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Telstra Internet\nLocked Bag 5744\nCanberra\nACT 2601"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 000000000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "addressing@telstra.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TIAR-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-01T01:22:05Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.52.112.235",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TAN2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Telstra AU NOC"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Telstra Internet\n242 Exhibition Street\nMelbourne\nVIC 3000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 0 0000 0000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipnoc-au@team.telstra.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TAN2-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "203.52.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,254 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/218.65.1.2",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:50:40Z"
+        }
+    ],
+    "name": "CHINANET-JX",
+    "remarks": [
+        {
+            "description": [
+                "CHINANET jiangxi province network",
+                "China Telecom",
+                "No.31,jingrong street",
+                "Beijing 100032"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/218.65.1.2",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/218.64.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/218.65.1.2",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/218.64.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/218.65.1.2",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/218.65.0.0%2F17?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "218.64.0.0",
+    "endAddress": "218.65.127.255",
+    "objectClassName": "ip network",
+    "handle": "218.64.0.0 - 218.65.127.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-02-27T03:37:38Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/218.65.1.2",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CH93-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Chinanet Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.31 ,jingrong street,beijing\n100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-58501724"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-58501724"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CH93-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-04-02T08:23:08Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam reports to 56561125@qq.com",
+                        "and abuse reports to 56561125@qq.com",
+                        "http://www.online.jx.cn"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/218.65.1.2",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/JN113-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "JXDCB NET"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Jiangxi telecom network operation support department\nNo.2009, Beijing East Road , nanchang\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u00af\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00bc\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u008cjiangxi province"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86 79186600000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "56561125@qq.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JN113-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "218.64.0.0",
+            "length": 16
+        },
+        {
+            "v4prefix": "218.65.0.0",
+            "length": 17
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

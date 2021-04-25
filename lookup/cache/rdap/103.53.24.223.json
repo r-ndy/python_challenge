@@ -1,0 +1,241 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.53.24.223",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AF",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-19T22:59:39Z"
+        }
+    ],
+    "name": "NORTHTELECOM",
+    "remarks": [
+        {
+            "description": [
+                "Daikundi"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.53.24.223",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.53.24.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.53.24.223",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.53.24.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "103.53.24.0",
+    "ipVersion": "v4",
+    "endAddress": "103.53.24.255",
+    "objectClassName": "ip network",
+    "handle": "103.53.24.0 - 103.53.24.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-04-01T10:23:32Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.53.24.223",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NTA7-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "North Telecom administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "OFFICE: 121, Esmat Muslim Ally, Shahre Naw, Kabul Afghanistan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+93788788150"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+93788788150"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@northtelecom.af"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NTA7-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-04-15T10:40:15Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "massih@northtelecom.af was validated on 2021-04-15",
+                        "noc@northtelecom.af was validated on 2021-04-15"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.53.24.223",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-NORTHTELECOM-AF",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-NORTHTELECOM-AF"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Charahe Gul e Sorkh, Opposite of Salam University\nNorthtelecom Tower, Section-1 Kabul, Afghanistan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "massih@northtelecom.af"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "noc@northtelecom.af"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-NORTHTELECOM-AF"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.53.24.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

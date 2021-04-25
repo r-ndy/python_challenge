@@ -1,0 +1,243 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.221.8.229",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "name": "TPG",
+    "remarks": [
+        {
+            "description": [
+                ""
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/203.221.8.229",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/203.221.8.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/203.221.8.229",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.221.8.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "203.221.8.0",
+    "ipVersion": "v4",
+    "endAddress": "203.221.8.255",
+    "objectClassName": "ip network",
+    "handle": "203.221.8.0 - 203.221.8.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-03T02:12:15Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@tpg.com.au was validated on 2020-12-03"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.221.8.229",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TPGCOM-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TPGCOM-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "TPG Internet Pty Ltd.\n(Part of the Total Peripherals Group)\n65 Waterloo Road\nNorth Ryde NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@tpg.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@tpg.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TPGCOM-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-12T01:16:13Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Administrator for TPG Internet Network Operations",
+                        "Send all spam and abuse reports to abuse@tpg.com.au"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.221.8.229",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TPG2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TPG Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "65 Waterloo Road\nNorth Ryde NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 9850 0800"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 2 9850 0817"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipnoc@tpgtelecom.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TPG2-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "203.221.8.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

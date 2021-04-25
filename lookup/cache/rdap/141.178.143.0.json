@@ -1,0 +1,190 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/141.178.143.0",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2011-08-12T01:23:04Z"
+        }
+    ],
+    "name": "MUSASY",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for TOKYOK"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 141.178.0.0 - 141.178.255.255",
+                "netname: MUSASY",
+                "org-id: TOKYOK",
+                "status: assignment",
+                "tech-c: OT2-ARIN",
+                "reg-date: 1991-02-26",
+                "changed: hostmaster@arin.net 19910226",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/141.178.143.0",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/141.178.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/141.178.143.0",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/141.178.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "141.178.0.0",
+    "endAddress": "141.178.255.255",
+    "objectClassName": "ip network",
+    "handle": "141.178.0.0 - 141.178.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-08-12T01:25:14Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: OT2-ARIN",
+                        "is-role: N",
+                        "last-name: Tokikuni",
+                        "first-name: Osamu",
+                        "street: Tokyo-Kougakuin joho-Senmongakkou 5-1-29 Maeharacho Koganei-shi Tokyo 184",
+                        "country: JP",
+                        "bus-phone: +81 423 87 5111",
+                        "reg-date: 1970-01-01",
+                        "changed: hostmaster@arin.poc 19910226",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/141.178.143.0",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/OT11-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Osamu Tokikuni"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Tokyo-Kougakuin joho-Senmongakkou 5-1-29 Maeharacho Koganei-shi Tokyo 184"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81 423 87 5111"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hm-changed@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "OT11-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "141.178.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

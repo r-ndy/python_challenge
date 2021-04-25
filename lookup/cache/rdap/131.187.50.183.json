@@ -1,0 +1,369 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-131-187-0-0-1",
+    "startAddress": "131.187.0.0",
+    "endAddress": "131.187.255.255",
+    "ipVersion": "v4",
+    "name": "OARNET",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-131-0-0-0-0",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "*Rwhois information on assignments from this block available from\r",
+                "* rwhois.oar.net 4321"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-09-18T11:07:39-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1989-01-03T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/131.187.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-131-187-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "OAR-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "OARnet"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1224 Kinnear Road\r\nColumbus\nColumbus\nOH\n43212-1198\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/OAR-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/OAR-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-27T10:09:56-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-01-04T15:43:25-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NOC2069-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1224 Kinnear Rd\nColumbus\nOH\n43212\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Network Operations Center"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Network Operations Center"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "support@oar.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-800-627-6420"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "noc",
+                        "routing",
+                        "dns",
+                        "administrative",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NOC2069-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NOC2069-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-06-05T08:34:04-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2006-03-08T15:24:07-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "NOC2069-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1224 Kinnear Rd\nColumbus\nOH\n43212\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Operations Center"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Network Operations Center"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "support@oar.net"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-800-627-6420"
+                    ]
+                ]
+            ],
+            "roles": [
+                "noc"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/NOC2069-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/131.187.50.183",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/NOC2069-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-06-05T08:34:04-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-03-08T15:24:07-05:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "131.187.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

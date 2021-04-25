@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.8.129.162",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TH",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-11T22:16:56Z"
+        }
+    ],
+    "name": "HHC-NET-103-8-129",
+    "remarks": [
+        {
+            "description": [
+                "HAPPY HOME CABLE TV COMPANY LIMITED"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.8.129.162",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.8.129.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.8.129.162",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.8.129.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "103.8.129.0",
+    "ipVersion": "v4",
+    "endAddress": "103.8.129.255",
+    "objectClassName": "ip network",
+    "handle": "103.8.129.0 - 103.8.129.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-26T22:16:59Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "jonson@htv.co.th is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.8.129.162",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-HAPPY-HOME-CABLE-TH",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-HAPPY-HOME-CABLE-TH"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "988/1 Bann Onnuch Condominium, Onnuch Road (Soi 30-32) SuanLung, Suaniang, Bangkok Bangkok Metropoli"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jonson@htv.co.th"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "jonson@htv.co.th"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-HAPPY-HOME-CABLE-TH"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-09-12T03:53:57Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.8.129.162",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HHCT1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "HAPPY HOME CABLE TV COMPANY LIMITED - network ad"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "988/1 Bann Onnuch Condominium, Onnuch Road (Soi 30-32) SuanLung, Suaniang, Bangkok Bangkok Metropoli"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+66-89-129-6915"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yuanmouc@hotmail.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HHCT1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.8.129.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

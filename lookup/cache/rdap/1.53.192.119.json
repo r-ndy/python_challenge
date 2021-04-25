@@ -1,0 +1,336 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/1.53.192.119",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "VN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-06-30T07:53:46Z"
+        }
+    ],
+    "name": "FPTDYNAMICIP-NET",
+    "remarks": [
+        {
+            "description": [
+                "FPT Telecom Company",
+                "2nd floor FPT Building, Pham Hung Road, Cau Giay District, Hanoi"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "For spamming matters, mail to abuse@fpt.vn"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/1.53.192.119",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/1.53.192.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/1.53.192.119",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/1.53.192.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "1.53.192.0",
+    "ipVersion": "v4",
+    "endAddress": "1.53.207.255",
+    "objectClassName": "ip network",
+    "handle": "1.53.192.0 - 1.53.207.255",
+    "entities": [
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-13T06:48:10Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/1.53.192.119",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NOC21-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Network Operation Center"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "FPT Telecom"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-28-73093388"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+84-28-73008889"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ftel.noc.net@fpt.com.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NOC21-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-08T09:40:06Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/1.53.192.119",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-VNNIC-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-VNNIC-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Ha Noi, VietNam"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-24-35564944"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+84-24-37821462"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hm-changed@vnnic.vn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hm-changed@vnnic.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-VNNIC-AP"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-13T04:26:47Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/1.53.192.119",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TTH19-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Tran Thanh Hai"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "FPT Telecom"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-90-4211450"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+84-24-37262163"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "haitt3@fpt.com.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TTH19-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "1.53.192.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,323 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "IDNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from IDNIC."
+            ],
+            "links": [
+                {
+                    "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "ID",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-06-06T06:20:10Z"
+        }
+    ],
+    "name": "BM-ID",
+    "remarks": [
+        {
+            "description": [
+                "PT. First Media,Tbk",
+                "Broadband Internet Service",
+                "Citra Graha Building 4th Floor",
+                "Jl. Gatot Subroto Kav 35-36",
+                "Jakarta - Indonesia"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "Spam and Abuse send to: abuse@firstmedia.com"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+            "rel": "self",
+            "href": "https://idnic.rdap.apnic.net/ip/139.192.0.0/14",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/139.192.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "139.192.0.0",
+    "ipVersion": "v4",
+    "endAddress": "139.195.255.255",
+    "objectClassName": "ip network",
+    "handle": "139.192.0.0 - 139.195.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:30:20Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+                    "rel": "self",
+                    "href": "https://idnic.rdap.apnic.net/entity/EB26-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Eko Budirahardjo"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Lippo Cyber Park\nJl. Bulevar Gajah Mada No.2088\nLippo Karawaci 100, Tangerang 15811. Indonesia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-55777755"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-5530752"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@link.net.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "EB26-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-13T07:23:43Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+                    "rel": "self",
+                    "href": "https://idnic.rdap.apnic.net/entity/IRT-BM-ID",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-BM-ID"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT. First Media,Tbk\nCitra Graha Building 4th Floor\nJl. Gatot Subroto Kav 35-36\nJakarta - Indonesia, 12950"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@firstmedia.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@firstmedia.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-BM-ID"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2012-08-07T08:30:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://idnic.rdap.apnic.net/ip/139.194.123.218",
+                    "rel": "self",
+                    "href": "https://idnic.rdap.apnic.net/entity/PA170-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Putut Ardiyanto"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Citra Graha Building fl.04\nGatot Subroto Kav. 35-36\nJakarta"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-5278811"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-5278833"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "putut.ardiyanto@linknet.co.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "PA170-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "139.192.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

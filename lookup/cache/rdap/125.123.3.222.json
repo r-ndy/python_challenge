@@ -1,0 +1,260 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/125.123.3.222",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T07:09:54Z"
+        }
+    ],
+    "name": "CHINANET-ZJ-JX",
+    "remarks": [
+        {
+            "description": [
+                "CHINANET-ZJ Jiaxing node network",
+                "Zhejiang Telecom"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/125.123.3.222",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/125.123.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/125.123.3.222",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/125.123.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "125.123.0.0",
+    "ipVersion": "v4",
+    "endAddress": "125.123.255.255",
+    "objectClassName": "ip network",
+    "handle": "125.123.0.0 - 125.123.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-03-27T01:09:38Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam reports to antispam@zjnoc.hz.zj.cn",
+                        "and abuse reports to antispam@zjnoc.hz.zj.cn",
+                        "Please include detailed information and times in UTC"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/125.123.3.222",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CZ4-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CHINANET ZHEJIANG"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-571-86821752"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-571-86988329"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "antispam@zjnoc.hz.zj.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CZ4-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-08-09T07:47:10Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam reports to anti-spam@mail.jxptt.zj.cn",
+                        "and abuse reports to anti-spam@mail.jxptt.zj.cn",
+                        "Please include detailed information and times in UTC"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/125.123.3.222",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CJ55-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CHINANET-ZJ Jiaxing"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.101 Zhongshan Road,Jiaxing,Zhejiang.314001"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-573-2050040"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-573-2079999"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "antispam_jx@zjnoc.hz.zj.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CJ55-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "125.123.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

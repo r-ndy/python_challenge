@@ -1,0 +1,257 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.64.76.55",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:56:25Z"
+        }
+    ],
+    "name": "BITI-CN",
+    "remarks": [
+        {
+            "description": [
+                "~{11>)PEO\"9$3LQ'T:~}",
+                "Beijing Information Technology Institute",
+                "Beijing, Beijing 100101, China"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "conn-id BJ000043",
+                "origin AS4538"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/59.64.76.55",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/59.64.64.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/59.64.76.55",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/59.64.64.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "59.64.64.0",
+    "ipVersion": "v4",
+    "endAddress": "59.64.79.255",
+    "objectClassName": "ip network",
+    "handle": "59.64.64.0 - 59.64.79.255",
+    "entities": [
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-09-03T09:14:12Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@cernet.edu.cn"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.64.76.55",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CER-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CERNET Helpdesk"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "CERNET Center\nBeijing 100084, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-6278-4049"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-6278-5933"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "helpdesk@cernet.edu.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CER-AP"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-12-22T05:41:26Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.64.76.55",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HY215-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Huizhuang Yu"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Network Information Center\nBeijing Information Technology Institute\nBeijing, Beijing 100101, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-64884743"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-64874381"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@biti.edu.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HY215-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "59.64.64.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,272 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-12-236-153-0-1",
+    "startAddress": "12.236.153.0",
+    "endAddress": "12.236.153.7",
+    "ipVersion": "v4",
+    "name": "GATE-GOU847-153-0",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-12-0-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-02-03T03:32:00-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2018-02-03T03:32:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/12.236.153.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-12-236-153-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/12.0.0.0/8"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "GGA-91",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "GATE GOURMENTC-O ASENTINEL"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "18-15 45 NONE\nLONG ISLAND CITY\nNY\n11105\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/GGA-91"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/GGA-91"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-02-03T03:31:55-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-02-03T03:31:55-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "RODDY83-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1880 CAMPUS COMMONS DR\nRESTON\nVA\n20191\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Patrick Roddy"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Roddy",
+                                    "Patrick",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "proddy@gategourmet.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-703-964-2300"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/RODDY83-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/12.236.153.6",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/RODDY83-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-02-03T03:31:53-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2018-02-03T03:31:53-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "12.236.153.0",
+            "length": 29
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

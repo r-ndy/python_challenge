@@ -1,0 +1,282 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/161.43.58.212",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-15T01:44:56Z"
+        }
+    ],
+    "name": "OPTUSNET",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for OCPL"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 161.43.0.0 - 161.43.255.255",
+                "netname: OPTUSNET",
+                "org-id: OCPL",
+                "status: assignment",
+                "tech-c: GW311-ARIN",
+                "reg-date: 1992-05-18",
+                "changed: hostmaster@arin.net 19920518",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/161.43.58.212",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/161.43.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/161.43.58.212",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/161.43.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "161.43.0.0",
+    "ipVersion": "v4",
+    "endAddress": "161.43.255.255",
+    "objectClassName": "ip network",
+    "handle": "161.43.0.0 - 161.43.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-30T01:44:55Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@optus.net.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/161.43.58.212",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-OPTUSCOM-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-OPTUSCOM-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "SingTel Optus Pty Ltd\nOptus Macquarie Park (OCS)\n1 Lyonpark Road\nMacquarie Park NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@optus.net.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@optus.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-OPTUSCOM-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:31:28Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: GW311-ARIN",
+                        "is-role: N",
+                        "last-name: Whelan",
+                        "first-name: Geoff",
+                        "street: OptusNet 25 Atchison St St Leonards, 2065",
+                        "country: AU",
+                        "mailbox: domain@optusnet.com.au",
+                        "fax-phone: 61 2 9439 1760",
+                        "bus-phone: 61 2 1300 301 325",
+                        "reg-date: 1992-05-18",
+                        "changed: hostmaster@arin.poc 20010220",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/161.43.58.212",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/GW51-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Geoff Whelan"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "OptusNet 25 Atchison St St Leonards, 2065"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 1300 301 325"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 2 9439 1760"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "domain@optusnet.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "GW51-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "161.43.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

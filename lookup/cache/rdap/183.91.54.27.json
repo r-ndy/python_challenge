@@ -1,0 +1,233 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/183.91.54.27",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "HK",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-26T21:27:41Z"
+        }
+    ],
+    "name": "CTHKI-HK",
+    "remarks": [
+        {
+            "description": [
+                "Chinatelecom Next Carrying HongKong region network"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/183.91.54.27",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/183.91.52.0/22",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/183.91.54.27",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/183.91.52.0%2F22?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "183.91.52.0",
+    "ipVersion": "v4",
+    "endAddress": "183.91.55.255",
+    "objectClassName": "ip network",
+    "handle": "183.91.52.0 - 183.91.55.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2009-11-24T04:46:50Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/183.91.54.27",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CTHK1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CHINA TELECOM HONG KONGINTERNATIONAL LTD  - netw"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "38/F., DAH SING Financial Center, 108 Gloucester Road, Wan Chai, Hong Kong"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+852 31000000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@chinatelecom.com.hk"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CTHK1-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-17T07:55:54Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "noc@chinatelecomglobal.com",
+                        "noc@chinatelecomglobal.com was validated on 2021-03-17"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/183.91.54.27",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CTHKI-HK",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CTHKI-HK"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "38/F., DAH SING Financial Center, 108 Gloucester Road, Wan Chai, Hong Kong"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "noc@chinatelecomglobal.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "noc@chinatelecomglobal.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CTHKI-HK"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "183.91.52.0",
+            "length": 22
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

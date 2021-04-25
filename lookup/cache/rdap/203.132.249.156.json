@@ -1,0 +1,233 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.132.249.156",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-03-25T03:08:47Z"
+        }
+    ],
+    "name": "VOCUS-AP",
+    "remarks": [
+        {
+            "description": [
+                "VOCUS PTY LTD"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/203.132.249.156",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/203.132.240.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/203.132.249.156",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.132.240.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "203.132.240.0",
+    "endAddress": "203.132.255.255",
+    "objectClassName": "ip network",
+    "handle": "203.132.240.0 - 203.132.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-16T10:53:08Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@vocus.net was validated on 2020-11-04",
+                        "hostmaster@vocus.net was validated on 2020-12-16"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.132.249.156",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-VOCUS-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-VOCUS-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 12, 60 Miller Street\nNorth Sydney NSW AUSTRALIA 2060"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@vocus.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@vocus.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-VOCUS-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-03-22T00:26:46Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.132.249.156",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/VPL1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "VOCUS PTY LTD"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Lvl 12, 60 Miller Street\nNorth Sydney, NSW 2060"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 8999 8999"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@vocus.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "VPL1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "203.132.240.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

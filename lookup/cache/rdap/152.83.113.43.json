@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/152.83.113.43",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-20T00:57:06Z"
+        }
+    ],
+    "name": "CSIRO-HQ-NET",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for CIS-56"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/152.83.113.43",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/152.83.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/152.83.113.43",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/152.83.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "152.83.0.0",
+    "endAddress": "152.83.255.255",
+    "objectClassName": "ip network",
+    "handle": "152.83.0.0 - 152.83.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-05T21:09:13Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@csiro.au was validated on 2021-01-05"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/152.83.113.43",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CSIRO-ACCOUNT-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CSIRO-ACCOUNT-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "CSIRO IMT\nCSIRO Corporate HQ, 40 Clunies Ross St, ACTON ACT 2601\nPO BOX 1700, Canberra ACT 2601"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@csiro.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@csiro.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CSIRO-ACCOUNT-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-06-23T22:39:04Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/152.83.113.43",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/JG651-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "John Gibbins"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "CSIRO Corporate HQ\n40 Clunies Ross St, ACTON ACT 2601\nPO BOX 1700, Canberra  ACT 2601"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 6124 1419"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dns.admin@csiro.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JG651-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "152.83.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

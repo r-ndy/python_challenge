@@ -1,0 +1,240 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.182.206.69",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "HK",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-08-19T13:06:42Z"
+        }
+    ],
+    "name": "HKBU-HK",
+    "remarks": [
+        {
+            "description": [
+                "Hong Kong Baptist University"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/158.182.206.69",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/158.182.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/158.182.206.69",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/158.182.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "158.182.0.0",
+    "endAddress": "158.182.255.255",
+    "objectClassName": "ip network",
+    "handle": "158.182.0.0 - 158.182.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-12-22T11:16:21Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.182.206.69",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/JA380-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Johnny AU-YEUNG"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Hong Kong Baptist University\nKowloon Tong, Hong Kong"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+852-34117413"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+852-34117888"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "johnny@hkbu.edu.hk"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JA380-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-29T02:38:59Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@hkbu.edu.hk was validated on 2021-03-29"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/158.182.206.69",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-HKBAPTISTCOL-NON-HK",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-HKBAPTISTCOL-NON-HK"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Hong Kong Baptist University\nKowloon Tong, Hong Kong"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@hkbu.edu.hk"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@hkbu.edu.hk"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-HKBAPTISTCOL-NON-HK"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "158.182.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

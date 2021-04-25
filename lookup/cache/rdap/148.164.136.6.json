@@ -1,0 +1,607 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-148-164-0-0-1",
+    "startAddress": "148.164.0.0",
+    "endAddress": "148.164.255.255",
+    "ipVersion": "v4",
+    "name": "HADCO",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-148-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-12-11T09:20:41-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1991-05-02T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/148.164.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-148-164-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "HADCOC",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hadco Corporation"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "12A Manor Parkway\nSalem\nNH\n03079\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "Wholly-Owned Subsidiary of Sanmina Corporation"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/HADCOC"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/HADCOC"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-03-31T11:03:55-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1991-05-02T00:00:00-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "ROUTE4-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Sanmina\n2700 North First Street\nSan Jose\nCA\n95134\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Route Admin"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Route Admin"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "routeadmin@sanmina.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "andrew.gabriel@sanmina.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "peter.fogelstrom@sanmina.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-408-964-3500"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ROUTE4-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ROUTE4-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-14T08:11:11-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-10-16T10:37:04-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "SPEAR18-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2700 North First Street\nSan Jose\nCA\n95134\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Paul Spears"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Spears",
+                                    "Paul",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "security.department@sanmina.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "paul.spears@sanmina.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-408-964-3500"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SPEAR18-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SPEAR18-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-06-22T08:42:31-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-04-04T10:34:23-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "ROUTE4-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Sanmina\n2700 North First Street\nSan Jose\nCA\n95134\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Route Admin"
+                    ],
+                    [
+                        "org",
+                        {},
+                        "text",
+                        "Route Admin"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "routeadmin@sanmina.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "andrew.gabriel@sanmina.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "peter.fogelstrom@sanmina.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-408-964-3500"
+                    ]
+                ]
+            ],
+            "roles": [
+                "technical",
+                "noc"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/ROUTE4-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/ROUTE4-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-14T08:11:11-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-10-16T10:37:04-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        },
+        {
+            "handle": "SPEAR18-ARIN",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "2700 North First Street\nSan Jose\nCA\n95134\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Paul Spears"
+                    ],
+                    [
+                        "n",
+                        {},
+                        "text",
+                        [
+                            "Spears",
+                            "Paul",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "security.department@sanmina.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "paul.spears@sanmina.com"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": [
+                                "work",
+                                "voice"
+                            ]
+                        },
+                        "text",
+                        "+1-408-964-3500"
+                    ]
+                ]
+            ],
+            "roles": [
+                "abuse"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/SPEAR18-ARIN"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/148.164.136.6",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/poc/SPEAR18-ARIN"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-06-22T08:42:31-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-04-04T10:34:23-04:00"
+                }
+            ],
+            "status": [
+                "validated"
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "148.164.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

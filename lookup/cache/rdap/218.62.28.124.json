@@ -1,0 +1,158 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/218.62.28.124",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T07:01:06Z"
+        }
+    ],
+    "name": "CC-HOUJIE-NETBAR",
+    "remarks": [
+        {
+            "description": [
+                "CHANGCHUN CITY,HOUJIE NETBAR,NO.2 JINGYUE ROAD,JILIN PROVINCE,CHINA"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/218.62.28.124",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/218.62.28.124/30",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/218.62.28.124",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/218.62.28.124%2F30?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "218.62.28.124",
+    "endAddress": "218.62.28.127",
+    "objectClassName": "ip network",
+    "handle": "218.62.28.124 - 218.62.28.127",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-11-17T02:16:05Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/218.62.28.124",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/XY371-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "xiaofan yi"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "NO.8 Qingdao road,Changchun city,Jilin,China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-0431-87022560"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-0431-87022420"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jls-ipmaster@chinaunicom.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "XY371-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "218.62.28.124",
+            "length": 30
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

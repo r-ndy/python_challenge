@@ -1,0 +1,376 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-8-64-59-0-1",
+    "startAddress": "8.64.59.0",
+    "endAddress": "8.64.59.255",
+    "ipVersion": "v4",
+    "name": "LVLT-8-64-59-0-24",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-8-0-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-04-09T14:03:18-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2021-04-09T14:03:18-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/8.64.59.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-8-64-59-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/8.0.0.0/9"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "VC-813",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Volli Communications, Inc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "790 Windmiller Dr\nPickerington, OH 43147\nPickerington\nOH\n43147\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/VC-813"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/VC-813"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-27T12:35:31-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2021-01-27T12:35:31-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "TECHN1755-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "790 Windmiller Drive\nPickerington\nOH\n43147\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Technical"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Technical"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "engineering@vollicomm.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "warner@vollicomm.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-614-300-2970"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/TECHN1755-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/TECHN1755-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-21T16:11:43-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2021-01-21T13:52:17-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ADMIN7687-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "790 Windmiller Drive\nPickerington\nOH\n43147\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Administrative"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Administrative"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "tmadden@vollicomm.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "warner@vollicomm.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-614-300-2970"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ADMIN7687-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/8.64.59.229",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ADMIN7687-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-21T13:55:56-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2021-01-21T13:53:46-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "8.64.59.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": [
+        399303
+    ]
+}

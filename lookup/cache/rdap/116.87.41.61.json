@@ -1,0 +1,266 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.87.41.61",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "SG",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-08-26T13:01:23Z"
+        }
+    ],
+    "name": "SGCABLEVISION-SG",
+    "remarks": [
+        {
+            "description": [
+                "StarHub Cable Vision Ltd",
+                "Singapore Broadband Access Provider"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/116.87.41.61",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/116.86.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/116.87.41.61",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/116.86.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "116.86.0.0",
+    "ipVersion": "v4",
+    "endAddress": "116.87.255.255",
+    "objectClassName": "ip network",
+    "handle": "116.86.0.0 - 116.87.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-16T23:39:36Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "apnic-scv@starhub.com was validated on 2021-03-03",
+                        "abuse@starhub.com was validated on 2021-03-16"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.87.41.61",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-SGCABLEVISION-SG",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-SGCABLEVISION-SG"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "StarHub Ltd 67 Ubi Avenue 1 Singapore 408942 "
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apnic-scv@starhub.com"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@starhub.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@starhub.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-SGCABLEVISION-SG"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-04-30T00:15:01Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "For any abuse matter, pls report to abuse@starhub.com."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.87.41.61",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ACS7-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "APNIC Contact - SCV"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "StarHub Ltd 67 Ubi Avenue 1 Singapore 408942"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+65-6825-0000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apnic-scv@starhub.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@starhub.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ACS7-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "116.86.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

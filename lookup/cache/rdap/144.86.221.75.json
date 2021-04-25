@@ -1,0 +1,418 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-144-86-208-0-1",
+    "startAddress": "144.86.208.0",
+    "endAddress": "144.86.238.255",
+    "ipVersion": "v4",
+    "name": "MTI",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-144-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-11-20T14:41:20-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1990-11-20T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/144.86.208.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-144-86-208-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "MTL-259-Z",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "MTI Technology LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "30 N. Gould St\r\nSuite 7302\nSheridan\nWY\n82801\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/MTL-259-Z"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/MTL-259-Z"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-01-08T13:46:56-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-12-06T18:13:05-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "HUTCH223-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2635 Park Blvd\noffice building\nPalo Alto\nCA\n94306\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Blake Hutchison"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Hutchison",
+                                    "Blake",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "blake@FiberInternetCenter.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "blake@mtilabs.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-650-330-0428"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "noc",
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Blake working the swips for 144.86/16"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/HUTCH223-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/HUTCH223-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-01-21T00:07:24-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2017-12-06T11:15:27-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "EVANS90-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2625 Park Blvd\nPalo Alto\nCA\n94306\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Bob Evans"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Evans",
+                                    "Bob",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "bob.evans@gmail.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "info@MTILABS.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-650-681-1738"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "noc",
+                        "technical",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Email for problems related to number resources email noc@MTILABS.com"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/EVANS90-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/144.86.221.75",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/EVANS90-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-02-18T16:09:14-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2013-08-08T19:14:10-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "144.86.208.0",
+            "length": 20
+        },
+        {
+            "v4prefix": "144.86.224.0",
+            "length": 21
+        },
+        {
+            "v4prefix": "144.86.232.0",
+            "length": 22
+        },
+        {
+            "v4prefix": "144.86.236.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "144.86.238.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": [
+        26803
+    ]
+}

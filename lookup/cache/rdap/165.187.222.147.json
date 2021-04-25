@@ -1,0 +1,254 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.187.222.147",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-08-29T23:04:17Z"
+        }
+    ],
+    "name": "WAPOL",
+    "remarks": [
+        {
+            "description": [
+                "WESTERN AUSTRALIA POLICE",
+                "Police Headquarters",
+                "2 Adelaide Terrace",
+                "East Perth WA 6004"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/165.187.222.147",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/165.187.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/165.187.222.147",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/165.187.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "165.187.0.0",
+    "ipVersion": "v4",
+    "endAddress": "165.187.255.255",
+    "objectClassName": "ip network",
+    "handle": "165.187.0.0 - 165.187.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-01-13T06:05:47Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.187.222.147",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/WAPA1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Western Australia Police administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "2, Adelaide Terrace,, East Perth,, Perth Western Australia 6004"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61-8-6229-5129"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61-8-6229-5129"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@police.wa.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "WAPA1-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-08T03:01:38Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@police.wa.gov.au is invalid",
+                        "bt_network_services_smail@police.wa.gov.au was validated on 2020-01-08"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.187.222.147",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-WAP-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-WAP-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "2, Adelaide Terrace,, East Perth,, Perth Western Australia 6004"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "bt_network_services_smail@police.wa.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "bt_network_services_smail@police.wa.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-WAP-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "165.187.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

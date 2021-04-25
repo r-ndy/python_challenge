@@ -1,0 +1,201 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/155.59.62.193",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "NZ",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:53:40Z"
+        }
+    ],
+    "name": "NZDAIRY",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for NZDGC"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 155.59.0.0 - 155.59.255.255",
+                "netname: NZDAIRY",
+                "org-id: NZDGC",
+                "status: assignment",
+                "rev-srv: GATEKEEPER.NZDAIRY.CO.NZ MIDLAND.CO.NZ",
+                "tech-c: CM2455-ARIN",
+                "reg-date: 1991-10-29",
+                "changed: hostmaster@arin.net 19961212",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/155.59.62.193",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/155.59.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/155.59.62.193",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/155.59.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "155.59.0.0",
+    "ipVersion": "v4",
+    "endAddress": "155.59.255.255",
+    "objectClassName": "ip network",
+    "handle": "155.59.0.0 - 155.59.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:34Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: CM2455-ARIN",
+                        "is-role: N",
+                        "last-name: Mckenna",
+                        "first-name: Craig",
+                        "street: 3rd FloorHamilton City Council BuildingAnglsea Street hamilton,",
+                        "country: NZ",
+                        "mailbox: craigm@midland.co.nz",
+                        "fax-phone: +64 7 839 6990",
+                        "bus-phone: +64 7 839 1045",
+                        "reg-date: 1996-12-10",
+                        "changed: hostmaster@arin.poc 19971011",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/155.59.62.193",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CM57-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Craig Mckenna"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "3rd FloorHamilton City Council BuildingAnglsea Street hamilton,"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+64 7 839 1045"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+64 7 839 6990"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "craigm@midland.co.nz"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CM57-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "155.59.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

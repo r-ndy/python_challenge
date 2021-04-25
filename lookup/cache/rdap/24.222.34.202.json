@@ -1,0 +1,682 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-24-222-33-0-1",
+    "startAddress": "24.222.33.0",
+    "endAddress": "24.222.34.255",
+    "ipVersion": "v4",
+    "name": "EASTLINK-HSI-EASTLINK-CORP-STATIC-33",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-24-222-0-0-1",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "For abuse issues email abuse@eastlink.ca"
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2011-12-13T09:19:41-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2011-12-13T09:19:40-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/24.222.33.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-24-222-33-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/24.222.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C02905987",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Eastlink HSI"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6080 Young St., Suite 605\nP.O. Box 8660, Station A\nHalifax\nNS\nB3K 5M3\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C02905987"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C02905987"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-12-13T09:19:40-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2011-12-13T09:19:40-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "BRAGG",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "EastLink"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "6080 Young Street\nSuite 801, PO Box 8660, Station A\nHalifax\nNS\nB3K-5M3\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "EastLink High Speed Internet"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/BRAGG"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/BRAGG"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2017-01-28T08:32:29-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2007-01-17T11:20:26-05:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "AAS49-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6080 Young Street\nSuite 700\nHalifax\nNS\nB3K-5M3\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "ARIN Admin Support"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "ARIN Admin Support"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin-admin@eastlink.ca"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-902-453-2800"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "EastLink ARIN Technical Support Contact"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/AAS49-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/AAS49-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-04-16T08:05:36-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2007-03-13T12:54:11-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "AAS50-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6080 Young Street\nSuite 700\nHalifax\nNS\nB3K-5M3\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "ARIN Abuse Support"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "ARIN Abuse Support"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin-abuse@eastlink.ca"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-902-453-2800"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "EastLink ARIN Abuse Contact"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/AAS50-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/AAS50-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-04-16T11:13:10-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2007-03-14T10:54:11-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ANS2-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6080 Young Street\nSuite 700\nHalifax\nNS\nB3K-5M3\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "ARIN NOC Support"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "ARIN NOC Support"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin-noc@eastlink.ca"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-902-453-2800"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "noc"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "EastLink ARIN NOC Support Contact"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ANS2-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ANS2-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-10-01T09:39:41-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2007-03-16T08:54:14-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ATS22-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6080 Young Street\nSuite 700\nHalifax\nNS\nB3K-5M3\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "ARIN Technical Support"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "ARIN Technical Support"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin-tech@eastlink.ca"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-902-453-2800"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "EastLink ARIN Technical Support Contact"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ATS22-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/24.222.34.202",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ATS22-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-04-16T08:06:06-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2007-03-13T12:54:10-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "24.222.33.0",
+            "length": 24
+        },
+        {
+            "v4prefix": "24.222.34.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": [
+        11260
+    ]
+}

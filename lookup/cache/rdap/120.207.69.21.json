@@ -1,0 +1,350 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.207.69.21",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-07-15T13:10:01Z"
+        }
+    ],
+    "name": "CMNET",
+    "remarks": [
+        {
+            "description": [
+                "China Mobile Communications Corporation",
+                "Mobile Communications Network Operator in China",
+                "Internet Service Provider in China"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "service provider",
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/120.207.69.21",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/120.192.0.0/10",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/120.207.69.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/120.192.0.0%2F10?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "120.192.0.0",
+    "endAddress": "120.255.255.255",
+    "objectClassName": "ip network",
+    "handle": "120.192.0.0 - 120.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-11-29T09:37:27Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.207.69.21",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ct74-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "chinamobile tech"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "29, Jinrong Ave.,Xicheng district\nBeijing"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86 5268 6688"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86 5261 6187"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@chinamobile.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@chinamobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ct74-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-11-29T09:38:38Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.207.69.21",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HL1318-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "haijun li"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "29,Jinrong Ave, Xicheng district,beijing,100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86 1052686688"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86 10 52616187"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@chinamobile.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@chinamobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HL1318-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-20T01:06:54Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@chinamobile.com was validated on 2021-01-20"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.207.69.21",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CHINAMOBILE-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CHINAMOBILE-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "China Mobile Communications Corporation\n29, Jinrong Ave., Xicheng District, Beijing, 100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@chinamobile.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@chinamobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CHINAMOBILE-CN"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "120.192.0.0",
+            "length": 10
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

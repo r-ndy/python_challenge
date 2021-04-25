@@ -1,0 +1,158 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/112.197.86.42",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "vn",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2010-03-04T09:46:02Z"
+        }
+    ],
+    "name": "sctvq10-net",
+    "remarks": [
+        {
+            "description": [
+                "Cung cap dich vu Internet khach hang quan 10"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/112.197.86.42",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/112.197.64.0/19",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/112.197.86.42",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/112.197.64.0%2F19?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "112.197.64.0",
+    "endAddress": "112.197.95.255",
+    "objectClassName": "ip network",
+    "handle": "112.197.64.0 - 112.197.95.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2009-02-06T08:40:43Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/112.197.86.42",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NHV3-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Nguyen Hoang Vinh"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "SaigonTourist Cable Television Company (SCTV)\n31-33 Dinh Cong Trang Str, Dist 1, HCMC"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-838-205605"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+84-838-205705"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "vinh.nh@sctv.com.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NHV3-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "112.197.64.0",
+            "length": 19
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,249 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/219.230.120.66",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:53:58Z"
+        }
+    ],
+    "name": "NJUSTB-CN",
+    "remarks": [
+        {
+            "description": [
+                "~{DO>)@m9$4sQ'~}",
+                "Nanjing University of Science & Technology",
+                "Nanjing, Jiangsu 210094, China"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "conn-id NJ000693",
+                "origin AS4538"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/219.230.120.66",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/219.230.64.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/219.230.120.66",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/219.230.64.0%2F18?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "219.230.64.0",
+    "ipVersion": "v4",
+    "endAddress": "219.230.127.255",
+    "objectClassName": "ip network",
+    "handle": "219.230.64.0 - 219.230.127.255",
+    "entities": [
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-09-03T09:14:12Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@cernet.edu.cn"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/219.230.120.66",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CER-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CERNET Helpdesk"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "CERNET Center\nBeijing 100084, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-6278-4049"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-6278-5933"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "helpdesk@cernet.edu.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CER-AP"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-12-22T05:38:41Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/219.230.120.66",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HQ12-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Huanyan Qian"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Network Centre\nNanjing University of Science and Techology\nNanjing, Jiangsu 210094, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-025-4315650"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hyqian@mail.njust.edu.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HQ12-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "219.230.64.0",
+            "length": 18
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

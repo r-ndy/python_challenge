@@ -1,0 +1,233 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.237.70.135",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TH",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-02-24T06:35:19Z"
+        }
+    ],
+    "name": "TRUEMOVE-TH",
+    "remarks": [
+        {
+            "description": [
+                "GPRS/3G"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/49.237.70.135",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/49.237.64.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/49.237.70.135",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/49.237.64.0%2F18?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "49.237.64.0",
+    "ipVersion": "v4",
+    "endAddress": "49.237.127.255",
+    "objectClassName": "ip network",
+    "handle": "49.237.64.0 - 49.237.127.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-07-07T05:40:26Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.237.70.135",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ST1168-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sornnarin Topparat"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "18 True Tower, Ratchadapisek Road, Huai Khwang, Bangkok 10310"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+66891006683"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "sornnarin_top@truecorp.co.th"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ST1168-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-25T02:37:24Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse_tmvh@truecorp.co.th was validated on 2021-02-24",
+                        "rasadaporn_jor@truecorp.co.th was validated on 2021-02-25"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/49.237.70.135",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TRUEMOVE-TH",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TRUEMOVE-TH"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "18 True Tower, Ratchadapisek Road, Huai Khwang, Bangkok 10310"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rasadaporn_jor@truecorp.co.th"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse_tmvh@truecorp.co.th"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TRUEMOVE-TH"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "49.237.64.0",
+            "length": 18
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

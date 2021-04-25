@@ -1,0 +1,279 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "KRNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from KRNIC. To obtain more specific information, please use the KRNIC whois server at whois.kisa.or.kr."
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "KR",
+    "name": "KORNET-KR",
+    "remarks": [
+        {
+            "description": [
+                "Korea Telecom"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+            "rel": "self",
+            "href": "https://krnic.rdap.apnic.net/ip/175.224.0.0/11",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/175.224.0.0%2F11?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "175.224.0.0",
+    "endAddress": "175.255.255.255",
+    "ipVersion": "v4",
+    "objectClassName": "ip network",
+    "handle": "175.224.0.0 - 175.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-19T07:36:36Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IRT-KRNIC-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-KRNIC-KR"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Seocho-ro 398, Seocho-gu, Seoul, Korea"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-KRNIC-KR"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IM9-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro 90\nKT Head Office"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-2-500-6630"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kornet_ip@kt.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IM9-KR"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/175.254.52.9",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IA9-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro 90\nKT Head Office"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-2-500-6630"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kornet_ip@kt.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IA9-KR"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "175.224.0.0",
+            "length": 11
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,240 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/134.148.234.120",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-11-25T06:35:45Z"
+        }
+    ],
+    "name": "UNINEWCASTLE",
+    "remarks": [
+        {
+            "description": [
+                "University of Newcastle, Australia - Callaghan campus"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/134.148.234.120",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/134.148.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/134.148.234.120",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/134.148.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "134.148.0.0",
+    "endAddress": "134.148.255.255",
+    "objectClassName": "ip network",
+    "handle": "134.148.0.0 - 134.148.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:25Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/134.148.234.120",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/UN2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "University Newcastle"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Networks Group\nCIS\nThe University of Newcastle\nCallaghan\nNSW 2308\nAustralia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 2 49215344"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 2 49216910"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "networks@newcastle.edu.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "UN2-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-10T21:11:45Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "networks@newcastle.edu.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/134.148.234.120",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-UNC-NON-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-UNC-NON-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Networks Group\nCIS\nThe University of Newcastle\nCallaghan\nNSW 2308\nAustralia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "networks@newcastle.edu.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "networks@newcastle.edu.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-UNC-NON-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "134.148.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

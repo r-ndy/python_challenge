@@ -1,0 +1,434 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-206-151-64-0-1",
+    "startAddress": "206.151.64.0",
+    "endAddress": "206.153.95.255",
+    "ipVersion": "v4",
+    "name": "CENTURYLINK-LEGACY-SAVVIS-BLK130",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-206-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-11-15T09:08:31-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1995-10-06T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/206.151.64.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-206-151-64-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "CCL-534",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CenturyLink Communications, LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "100 CENTURYLINK DR\nMonroe\nLA\n71201\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE ANY ISP ANNOUNCING PORTIONS WITHIN OUR RANGE SHOULD NOT RELY ON PRESENTED LOA'S UNLESS THOSE RANGES ARE ALSO ANNOUNCED TO A CENTURYLINK ASN.",
+                        "",
+                        "For abuse issues, please email abuse@centurylinkservices.net ",
+                        "All abuse reports MUST include: ",
+                        "* src IP ",
+                        "* dest IP (your IP) ",
+                        "* dest port ",
+                        "* Accurate date/timestamp and timezone of activity ",
+                        "* Intensity/frequency (short log extracts) ",
+                        "* Your contact details (phone and email)",
+                        "Without these we will be unable to identify the correct owner of the IP address at that point in time.",
+                        "",
+                        "For subpoena or court order please fax 844.254.5800 or refer to our Law Enforcement Support page:",
+                        "",
+                        "https://www.centurylink.com/aboutus/legal/privacy-notice/law-enforcement-support.html"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/CCL-534"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/CCL-534"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-11T16:45:50-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-07-12T15:01:11-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "QIA-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "100 CENTURYLINK DR\nMonroe\nLA\n71201\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Centurylink IP Admin"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Centurylink IP Admin"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ipadmin@centurylink.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-877-886-6515"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE ANY ISP ANNOUNCING PORTIONS WITHIN OUR RANGES SHOULD NOT RELY ON PRESENTED LOA'S UNLESS THOSE RANGES ARE ALSO ANNOUNCED TO A CENTURYLINK ASN.",
+                                "",
+                                "For abuse issues, please email abuse@centurylinkservices.net ",
+                                "All abuse reports MUST include: ",
+                                "* src IP ",
+                                "* dest IP (your IP) ",
+                                "* dest port ",
+                                "* Accurate date/timestamp and timezone of activity ",
+                                "* Intensity/frequency (short log extracts) ",
+                                "* Your contact details (phone and email)",
+                                "Without these we will be unable to identify the correct owner of the IP address at that point in time.",
+                                "",
+                                "For subpoena or court order please fax 844.254.5800 or refer to our Law Enforcement Support page http://www.centurylink.com/static/Pages/AboutUs/Legal/LawEnforcement/"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/QIA-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/QIA-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-02-03T14:20:49-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-08-24T07:54:04-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "CAD54-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "100 CENTURYLINK DR\nMonroe\nLA\n71203\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Centurylink Abuse Desk"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Centurylink Abuse Desk"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@centurylinkservices.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-877-886-6515"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE ANY ISP ANNOUNCING PORTIONS WITHIN OUR RANGES SHOULD NOT RELY ON PRESENTED LOA'S UNLESS THOSE RANGES ARE ALSO ANNOUNCED TO A CENTURYLINK ASN.",
+                                "",
+                                "For abuse issues, please email abuse@centurylinkservices.net",
+                                "All abuse reports MUST include: ",
+                                "* src IP ",
+                                "* dest IP (your IP) ",
+                                "* dest port ",
+                                "* Accurate date/timestamp and timezone of activity ",
+                                "* Intensity/frequency (short log extracts) ",
+                                "* Your contact details (phone and email) ",
+                                "Without these we will be unable to identify the correct owner of the IP address at that point in time.",
+                                " ",
+                                "For subpoena or court order please fax 844.254.5800 or refer to our Law Enforcement Support page http://www.centurylink.com/static/Pages/AboutUs/Legal/LawEnforcement/"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/CAD54-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/206.151.255.7",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/CAD54-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-14T13:34:12-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2015-04-10T11:14:47-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "206.151.64.0",
+            "length": 18
+        },
+        {
+            "v4prefix": "206.151.128.0",
+            "length": 17
+        },
+        {
+            "v4prefix": "206.152.0.0",
+            "length": 16
+        },
+        {
+            "v4prefix": "206.153.0.0",
+            "length": 18
+        },
+        {
+            "v4prefix": "206.153.64.0",
+            "length": 19
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

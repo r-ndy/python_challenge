@@ -1,0 +1,243 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.41.14.168",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-08-04T22:40:25Z"
+        }
+    ],
+    "name": "TASED-NET",
+    "remarks": [
+        {
+            "description": [
+                "Department of Education",
+                "Tasmanian Government",
+                "GPO Box 169",
+                "Hobart, Tasmania, 7001"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/147.41.14.168",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/147.41.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/147.41.14.168",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/147.41.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "147.41.0.0",
+    "endAddress": "147.41.255.255",
+    "objectClassName": "ip network",
+    "handle": "147.41.0.0 - 147.41.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-09T21:55:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "itsa@tas.gov.au was validated on 2021-02-09"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.41.14.168",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TASGOVERNMENT-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TASGOVERNMENT-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Department of Premier and Cabinet\n15 Murray St\nHobart\nTAS 7001"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "itsa@tas.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "itsa@tas.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TASGOVERNMENT-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:46:25Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/147.41.14.168",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ITI1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Department of Education IT Infrastructure Team"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Department of Education\nTasmanian Government\nGPO Box 169\nHobart, Tasmania, 7001"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 3 6233 6900"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 3 6233 6969"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dns@education.tas.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ITI1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "147.41.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

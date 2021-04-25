@@ -1,0 +1,379 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-34-64-0-0-1",
+    "startAddress": "34.64.0.0",
+    "endAddress": "34.127.255.255",
+    "ipVersion": "v4",
+    "name": "GOOGL-2",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-34-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-09-28T10:45:41-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2018-09-28T10:45:37-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/34.64.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-34-64-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "GOOGL-2",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Google LLC"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1600 Amphitheatre Parkway\nMountain View\nCA\n94043\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "*** The IP addresses under this Org-ID are in use by Google Cloud customers *** \r",
+                        "\r",
+                        "Direct all copyright and legal complaints to \r",
+                        "https://support.google.com/legal/go/report\r",
+                        "\r",
+                        "Direct all spam and abuse complaints to \r",
+                        "https://support.google.com/code/go/gce_abuse_report\r",
+                        "\r",
+                        "For fastest response, use the relevant forms above.\r",
+                        "\r",
+                        "Complaints can also be sent to the GC Abuse desk \r",
+                        "(google-cloud-compliance@google.com) \r",
+                        "but may have longer turnaround times.\r",
+                        "\r",
+                        "Complaints sent to any other POC will be ignored."
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/GOOGL-2"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/GOOGL-2"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-11-01T05:34:25-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2006-09-29T16:40:11-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "GCABU-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1600 Amphitheatre Parkway\nMountain View\nCA\n94043\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "GC Abuse"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "GC Abuse"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "google-cloud-compliance@google.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-650-253-0000"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "noc"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/GCABU-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/GCABU-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-04-09T11:46:04-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-03-30T00:36:28-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "ZG39-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1600 Amphitheatre Parkway\nMountain View\nCA\n94043\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Google LLC"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Google LLC"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "arin-contact@google.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-650-253-0000"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/ZG39-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/34.125.168.94",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/ZG39-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-10-30T07:05:21-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2000-11-30T13:54:08-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "34.64.0.0",
+            "length": 10
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

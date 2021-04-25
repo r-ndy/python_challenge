@@ -1,0 +1,130 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "TWNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from TWNIC. To obtain more specific information, please use the TWNIC whois server at whois.twnic.net."
+            ],
+            "links": [
+                {
+                    "value": "https://twnic.rdap.apnic.net/ip/49.159.48.162",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TW",
+    "name": "UBBNET-NET",
+    "remarks": [
+        {
+            "description": [
+                "Taipei City Taiwan"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://twnic.rdap.apnic.net/ip/49.159.48.162",
+            "rel": "self",
+            "href": "https://twnic.rdap.apnic.net/ip/49.159.0.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://twnic.rdap.apnic.net/ip/49.159.48.162",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/49.159.0.0%2F18?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "endAddress": "49.159.63.255",
+    "ipVersion": "v4",
+    "startAddress": "49.159.0.0",
+    "objectClassName": "ip network",
+    "handle": "49.159.0.0 - 49.159.63.255",
+    "entities": [
+        {
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://twnic.rdap.apnic.net/ip/49.159.48.162",
+                    "rel": "self",
+                    "href": "https://twnic.rdap.apnic.net/entity/EL200-TW",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Evans"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Taipei City Taiwan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "evanslin@taiwanmobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "EL200-TW"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "49.159.0.0",
+            "length": 18
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

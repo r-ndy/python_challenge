@@ -1,0 +1,242 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.179.23.119",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "IN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-11T22:17:40Z"
+        }
+    ],
+    "name": "ARY-IN",
+    "remarks": [
+        {
+            "description": [
+                "Aryaka Networks India Pvt. Ltd."
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+",
+                "To report network abuse, please contact the IRT",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "For assistance, please contact the APNIC Helpdesk",
+                "-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/167.179.23.119",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/167.179.23.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/167.179.23.119",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/167.179.23.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "167.179.23.0",
+    "endAddress": "167.179.23.255",
+    "objectClassName": "ip network",
+    "handle": "167.179.23.0 - 167.179.23.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-27T03:14:40Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "ops@aryaka.com was validated on 2021-01-27"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.179.23.119",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-ARY-IN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-ARY-IN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "35/B, Potential House, 3rd Floor, 1st Main, 3rd Phase, J P Nagar, Bangalore, Karnataka"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@aryaka.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ops@aryaka.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-ARY-IN"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-07-05T07:13:52Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.179.23.119",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ANIP1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ARYAKA NETWORKS INDIA PVT LTD - network administ"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "35/B, Potential House, 2nd Floor, 1st Main, 3rd Phase, J P Nagar, Bangalore, Karnataka"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+1-408-273-8420"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ops@aryaka.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ANIP1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "167.179.23.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

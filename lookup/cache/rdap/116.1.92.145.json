@@ -1,0 +1,326 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.1.92.145",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-05-04T00:07:44Z"
+        }
+    ],
+    "name": "CHINANET-GX",
+    "remarks": [
+        {
+            "description": [
+                "CHINANET Guangxi province network",
+                "Data Communication Division",
+                "China Telecom"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "service provider",
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/116.1.92.145",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/116.1.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/116.1.92.145",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/116.1.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "116.1.0.0",
+    "endAddress": "116.1.255.255",
+    "objectClassName": "ip network",
+    "handle": "116.1.0.0 - 116.1.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-11-15T00:31:55Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.1.92.145",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CHINANET-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CHINANET-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.31 ,jingrong street,beijing\n100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CHINANET-CN"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-05-04T02:30:06Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.1.92.145",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CR76-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cailing Ruan"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Guangxi data comm.Bureau\n35 Minzhu Road\nNanning city\nGuangxi 530015 China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-771-2815987"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-771-2839278"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "nocsjz@189.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CR76-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-05-04T02:31:23Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.1.92.145",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/BD37-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Bin Deng"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Guangxi data comm.Bureau\n35 Minzhu Road\nNanning city\nGuangxi 530015 China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-771-2835112"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-771-2839278"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "nocsjz@189.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "BD37-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "116.1.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

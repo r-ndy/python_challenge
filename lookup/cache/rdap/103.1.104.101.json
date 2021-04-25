@@ -1,0 +1,263 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.1.104.101",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "MY",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-07-03T01:31:14Z"
+        }
+    ],
+    "name": "TMNST-AS-AP",
+    "remarks": [
+        {
+            "description": [
+                "Telekom Malaysia Berhad",
+                "Core IP & NGN",
+                "17th Floor, TM Annexe 1",
+                "Jalan Pantai Baru"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.1.104.101",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.1.104.0/22",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.1.104.101",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.1.104.0%2F22?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "103.1.104.0",
+    "ipVersion": "v4",
+    "endAddress": "103.1.107.255",
+    "objectClassName": "ip network",
+    "handle": "103.1.104.0 - 103.1.107.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-02-11T04:24:58Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@tm.com.my",
+                        "dnsadm@tm.com.my",
+                        "ipmc_ipcore@tm.com.my"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.1.104.101",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TIA7-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TMNST IP Administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "TELEKOM MALAYSIA BERHAD\nLevel 17 TM Annexe 1,\nJALAN PANTAI BARU\n50672 KUALA LUMPUR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+6-1-800-88-2646"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+603 22402126"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@tm.com.my"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TIA7-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-10T00:44:13Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@tm.com.my was validated on 2021-02-10"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.1.104.101",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TMNST-MY",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TMNST-MY"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "TELEKOM MALAYSIA BERHAD\nTM BRICKFIELD\nJalan Tun Sambanthan\n43200 KUALA LUMPUR"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@tm.com.my"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@tm.com.my"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TMNST-MY"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.1.104.0",
+            "length": 22
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

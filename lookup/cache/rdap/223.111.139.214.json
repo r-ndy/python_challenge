@@ -1,0 +1,276 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/223.111.139.214",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "name": "CMNET-JIANGSU",
+    "remarks": [
+        {
+            "description": [
+                "China Mobile Communications Corporation"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/223.111.139.214",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/223.105.0.0/12",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/223.111.139.214",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/223.112.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/223.111.139.214",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/223.106.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/223.111.139.214",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/223.105.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/223.111.139.214",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/223.108.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "223.105.0.0",
+    "endAddress": "223.113.255.255",
+    "objectClassName": "ip network",
+    "handle": "223.105.0.0 - 223.113.255.255",
+    "entities": [
+        {
+            "roles": [
+                "technical"
+            ]
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-11-29T09:38:38Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/223.111.139.214",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HL1318-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "haijun li"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "29,Jinrong Ave, Xicheng district,beijing,100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86 1052686688"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86 10 52616187"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@chinamobile.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@chinamobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HL1318-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-20T01:06:54Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@chinamobile.com was validated on 2021-01-20"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/223.111.139.214",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CHINAMOBILE-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CHINAMOBILE-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "China Mobile Communications Corporation\n29, Jinrong Ave., Xicheng District, Beijing, 100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@chinamobile.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@chinamobile.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CHINAMOBILE-CN"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "223.105.0.0",
+            "length": 16
+        },
+        {
+            "v4prefix": "223.106.0.0",
+            "length": 15
+        },
+        {
+            "v4prefix": "223.112.0.0",
+            "length": 15
+        },
+        {
+            "v4prefix": "223.108.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

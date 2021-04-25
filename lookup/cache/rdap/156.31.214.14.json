@@ -1,0 +1,240 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/156.31.214.14",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "BN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-11-25T06:16:43Z"
+        }
+    ],
+    "name": "SHELL-BSP1",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for BSPCSB"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/156.31.214.14",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/156.31.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/156.31.214.14",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/156.31.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "156.31.0.0",
+    "ipVersion": "v4",
+    "endAddress": "156.31.255.255",
+    "objectClassName": "ip network",
+    "handle": "156.31.0.0 - 156.31.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-08-14T13:30:13Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/156.31.214.14",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/AAA603-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ATT Apnic Admin"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Bangunan EMERIO\nLingkaran Teknokrat 3 Barat\n63000 Cyberjaya, Malaysia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+603 83177777"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rm-globalmnsipmanage@intl.att.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "rm-mnssecurityoffc@intl.att.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "AAA603-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-17T03:19:32Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "rm-mnssecurityoffc@intl.att.com was validated on 2021-02-17"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/156.31.214.14",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-SITI-NON-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-SITI-NON-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Shell Information Technology International B.V.\nCarel van Bylandtlaan 23\nThe Hague\nNetherlands"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "rm-mnssecurityoffc@intl.att.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "rm-mnssecurityoffc@intl.att.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-SITI-NON-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "156.31.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

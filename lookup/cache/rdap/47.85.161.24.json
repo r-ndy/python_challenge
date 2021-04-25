@@ -1,0 +1,378 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-47-85-160-0-2",
+    "startAddress": "47.85.160.0",
+    "endAddress": "47.85.175.255",
+    "ipVersion": "v4",
+    "name": "SPRINT-MWCT-13",
+    "type": "ALLOCATION",
+    "parentHandle": "NET-47-85-160-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-03-19T09:16:44-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2021-03-19T09:16:44-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/47.85.160.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-47-85-160-0-2"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/47.74.0.0/15"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "MCTL-7",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Midwest Cable"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "651 N BROAD ST SUITE 206\nMIDDLETOWN\nDE\n19709\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/MCTL-7"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/MCTL-7"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-11-30T09:15:23-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-10-07T16:53:39-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "PATEL2859-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "651 N Broad St Suite 206\nMiddletown\nDE\n19709\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Raj Patel"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Patel",
+                                    "Raj",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "raj@midwestwirecable.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-224-258-6564"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "routing",
+                        "noc",
+                        "dns",
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/PATEL2859-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/PATEL2859-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-10-12T16:05:07-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-10-12T16:05:07-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "IPENG41-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "651 N Broad St Suite 206\nMiddletown\nDE\n19709\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IP Engineering "
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "IP Engineering "
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ip@midwestwirecable.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-224-258-6564"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "routing",
+                        "abuse",
+                        "administrative",
+                        "noc",
+                        "dns",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/IPENG41-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/47.85.161.24",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/IPENG41-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-10-12T16:08:59-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2020-10-06T15:28:50-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "47.85.160.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": [
+        1239
+    ]
+}

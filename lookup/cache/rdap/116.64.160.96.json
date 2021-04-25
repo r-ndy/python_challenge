@@ -1,0 +1,242 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.64.160.96",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-20T00:57:55Z"
+        }
+    ],
+    "name": "JTCL-JP",
+    "remarks": [
+        {
+            "description": [
+                "Jupiter Telecommunication Co. Ltd"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/116.64.160.96",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/116.64.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/116.64.160.96",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/116.64.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "116.64.0.0",
+    "endAddress": "116.65.255.255",
+    "objectClassName": "ip network",
+    "handle": "116.64.0.0 - 116.65.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-10-07T07:52:22Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.64.160.96",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/JTCL2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jupiter Telecommunication Co Ltd administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1-2-1,Kamiogi,Suginami-ku, Tokyo,Japan,167-0043, Kamiogi Suginami-ku 167-0043"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81-3-6765-8000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@home.ne.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JTCL2-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-09T07:24:45Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@home.ne.jp was validated on 2021-03-09"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/116.64.160.96",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JTCL-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JTCL-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1-2-1,Kamiogi,Suginami-ku, Tokyo,Japan,167-0043, Kamiogi Suginami-ku 167-0043"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@home.ne.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@home.ne.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JTCL-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "116.64.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

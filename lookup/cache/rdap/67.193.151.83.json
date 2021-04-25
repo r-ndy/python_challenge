@@ -1,0 +1,481 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-67-193-144-0-1",
+    "startAddress": "67.193.144.0",
+    "endAddress": "67.193.159.255",
+    "ipVersion": "v4",
+    "name": "CGOC-KICO-2",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-67-193-0-0-1",
+    "remarks": [
+        {
+            "title": "Registration Comments",
+            "description": [
+                "Send email to security@cogeco.net for abuse/security",
+                "issues."
+            ]
+        }
+    ],
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-05-15T15:36:32-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2008-05-15T15:36:32-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/67.193.144.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-67-193-144-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/67.193.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C01937044",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cogeco Cable Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "P.O.Box 5076, Stn. Main\n950 Syscon Rd.\nBurlington\nON\nL7R-4S6\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C01937044"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C01937044"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-03-19T09:10:17-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2008-05-15T15:36:32-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "CGOC",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "COGECO COMMUNICATIONS INC."
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "PO Box 5076, Stn. Main\r\n950 Syscon Road\nBurlington\nON\nL7R-4S6\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "Please email 'security@cogeco.net' for abuse/security violations"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/CGOC"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/CGOC"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2018-06-19T11:44:50-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1997-03-31T00:00:00-05:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "INS2-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "PO Box 5076, Stn. Main\r\n950 Syscon Road\nBurlington\nON\nL7R-4S6\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IP Network Service"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "IP Network Service"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "Rene.DeLeon@cogeco.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-289-337-7055"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "cell"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-905-320-7532"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative",
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "Please email security@cogeco.net for abuse/security violations."
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/INS2-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/INS2-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-02-23T16:56:42-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-09-16T13:50:04-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ABUSE3134-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "PO Box 5076, Stn. Main \r\n950 Syscon Road\nBurlington\nON\nL7R-4S6\nCanada"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Abuse"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Abuse"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "security@cogeco.net"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-905-333-5343"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "Please email 'security@cogeco.net' for abuse/security violations"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ABUSE3134-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/67.193.151.83",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ABUSE3134-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-03-05T10:42:20-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2011-08-17T12:02:28-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "67.193.144.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": [
+        7992
+    ]
+}

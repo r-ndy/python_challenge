@@ -1,0 +1,246 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.41.247.27",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-05-04T00:28:18Z"
+        }
+    ],
+    "name": "CHINANET-SN",
+    "remarks": [
+        {
+            "description": [
+                "CHINANET SHAANXI PROVINCE NETWORK",
+                "China Telecom",
+                "No.56,gaoxin street",
+                "Beijing 100032"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "service provider",
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/36.41.247.27",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/36.40.0.0/13",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/36.41.247.27",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/36.40.0.0%2F13?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "36.40.0.0",
+    "ipVersion": "v4",
+    "endAddress": "36.47.255.255",
+    "objectClassName": "ip network",
+    "handle": "36.40.0.0 - 36.47.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-11-15T00:31:55Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.41.247.27",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CHINANET-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CHINANET-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "No.31 ,jingrong street,beijing\n100032"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "anti-spam@ns.chinanet.cn.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CHINANET-CN"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-03-17T01:44:04Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.41.247.27",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/XC9-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Xianghong Cao"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Shanxi provice data communication Bureau\n185\nXi'an city, Shanxi provice 710061"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+8629-523-3633"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+8629-522-8093"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "sxic@public.xa.sn.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "XC9-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "36.40.0.0",
+            "length": 13
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

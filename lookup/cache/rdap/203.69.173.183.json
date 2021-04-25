@@ -1,0 +1,276 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.69.173.183",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TW",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2013-12-04T12:38:08Z"
+        }
+    ],
+    "name": "HINET-NET",
+    "remarks": [
+        {
+            "description": [
+                "Data Communication Business Group,",
+                "Chunghwa Telecom Co.,Ltd.",
+                "No.21, Sec.1, Xinyi Rd., Taipei City",
+                "10048, Taiwan"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/203.69.173.183",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/203.69.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/203.69.173.183",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.69.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "203.69.0.0",
+    "endAddress": "203.69.255.255",
+    "objectClassName": "ip network",
+    "handle": "203.69.0.0 - 203.69.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-08-22T06:04:01Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "same as TWNIC nic-handle HN184-TW"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.69.173.183",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HN27-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "HINET Network-Adm"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "CHTD, Chunghwa Telecom Co., Ltd.\nNo. 21, Sec. 21, Hsin-Yi Rd.,\nTaipei Taiwan 100"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+886 2 2322 3495"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+886 2 2322 3442"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+886 2 2344 3007"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+886 2 2344 2513"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+886 2 2395 5671"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "network-adm@hinet.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HN27-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-10-08T07:58:24Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that TWNIC is not an ISP and is not empowered",
+                        "to investigate complaints of network abuse."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/203.69.173.183",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TWNIC-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TWNIC-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Taipei, Taiwan, 100"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@twnic.net.tw"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@twnic.net.tw"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TWNIC-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "203.69.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

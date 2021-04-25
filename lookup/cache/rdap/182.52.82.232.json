@@ -1,0 +1,198 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/182.52.82.232",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "th",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-27T13:31:07Z"
+        }
+    ],
+    "name": "TOTNET",
+    "remarks": [
+        {
+            "description": [
+                "Static IP Addresses for Internet Services"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/182.52.82.232",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/182.52.72.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/182.52.82.232",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/182.52.96.0%2F21?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/182.52.82.232",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/182.52.72.0%2F21?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/182.52.82.232",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/182.52.104.0%2F23?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/182.52.82.232",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/182.52.80.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "182.52.72.0",
+    "endAddress": "182.52.105.255",
+    "objectClassName": "ip network",
+    "handle": "182.52.72.0 - 182.52.105.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ]
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-11T03:21:45Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "apipolg@tot.co.th was validated on 2021-01-28",
+                        "abuse@totisp.net was validated on 2021-03-11"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/182.52.82.232",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TOT-TH",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TOT-TH"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "TOT Public Company Limited\n89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "apipolg@tot.co.th"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@totisp.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TOT-TH"
+        },
+        {
+            "roles": [
+                "technical"
+            ]
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "182.52.72.0",
+            "length": 21
+        },
+        {
+            "v4prefix": "182.52.96.0",
+            "length": 21
+        },
+        {
+            "v4prefix": "182.52.104.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "182.52.80.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

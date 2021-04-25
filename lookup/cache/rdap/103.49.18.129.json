@@ -1,0 +1,250 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.49.18.129",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-07T00:36:07Z"
+        }
+    ],
+    "name": "NGSSUPER-AU",
+    "remarks": [
+        {
+            "description": [
+                "NGS Super Pty Limited"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.49.18.129",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.49.18.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.49.18.129",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.49.18.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "103.49.18.0",
+    "endAddress": "103.49.18.255",
+    "objectClassName": "ip network",
+    "handle": "103.49.18.0 - 103.49.18.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-22T00:36:12Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@ngssuper.com.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.49.18.129",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-NGSSUPER-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-NGSSUPER-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 16, 97-99 Bathurst St, SYDNEY NSW 2000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ngssuper.com.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@ngssuper.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-NGSSUPER-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-01-29T01:34:26Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.49.18.129",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NSPL4-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "NGS Super Pty Limited administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 16, 97-99 Bathurst St, SYDNEY NSW 2000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61-2-9273-7900"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61-2-9273-7900"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@ngssuper.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NSPL4-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.49.18.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,212 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "KRNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from KRNIC. To obtain more specific information, please use the KRNIC whois server at whois.kisa.or.kr."
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/164.125.64.125",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "KR",
+    "name": "PNUNET-KR",
+    "remarks": [
+        {
+            "description": [
+                "Pusan National University"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/164.125.64.125",
+            "rel": "self",
+            "href": "https://krnic.rdap.apnic.net/ip/164.125.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/164.125.64.125",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/164.125.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "endAddress": "164.125.255.255",
+    "ipVersion": "v4",
+    "startAddress": "164.125.0.0",
+    "objectClassName": "ip network",
+    "handle": "164.125.0.0 - 164.125.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-19T07:36:36Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/164.125.64.125",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IRT-KRNIC-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-KRNIC-KR"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Seocho-ro 398, Seocho-gu, Seoul, Korea"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-KRNIC-KR"
+        },
+        {
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/164.125.64.125",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/JP162-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Busan Geumjeong-gu Busandaehak-ro 63beon-gil 2\nInformation Technology Services"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-51-510-7477"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "internet@pusan.ac.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JP162-KR"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "164.125.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

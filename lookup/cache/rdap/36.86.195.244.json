@@ -1,0 +1,321 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.86.195.244",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "ID",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-26T22:07:35Z"
+        }
+    ],
+    "name": "TLKM_BB_SERVICE_36_86",
+    "remarks": [
+        {
+            "description": [
+                "PT TELKOM INDONESIA STO Gambir 3rd Floor Jl. Medan Merdeka Selatan No. 12 Jakarta 10110"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/36.86.195.244",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/36.86.192.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/36.86.195.244",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/36.86.192.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "36.86.192.0",
+    "ipVersion": "v4",
+    "endAddress": "36.86.207.255",
+    "objectClassName": "ip network",
+    "handle": "36.86.192.0 - 36.86.207.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:54:16Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.86.195.244",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/AR165-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PT Telkom Indonesia APNIC Resources Management"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT. TELKOM INDONESIA\nMenara Multimedia Lt. 7\nJl. Kebonsirih No.12\nJAKARTA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-3860500"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-3861215"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ip-admin@telkom.net.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "AR165-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-04-14T01:53:28Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@telkom.co.id was validated on 2021-04-14"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.86.195.244",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-IDTELKOM-ID",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-IDTELKOM-ID"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT. TELKOM INDONESIA\nSTO Telkom Gambir 3th Floor\nMedan Merdeka Selatan\nJAKARTA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@telkom.co.id"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@telkom.co.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-IDTELKOM-ID"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:40Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/36.86.195.244",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HM444-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PT Telkom Indonesia Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT. TELKOM INDONESIA\nMenara Multimedia Lt. 7\nJl. Kebonsirih No.12\nJAKARTA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-3860500"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-3861215"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@telkom.net.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HM444-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "36.86.192.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

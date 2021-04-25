@@ -1,0 +1,346 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.191.59.14",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-05-20T04:31:46Z"
+        }
+    ],
+    "name": "APNIC-AP",
+    "remarks": [
+        {
+            "description": [
+                "Asia Pacific Network Information Centre",
+                "Regional Internet Registry for the Asia-Pacific Region",
+                "6 Cordelia Street",
+                "PO Box 3646",
+                "South Brisbane, QLD 4101",
+                "Australia"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.191.59.14",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.0.0.0/8",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.191.59.14",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.0.0.0%2F8?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "103.0.0.0",
+    "ipVersion": "v4",
+    "endAddress": "103.255.255.255",
+    "objectClassName": "ip network",
+    "handle": "103.0.0.0 - 103.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-02-03T02:04:33Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "APNIC is a Regional Internet Registry.",
+                        "We do not operate the referring network and",
+                        "are unable to investigate complaints of network abuse.",
+                        "For information about IRT, see www.apnic.net/irt",
+                        "helpdesk@apnic.net was validated on 2020-02-03"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.191.59.14",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-APNIC-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-APNIC-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Brisbane, Australia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "helpdesk@apnic.net"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "helpdesk@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-APNIC-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-12-17T01:17:45Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Administrator for APNIC Network Operations"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.191.59.14",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NO4-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "APNIC Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6 Cordelia Street\nSouth Brisbane\nQLD 4101"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 7 3858 3100"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 7 3858 3199"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "netops@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NO4-AP"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-10-23T04:06:51Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Administrator for APNIC"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.191.59.14",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HM20-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "APNIC Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6 Cordelia Street\nSouth Brisbane\nQLD 4101"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 7 3858 3100"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 7 3858 3199"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "helpdesk@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HM20-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.0.0.0",
+            "length": 8
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

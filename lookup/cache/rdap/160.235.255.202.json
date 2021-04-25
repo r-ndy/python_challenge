@@ -1,0 +1,255 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/160.235.255.202",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-01T22:24:58Z"
+        }
+    ],
+    "name": "YOKOGAWA-NET",
+    "remarks": [
+        {
+            "description": [
+                "Yokogawa Electric Corporation"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/160.235.255.202",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/160.235.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/160.235.255.202",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/160.235.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "160.235.0.0",
+    "ipVersion": "v4",
+    "endAddress": "160.235.255.255",
+    "objectClassName": "ip network",
+    "handle": "160.235.0.0 - 160.235.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:35Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: TN153-ARIN",
+                        "is-role: N",
+                        "last-name: Nishino",
+                        "first-name: Takayuki",
+                        "street: Ando Electric Company.,Limited 19-7, KAMATA 4-CHOME, OTA-KU, TOKYO",
+                        "country: JP",
+                        "mailbox: nishino@ando.co.jp",
+                        "bus-phone: +81-53-576-4801",
+                        "reg-date: 1995-08-22",
+                        "changed: hostmaster@arin.poc 19950822",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/160.235.255.202",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TN24-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Takayuki Nishino"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Ando Electric Company.,Limited 19-7, KAMATA 4-CHOME, OTA-KU, TOKYO"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81-53-576-4801"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "nishino@ando.co.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TN24-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-23T04:24:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@nic.ad.jp was validated on 2020-07-23"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/160.235.255.202",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JPNIC-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JPNIC-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda\nChiyoda-ku, Tokyo 101-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JPNIC-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "160.235.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

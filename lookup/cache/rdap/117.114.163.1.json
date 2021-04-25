@@ -1,0 +1,325 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/117.114.163.1",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2018-01-26T09:33:10Z"
+        }
+    ],
+    "name": "BJENET",
+    "remarks": [
+        {
+            "description": [
+                "Beijing Education Information Network",
+                "Service Center Corporation",
+                "NO.39 Xueyuan Road,Haidian District ,Beijing, PRC"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/117.114.163.1",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/117.112.0.0/14",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/117.114.163.1",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/117.112.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "117.112.0.0",
+    "endAddress": "117.115.255.255",
+    "objectClassName": "ip network",
+    "handle": "117.112.0.0 - 117.115.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-12-26T03:04:01Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/117.114.163.1",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM776-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dongliang Wang"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "NO.39 Xueyuan Road,Haidian District ,Beijing, PRC"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-010-82364918"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-010-62308338"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "wdl@bjedu.com.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM776-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-01T08:57:39Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that CNNIC is not an ISP and is not",
+                        "empowered to investigate complaints of network abuse.",
+                        "Please contact the tech-c or admin-c of the network."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/117.114.163.1",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CNNIC-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CNNIC-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Beijing, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipas@cnnic.cn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ipas@cnnic.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CNNIC-CN"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-12-26T03:04:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/117.114.163.1",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/BW887-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Xing Yanhong"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "NO.39 Xueyuan Road,Haidian District ,Beijing, PRC"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-010-82364916"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-010-62308338"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "XYH@BJEDU.COM.CN"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "BW887-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "117.112.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

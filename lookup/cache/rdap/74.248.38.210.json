@@ -1,0 +1,813 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-74-248-32-0-1",
+    "startAddress": "74.248.32.0",
+    "endAddress": "74.248.63.255",
+    "ipVersion": "v4",
+    "name": "BLS-74-248-32-0-1003020949",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-74-248-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2010-03-03T14:54:53-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2010-03-03T14:54:53-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/74.248.32.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-74-248-32-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/74.248.0.0/15"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C02435471",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "PFN ADSL CBB"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "575 Morosgo Dr. NE\nAtlanta\nGA\n30324\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C02435471"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C02435471"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-09-10T12:41:41-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2010-03-03T14:54:53-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "MSFT",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Microsoft Corporation"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "One Microsoft Way\nRedmond\nWA\n98052\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:\r",
+                                "* https://cert.microsoft.com.  \r",
+                                "\r",
+                                "For SPAM and other abuse issues, such as Microsoft Accounts, please contact:\r",
+                                "* abuse@microsoft.com.  \r",
+                                "\r",
+                                "To report security vulnerabilities in Microsoft products and services, please contact:\r",
+                                "* secure@microsoft.com.  \r",
+                                "\r",
+                                "For legal and law enforcement-related requests, please contact:\r",
+                                "* msndcc@microsoft.com\r",
+                                "\r",
+                                "For routing, peering or DNS issues, please \r",
+                                "contact:\r",
+                                "* IOC@microsoft.com"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/MSFT"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/MSFT"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-04-13T13:39:58-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "1998-07-10T00:00:00-04:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "MRPD-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "One Microsoft Way\nRedmond\nWA\n98052\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Microsoft Routing, Peering, and DNS"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Microsoft Routing, Peering, and DNS"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "IOC@microsoft.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-425-882-8080"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "To report suspected security issues specific to \r",
+                                        "traffic emanating from Microsoft online services, \r",
+                                        "including the distribution of malicious content \r",
+                                        "or other illicit or illegal material through a \r",
+                                        "Microsoft online service, please submit reports \r",
+                                        "to:\r",
+                                        "* https://cert.microsoft.com.  \r",
+                                        "\r",
+                                        "For SPAM and other abuse issues, such as Microsoft \r",
+                                        "Accounts, please contact:\r",
+                                        "* abuse@microsoft.com.  \r",
+                                        "\r",
+                                        "To report security vulnerabilities in Microsoft \r",
+                                        "products and services, please contact:\r",
+                                        "* secure@microsoft.com.  \r",
+                                        "\r",
+                                        "For legal and law enforcement-related requests, \r",
+                                        "please contact:\r",
+                                        "* msndcc@microsoft.com\r",
+                                        "\r",
+                                        "For routing, peering or DNS issues, please \r",
+                                        "contact:\r",
+                                        "* IOC@microsoft.com"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/MRPD-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/MRPD-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-10-16T10:51:11-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2013-08-20T19:26:59-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "YSRH-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "G1, Surya Chandra Residency, 2-22-160/4, Aruna society\nHyderabad\nTelengana\n500072\nIndia"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Sree Raghu Harsha Yalamati"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Yalamati",
+                                            "Sree Raghu Harsha",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "v-raghuy@microsoft.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+917702220771"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "dns"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/YSRH-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/YSRH-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-01-12T00:17:40-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2021-01-12T00:17:40-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "BEDAR6-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "20003 NE 122nd PL\nWoodinville\nWA\n98077\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Dawn Bedard"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Bedard",
+                                            "Dawn",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "dabedard@microsoft.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-425-538-6637"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/BEDAR6-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/BEDAR6-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-02-22T12:26:52-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2016-10-20T15:51:33-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "MAC74-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "One Microsoft Way\nRedmond\nWA\n98052\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Microsoft Abuse Contact"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Microsoft Abuse Contact"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@microsoft.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-425-882-8080"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "To report suspected security issues specific to traffic emanating from Microsoft Online Services, including the distribution of malicious content or other illicit or illegal material through a Microsoft Online Service, please submit reports to https://cert.microsoft.com.  \r",
+                                        "For SPAM and other abuse issues, such as Microsoft Accounts, please contact abuse@microsoft.com.  \r",
+                                        "To report security vulnerabilities in Microsoft products and services, please contact secure@microsoft.com.  \r",
+                                        "For legal and law enforcement-related requests, please contact msndcc@microsoft.com\r",
+                                        "For routing, peering or DNS issues, please contact IOC@microsoft.com"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/MAC74-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/MAC74-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-10-16T10:51:31-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2013-08-20T19:24:57-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "QUAMA-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "One Microsoft Way\nRedmond\nWA\n98052\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Divya Quamara"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Quamara",
+                                            "Divya",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "pracsin@microsoft.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "dabedard@microsoft.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-425-538-6637"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/QUAMA-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/74.248.38.210",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/QUAMA-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-07-13T10:22:47-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2015-09-25T19:25:54-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "74.248.32.0",
+            "length": 19
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

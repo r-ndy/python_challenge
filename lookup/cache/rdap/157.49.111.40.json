@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/157.49.111.40",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "IN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-02-04T11:06:15Z"
+        }
+    ],
+    "name": "RELIANCEJIO-IN",
+    "remarks": [
+        {
+            "description": [
+                "Reliance Jio infocomm ltd"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/157.49.111.40",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/157.49.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/157.49.111.40",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/157.49.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "157.49.0.0",
+    "ipVersion": "v4",
+    "endAddress": "157.49.255.255",
+    "objectClassName": "ip network",
+    "handle": "157.49.0.0 - 157.49.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2016-03-09T23:55:07Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/157.49.111.40",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/RJIL1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Reliance Jio Infocomm Limited"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Reliance JIO INFOCOMM LTD GHANSOLI INDIA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+91-44770000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ip.management@ril.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "RJIL1-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-04T11:05:53Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "ip.management@ril.com was validated on 2021-02-04"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/157.49.111.40",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-INFOTELR4G-IN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-INFOTELR4G-IN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Reliance Jio Infocomm Ltd RCP Ghansoli"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ip.management@ril.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ip.management@ril.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-INFOTELR4G-IN"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "157.49.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

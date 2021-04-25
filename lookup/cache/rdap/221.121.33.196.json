@@ -1,0 +1,313 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/221.121.33.196",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "VN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-10-16T07:24:34Z"
+        }
+    ],
+    "name": "ADSL-NET",
+    "remarks": [
+        {
+            "description": [
+                "ADSL service"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/221.121.33.196",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/221.121.32.0/19",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/221.121.33.196",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/221.121.32.0%2F19?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "221.121.32.0",
+    "ipVersion": "v4",
+    "endAddress": "221.121.63.255",
+    "objectClassName": "ip network",
+    "handle": "221.121.32.0 - 221.121.63.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-08T09:40:06Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/221.121.33.196",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-VNNIC-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-VNNIC-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Ha Noi, VietNam"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-24-35564944"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+84-24-37821462"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hm-changed@vnnic.vn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hm-changed@vnnic.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-VNNIC-AP"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-09-14T09:35:53Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/221.121.33.196",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HVL2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Ho Van Lanh"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "10 Co Giang, Dist 1, Ho Chi Minh City"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-937668468"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "lanh.ho@spt.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HVL2-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-09-13T04:10:14Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/221.121.33.196",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/NTKD1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Nguyen Thi Kim Dan"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Saigon Postel Corporation\n10 Co Giang, Dist.1, Ho Chi Minh City"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+84-28-54040121"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "kimdan@spt.vn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "NTKD1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "221.121.32.0",
+            "length": 19
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

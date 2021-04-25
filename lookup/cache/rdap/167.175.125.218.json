@@ -1,0 +1,194 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.175.125.218",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:52:53Z"
+        }
+    ],
+    "name": "CORPOVEN",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for CORPOV"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 167.175.0.0 - 167.175.255.255",
+                "netname: CORPOVEN",
+                "org-id: CORPOV",
+                "status: assignment",
+                "tech-c: YHI-ARIN",
+                "reg-date: 1993-09-03",
+                "changed: hostmaster@arin.net 20030523",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/167.175.125.218",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/167.175.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/167.175.125.218",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/167.175.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "167.175.0.0",
+    "ipVersion": "v4",
+    "endAddress": "167.175.255.255",
+    "objectClassName": "ip network",
+    "handle": "167.175.0.0 - 167.175.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:31:02Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: YHI-ARIN",
+                        "is-role: N",
+                        "last-name: Hikitei",
+                        "first-name: Yasu",
+                        "street: 36 Corpoven KITA-KU BLDG",
+                        "city: Osaka",
+                        "state-prov: Osaka-Shi",
+                        "postal-code: 530-0001",
+                        "country: JP",
+                        "mailbox: yhikitei@hoken.co.jp",
+                        "bus-phone: +81 6 5293-8316",
+                        "reg-date: 2003-05-20",
+                        "changed: hostmaster@arin.poc 20030520",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.175.125.218",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/YH417-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Yasu Hikitei"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "36 Corpoven KITA-KU BLDG"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81 6 5293-8316"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yhikitei@hoken.co.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "YH417-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "167.175.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

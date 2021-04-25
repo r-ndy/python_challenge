@@ -1,0 +1,338 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/114.8.241.152",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "ID",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-15T01:28:33Z"
+        }
+    ],
+    "name": "INDOSAT-INP-4",
+    "remarks": [
+        {
+            "description": [
+                "PT Indosat Tbk (www.indosat.com)",
+                "INDOSAT Internet Network Provider",
+                "International Internet Backbone Provider,",
+                "Internet Network Access Point, Fixed and",
+                "Mobile Operator in INDONESIA",
+                "Jl. Medan Merdeka Barat No.21",
+                "Jakarta Pusat Indonesia 10110"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "Send Spam & Abuse report to: abuse@indosat.com",
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/114.8.241.152",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/114.0.0.0/12",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/114.8.241.152",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/114.0.0.0%2F12?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "114.0.0.0",
+    "endAddress": "114.15.255.255",
+    "objectClassName": "ip network",
+    "handle": "114.0.0.0 - 114.15.255.255",
+    "entities": [
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-30T05:00:25Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/114.8.241.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/DA205-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Dewi Amalia"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT INDOSAT\nJL. Medan Merdeka Barat 21\nJakarta Pusat"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-30444066"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-30001073"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "dewi.amalia@indosatooredoo.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "DA205-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-30T01:28:34Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@indosat.com is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/114.8.241.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-INDOSAT-INP-ID",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-INDOSAT-INP-ID"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT Indosat\nJl. Medan Merdeka Barat 21\nJakarta Pusat"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@indosat.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@indosat.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-INDOSAT-INP-ID"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-30T04:59:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/114.8.241.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IH151-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INDOSAT INP Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT Indosat\nJl. Medan Merdeka Barat 21\nJakarta Pusat"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-30072088     62-8557897897"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-30001073"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@indosatooredoo.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IH151-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "114.0.0.0",
+            "length": 12
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,495 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-143-1-0-0-1",
+    "startAddress": "143.1.0.0",
+    "endAddress": "143.40.255.255",
+    "ipVersion": "v4",
+    "name": "PGINTERNET143",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-143-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2004-05-05T15:10:32-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1990-08-05T00:00:00-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/143.1.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-143-1-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "THEPRO-10",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "The Procter and Gamble Company"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "One Procter and Gamble Plaza\r\nP.O. Box 599\nCincinnati\nOH\n45201\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/THEPRO-10"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/THEPRO-10"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-10-07T12:28:44-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1989-01-04T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "GROUP72-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "848 N Rainbow Blvd #5212\nLas Vegas\nNV\n89107\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Brander Group"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Group",
+                                    "Brander",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "arin@brandergroup.net"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-702-560-5616"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/GROUP72-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/GROUP72-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-11-22T13:55:16-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2019-07-05T15:52:02-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "PGTR-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "Procter & Gamble\r\n2 P&G Plaza\nCincinnati\nOH\n45202\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Procter and Gamble Technical Role"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Procter and Gamble Technical Role"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "internetreg.im@pg.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-513-983-1000"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/PGTR-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/PGTR-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-04T07:40:54-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2015-07-02T08:32:17-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                },
+                {
+                    "handle": "PGR-ORG-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "One Procter and Gamble Plaza\nCincinnati\nOH\n45202\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Procter Gamble Registration Role"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Procter Gamble Registration Role"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "piregistrar.im@pg.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "internetreg.im@pg.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-513-983-1000"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "technical",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "http://www.pg.com"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/PGR-ORG-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/143.18.8.140",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/PGR-ORG-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-05-11T10:15:40-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "143.1.0.0",
+            "length": 16
+        },
+        {
+            "v4prefix": "143.2.0.0",
+            "length": 15
+        },
+        {
+            "v4prefix": "143.4.0.0",
+            "length": 14
+        },
+        {
+            "v4prefix": "143.8.0.0",
+            "length": 13
+        },
+        {
+            "v4prefix": "143.16.0.0",
+            "length": 12
+        },
+        {
+            "v4prefix": "143.32.0.0",
+            "length": 13
+        },
+        {
+            "v4prefix": "143.40.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

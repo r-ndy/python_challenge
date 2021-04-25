@@ -1,0 +1,263 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/139.152.118.136",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-01T22:24:31Z"
+        }
+    ],
+    "name": "TOKYO-GAS",
+    "remarks": [
+        {
+            "description": [
+                "Tokyo Gas Co., Ltd."
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/139.152.118.136",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/139.152.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/139.152.118.136",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/139.152.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "139.152.0.0",
+    "endAddress": "139.152.255.255",
+    "objectClassName": "ip network",
+    "handle": "139.152.0.0 - 139.152.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:35Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: TO28-ARIN",
+                        "is-role: N",
+                        "last-name: Okazaki",
+                        "first-name: Takeshi",
+                        "street: Civil Aviation Bureau, Tokyo International Airport 3-3-1 Haneda-Kuko Ota-Ku Tokyo 144 Japan JP",
+                        "country: JP",
+                        "fax-phone: +81-3-5757-1521",
+                        "bus-phone: +81-3-5757-3000 ext.4801",
+                        "reg-date: 1970-01-01",
+                        "changed: hostmaster@arin.poc 19941205",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/139.152.118.136",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TO18-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Takeshi Okazaki"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Civil Aviation Bureau, Tokyo International Airport 3-3-1 Haneda-Kuko Ota-Ku Tokyo 144 Japan JP"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81-3-5757-3000 ext.4801"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+81-3-5757-1521"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "no-email-erx@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TO18-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-23T04:24:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@nic.ad.jp was validated on 2020-07-23"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/139.152.118.136",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JPNIC-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JPNIC-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda\nChiyoda-ku, Tokyo 101-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JPNIC-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "139.152.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

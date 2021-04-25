@@ -1,0 +1,271 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-54-0-0-0-1",
+    "startAddress": "54.0.0.0",
+    "endAddress": "54.35.255.255",
+    "ipVersion": "v4",
+    "name": "MERCK2",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-54-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-06-19T10:32:51-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "1992-03-17T00:00:00-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/54.0.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-54-0-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "MERCKA",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Merck and Co., Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "126 East Lincoln Avenue\nRahway\nNJ\n07095\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/MERCKA"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/MERCKA"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2005-12-21T16:01:56-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "1992-03-17T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "WHITE7-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2000 Galloping Hill Road\nKenilworth\nNJ\n07033\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Whitehouse Telecom"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Whitehouse Telecom"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "pete_paiva@merck.com"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "whitehouse_telecom@merck.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-908-423-2900"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "administrative",
+                        "technical",
+                        "noc",
+                        "abuse"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/WHITE7-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/54.14.109.166",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/WHITE7-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-04-07T09:37:14-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2005-11-11T11:44:25-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "54.0.0.0",
+            "length": 11
+        },
+        {
+            "v4prefix": "54.32.0.0",
+            "length": 14
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

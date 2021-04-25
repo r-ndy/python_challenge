@@ -1,0 +1,252 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.98.44.172",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "NZ",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-10-20T00:58:31Z"
+        }
+    ],
+    "name": "CALLPLUS-NZ",
+    "remarks": [
+        {
+            "description": [
+                "CallPlus Services Limited",
+                "NZ Networks"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/121.98.44.172",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/121.98.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/121.98.44.172",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/121.98.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "121.98.0.0",
+    "endAddress": "121.99.255.255",
+    "objectClassName": "ip network",
+    "handle": "121.98.0.0 - 121.99.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2019-09-24T21:24:17Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.98.44.172",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CNO2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "CallPlus Network Operations"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Vocus Group New Zealand\nPO Box 108-109, Symonds Street\nLevel 5, 34 Sale Street\nAuckland\nNew Zealand"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+64-9-916-3890"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+64-9-915-7589"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "networkfaults@vocusgroup.co.nz"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CNO2-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-04-20T19:28:10Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "irt-abuse@vocusgroup.co.nz was validated on 2021-04-06",
+                        "networkfaults@vocusgroup.co.nz was validated on 2021-04-20"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.98.44.172",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CALLPLUS-NZ",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CALLPLUS-NZ"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Vocus Group NZ\nPO Box 108-109, Symonds Street\n34 Sale Street\nAuckland"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "networkfaults@vocusgroup.co.nz"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "irt-abuse@vocusgroup.co.nz"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CALLPLUS-NZ"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "121.98.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

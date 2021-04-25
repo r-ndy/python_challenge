@@ -1,0 +1,250 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.115.107.90",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "SG",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-08-04T05:33:55Z"
+        }
+    ],
+    "name": "ASIATEL-SG",
+    "remarks": [
+        {
+            "description": [
+                "Asia Mediatel Pte Ltd"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.115.107.90",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.115.106.0/23",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.115.107.90",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.115.106.0%2F23?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED PORTABLE",
+    "startAddress": "103.115.106.0",
+    "ipVersion": "v4",
+    "endAddress": "103.115.107.255",
+    "objectClassName": "ip network",
+    "handle": "103.115.106.0 - 103.115.107.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-17T03:19:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "naser@asiamediatel.com was validated on 2021-02-17"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.115.107.90",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-ASIATEL-SG",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-ASIATEL-SG"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Address same as Asiatel Pte Ltd, 69 Ubi Road 1 , "
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "naser@asiamediatel.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "naser@asiamediatel.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-ASIATEL-SG"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-05-15T07:34:09Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.115.107.90",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/AMPL4-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Asia Mediatel Pte Ltd administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Address same as Asiatel Pte Ltd, 69 Ubi Road 1 , "
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+65-6521-6818"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+65-6521-6818"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "naser@asiamediatel.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "AMPL4-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.115.106.0",
+            "length": 23
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

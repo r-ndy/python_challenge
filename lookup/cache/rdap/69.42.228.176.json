@@ -1,0 +1,272 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-69-42-224-0-2",
+    "startAddress": "69.42.224.0",
+    "endAddress": "69.42.239.255",
+    "ipVersion": "v4",
+    "name": "RRT-IPV4-01",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-69-42-224-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-01-24T17:38:56-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2020-01-24T17:38:56-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/69.42.224.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-69-42-224-0-2"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/69.42.224.0/19"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "REDRI-14",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "RED-RIVER-COMMUNICATIONS"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "510 Broadway\nAbercrombie\nND\n58001\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/REDRI-14"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/REDRI-14"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-24T17:38:56-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2020-01-24T17:38:56-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "NRB2-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1205 4th Street NE\nStaples\nMN\n56479\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Nathan Richard Beard"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Beard",
+                                    "Nathan",
+                                    "Richard",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "nbeard@7sigma.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-218-820-7636"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "administrative",
+                        "technical"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/NRB2-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/69.42.228.176",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/NRB2-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-12-30T09:11:27-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2011-11-22T15:44:14-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "69.42.224.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

@@ -1,0 +1,278 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-107-63-0-0-1",
+    "startAddress": "107.63.0.0",
+    "endAddress": "107.63.127.255",
+    "ipVersion": "v4",
+    "name": "SPRINT-107-63-0-0",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-107-24-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-08-19T12:33:10-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2016-08-19T12:33:09-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/107.63.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-107-63-0-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/107.24.0.0/13"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "STP-114",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sprint Tacoma POP"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Sprint Tacoma POP\nTacoma\nWA\n98409\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/STP-114"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/STP-114"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-12-06T15:50:18-05:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-12-06T15:50:18-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "SIE-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "12524 Sunrise Valley Drive\nReston\nVA\n20196\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Sprint IP Engineering"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "Sprint IP Engineering"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "deipaddy@sprint.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-703-592-4850"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "administrative",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "For abuse issues please send email to ABUSE@SPRINT.NET \r",
+                                "only. Law Enforcement requests should call the Corporate Security Hotline at 800-877-7330"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/SIE-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/107.63.19.42",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/SIE-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2020-07-07T09:24:53-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2012-11-13T14:31:05-05:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "107.63.0.0",
+            "length": 17
+        }
+    ],
+    "arin_originas0_originautnums": [
+        3651,
+        10507
+    ]
+}

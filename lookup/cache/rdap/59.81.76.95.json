@@ -1,0 +1,235 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.81.76.95",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2016-11-22T09:06:01Z"
+        }
+    ],
+    "name": "CU-CDC",
+    "remarks": [
+        {
+            "description": [
+                "CHINA UNICOM CLOUD DATA COMPANY LIMITED",
+                "A133, Xidan North Avenue, Xicheng District, Beijing."
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/59.81.76.95",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/59.80.0.0/15",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/59.81.76.95",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/59.80.0.0%2F15?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "59.80.0.0",
+    "endAddress": "59.81.255.255",
+    "objectClassName": "ip network",
+    "handle": "59.80.0.0 - 59.81.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-10-12T09:06:01Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.81.76.95",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM909-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Xin Xing"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "A133,Xidan North Avenue, Xicheng District, Beijing"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-18618215599"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "xingxin2@chinaunicom.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM909-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-01T08:57:39Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that CNNIC is not an ISP and is not",
+                        "empowered to investigate complaints of network abuse.",
+                        "Please contact the tech-c or admin-c of the network."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/59.81.76.95",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CNNIC-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CNNIC-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Beijing, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipas@cnnic.cn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ipas@cnnic.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CNNIC-CN"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "59.80.0.0",
+            "length": 15
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

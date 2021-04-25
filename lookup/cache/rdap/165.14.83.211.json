@@ -1,0 +1,240 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.14.83.211",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-01T22:25:11Z"
+        }
+    ],
+    "name": "SOJITZ-NET",
+    "remarks": [
+        {
+            "description": [
+                "Sojitz Corporation"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/165.14.83.211",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/165.14.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/165.14.83.211",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/165.14.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "165.14.0.0",
+    "ipVersion": "v4",
+    "endAddress": "165.14.255.255",
+    "objectClassName": "ip network",
+    "handle": "165.14.0.0 - 165.14.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:39Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.14.83.211",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/KF48-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Keita Fukuyama"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Sojitz Corporation.\n1-20, Akasaka, Minato-ku\nTokyo 104-8655"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81-3-5520-2763"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+81-3-5520-2433"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "nic@ssc.evonet.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "KF48-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-23T04:24:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@nic.ad.jp was validated on 2020-07-23"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/165.14.83.211",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JPNIC-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JPNIC-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda\nChiyoda-ku, Tokyo 101-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JPNIC-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "165.14.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

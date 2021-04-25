@@ -1,0 +1,280 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-142-147-15-0-1",
+    "startAddress": "142.147.15.0",
+    "endAddress": "142.147.47.255",
+    "ipVersion": "v4",
+    "name": "CANADIAN1",
+    "type": "DIRECT ASSIGNMENT",
+    "parentHandle": "NET-142-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-06-05T16:19:24-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2014-06-05T16:13:06-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/142.147.15.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-142-147-15-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "AIRCAN-1",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "AIR CANADA"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "7373, Cote Vertu Ouest\nSaint-Laurent\nQC\nH4V 1H4\nCanada"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/AIRCAN-1"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/AIRCAN-1"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-07-06T14:32:07-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2002-02-06T00:00:00-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "DONNE81-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "7373, Cote Vertu Ouest \nIT building, ZIP YUL1430\nVille Saint-Laurent\nQC\nH4Y 1H4\nCanada"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Patrick Donnelly"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Donnelly",
+                                    "Patrick",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "patrick.a.donnelly@aircanada.ca"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-514-422-4145"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "administrative",
+                        "abuse",
+                        "noc"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2020-06-25"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/DONNE81-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/142.147.32.112",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/DONNE81-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-06-26T08:01:59-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2018-06-26T11:55:08-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "142.147.15.0",
+            "length": 24
+        },
+        {
+            "v4prefix": "142.147.16.0",
+            "length": 20
+        },
+        {
+            "v4prefix": "142.147.32.0",
+            "length": 20
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

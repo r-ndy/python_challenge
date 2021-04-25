@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.149.57.219",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "BD",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-26T21:31:18Z"
+        }
+    ],
+    "name": "FLASHNET-BD",
+    "remarks": [
+        {
+            "description": [
+                "M/S FLASH NET ENTERPRISE"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.149.57.219",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.149.57.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.149.57.219",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.149.57.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "103.149.57.0",
+    "endAddress": "103.149.57.255",
+    "objectClassName": "ip network",
+    "handle": "103.149.57.0 - 103.149.57.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-10T21:31:21Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "info@flashnetbd.com is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.149.57.219",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-FLASHNET-BD",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-FLASHNET-BD"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "65/3, Kadamtala, Basabo, Dhaka-1214, Dhaka Dhaka 1203"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@flashnetbd.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "info@flashnetbd.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-FLASHNET-BD"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-07T08:37:24Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.149.57.219",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/MFEA1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "MS Flashnet Enterprise administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "65/3, Kadamtala, Basabo, Dhaka-1214, Dhaka Dhaka 1203"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+8801790520526"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "info@flashnetbd.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "MFEA1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.149.57.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,222 @@
+{
+    "rdapConformance": [
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "KRNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format.",
+                "This information has been partially mirrored by APNIC from KRNIC. To obtain more specific information, please use the KRNIC whois server at whois.kisa.or.kr."
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "KR",
+    "name": "SCK-KR",
+    "remarks": [
+        {
+            "description": [
+                "Supreme Court of Korea"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+            "rel": "self",
+            "href": "https://krnic.rdap.apnic.net/ip/203.240.64.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.240.96.0%2F23?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/203.240.64.0%2F19?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "203.240.64.0",
+    "endAddress": "203.240.97.255",
+    "ipVersion": "v4",
+    "objectClassName": "ip network",
+    "handle": "203.240.64.0 - 203.240.97.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-10-19T07:36:36Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/IRT-KRNIC-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-KRNIC-KR"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Seocho-ro 398, Seocho-gu, Seoul, Korea"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.or.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-KRNIC-KR"
+        },
+        {
+            "roles": [
+                "technical",
+                "administrative"
+            ],
+            "links": [
+                {
+                    "value": "https://krnic.rdap.apnic.net/ip/203.240.71.190",
+                    "rel": "self",
+                    "href": "https://krnic.rdap.apnic.net/entity/216-KR",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IP Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Seoul Seocho-gu Seocho-daero 219\nSUPREME COURT OF KOREA"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+82-31-724-9175"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "lismoo130@scourt.go.kr"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "216-KR"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "203.240.64.0",
+            "length": 19
+        },
+        {
+            "v4prefix": "203.240.96.0",
+            "length": 23
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.213.163.86",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-02-06T04:40:02Z"
+        }
+    ],
+    "name": "NIMS-NET",
+    "remarks": [
+        {
+            "description": [
+                "National Institute for Materials Science"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/144.213.163.86",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/144.213.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/144.213.163.86",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/144.213.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "144.213.0.0",
+    "ipVersion": "v4",
+    "endAddress": "144.213.255.255",
+    "objectClassName": "ip network",
+    "handle": "144.213.0.0 - 144.213.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-02-06T04:22:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.213.163.86",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/HO138-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Hiroshi Ogino"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1-2-1, Sengen, Tsukuba-shi, Ibaraki 305-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+81-29-859-2404"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "OGINO.Hiroshi@nims.go.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "HO138-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-23T04:24:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@nic.ad.jp was validated on 2020-07-23"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.213.163.86",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JPNIC-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JPNIC-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda\nChiyoda-ku, Tokyo 101-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JPNIC-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "144.213.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

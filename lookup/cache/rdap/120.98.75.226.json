@@ -1,0 +1,249 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.98.75.226",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "TW",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2011-06-30T02:06:02Z"
+        }
+    ],
+    "name": "TANET-NET",
+    "remarks": [
+        {
+            "description": [
+                "Ministry of Education Computer Center",
+                "12F, No 106, Sec.2,Hoping E. Rd.,",
+                "Taipei Taiwan 106"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "This space is statically assigned."
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/120.98.75.226",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/120.96.0.0/11",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/120.98.75.226",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/120.96.0.0%2F11?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "120.96.0.0",
+    "endAddress": "120.127.255.255",
+    "objectClassName": "ip network",
+    "handle": "120.96.0.0 - 120.127.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2009-02-12T02:40:31Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.98.75.226",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TA61-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TANET ADMIN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "12F, No 106, Sec. 2, Heping E. Rd., Taipei\nTaipei, 106, R.O.C"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+886-2-2737-7044"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+886-2-2737-7043"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "tanetadm@moe.edu.tw"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TA61-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-10-08T07:58:24Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that TWNIC is not an ISP and is not empowered",
+                        "to investigate complaints of network abuse."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.98.75.226",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TWNIC-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TWNIC-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Taipei, Taiwan, 100"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@twnic.net.tw"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@twnic.net.tw"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TWNIC-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "120.96.0.0",
+            "length": 11
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

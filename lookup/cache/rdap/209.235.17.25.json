@@ -1,0 +1,685 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-209-235-17-0-1",
+    "startAddress": "209.235.17.0",
+    "endAddress": "209.235.17.255",
+    "ipVersion": "v4",
+    "name": "VERIC-1-209-235-17-0-24",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-209-235-16-0-2",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2012-03-27T10:03:24-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2012-03-27T10:03:24-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/209.235.17.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-209-235-17-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/209.235.16.0/20"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C02951589",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Jive Software, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "c/o SGNS, 401 N. Broad St.\nPhiladelphia\nPA\n19106\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C02951589"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C02951589"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2012-03-27T10:03:24-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2012-03-27T10:03:24-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "VERIC-1",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "VeriCenter"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "757 N. Elkridge, Suite # 200\nHouston\nTX\n77079\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/VERIC-1"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/VERIC-1"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2014-07-21T14:40:50-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2004-02-13T16:24:44-05:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "SGNSA-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "401 N Broad Street\nPhiladelphia\nPA\n19108\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "SGNS Administration"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "SGNS Administration"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin@sgns.net"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "michael.pawlik@unitasglobal.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "mike.simkins@unitasglobal.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-800-441-1181"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "http://www.sungardas.com/"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/SGNSA-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/SGNSA-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-07-03T12:45:06-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2013-04-10T09:39:36-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "SWIPA2-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "401 N Broad Street\nPhiladelphia\nPA\n19108\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "SWIP Automation"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "SWIP Automation"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "swip@sgns.net"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "michael.pawlik@unitasglobal.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "mike.simkins@unitasglobal.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-800-441-1181"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Registration Comments",
+                                    "description": [
+                                        "Please use NOC handle SN221-ARIN."
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/SWIPA2-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/SWIPA2-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-07-03T12:46:16-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2004-12-29T14:46:46-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ABUSE4810-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "401 N. Broad St.\nPhiladelphia\nPA\n19108\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Abuse-SAS"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Abuse-SAS"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "as.us.abuse@sungardas.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-800-441-1181"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Unvalidated POC",
+                                    "description": [
+                                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2017-07-21"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ABUSE4810-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ABUSE4810-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2016-07-21T19:47:35-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2014-07-21T09:51:59-04:00"
+                                }
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "SN221-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "401 N Broad Street\nPhiladelphia\nPA\n19108\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "SGNS NOC"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "SGNS NOC"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "michael.pawlik@unitasglobal.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "noc@sgns.net"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "mike.simkins@unitasglobal.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-800-441-1181"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "noc"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/SN221-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/209.235.17.25",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/SN221-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-07-03T12:42:14-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2000-07-05T18:32:50-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "209.235.17.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

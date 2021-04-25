@@ -1,0 +1,194 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/146.11.36.223",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:54:02Z"
+        }
+    ],
+    "name": "ERIC",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for LEA"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 146.11.0.0 - 146.11.255.255",
+                "netname: ERIC",
+                "org-id: LEA",
+                "status: assignment",
+                "tech-c: SBR12-ARIN",
+                "reg-date: 1991-01-17",
+                "changed: hostmaster@arin.net 20021104",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/146.11.36.223",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/146.11.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/146.11.36.223",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/146.11.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "146.11.0.0",
+    "ipVersion": "v4",
+    "endAddress": "146.11.255.255",
+    "objectClassName": "ip network",
+    "handle": "146.11.0.0 - 146.11.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:31:28Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "imported from ARIN object:",
+                        "",
+                        "poc-handle: SBR12-ARIN",
+                        "is-role: N",
+                        "last-name: Brophy",
+                        "first-name: Sean",
+                        "street: 61 Riggal Street Broadmeadows",
+                        "city: Melbourne",
+                        "state-prov: Victoria",
+                        "postal-code: 3001",
+                        "country: AU",
+                        "mailbox: sean.brophy@ericsson.com.au",
+                        "bus-phone: +61 3 93011127",
+                        "reg-date: 2002-10-31",
+                        "changed: hostmaster@arin.poc 20021031",
+                        "source: ARIN",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/146.11.36.223",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/SB70-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Sean Brophy"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "61 Riggal Street Broadmeadows"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 3 93011127"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "sean.brophy@ericsson.com.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "SB70-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "146.11.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

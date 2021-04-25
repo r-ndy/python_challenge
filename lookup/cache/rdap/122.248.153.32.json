@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/122.248.153.32",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-12-10T10:46:02Z"
+        }
+    ],
+    "name": "AU-IBMSG-NET",
+    "remarks": [
+        {
+            "description": [
+                "Network of IBM Singapore Pte Ltd."
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/122.248.153.32",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/122.248.153.32/29",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/122.248.153.32",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/122.248.153.32%2F29?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "122.248.153.32",
+    "endAddress": "122.248.153.39",
+    "objectClassName": "ip network",
+    "handle": "122.248.153.32 - 122.248.153.39",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-10T10:32:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/122.248.153.32",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/AW1057-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Alan Wong"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "IBM Singapore Pte Ltd.\n259 GEORGE ST\nSydney 2000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61293544926"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "alanwong@au1.ibm.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "AW1057-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-07T14:27:07Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "peering@intl.att.com was validated on 2020-07-07"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/122.248.153.32",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-ATT-OPENNET-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-ATT-OPENNET-AP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "All of AP"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "peering@intl.att.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "peering@intl.att.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-ATT-OPENNET-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "122.248.153.32",
+            "length": 29
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

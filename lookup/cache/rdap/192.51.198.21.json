@@ -1,0 +1,303 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/192.51.198.21",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "JP",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2015-12-01T22:27:01Z"
+        }
+    ],
+    "name": "JAPAN-INET-BLOCK4",
+    "remarks": [
+        {
+            "description": [
+                "imported inetnum object for JNIC"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "----------",
+                "imported from ARIN object:",
+                "",
+                "inetnum: 192.51.16.0 - 192.51.255.255",
+                "netname: JAPAN-INET-BLOCK4",
+                "org-id: JNIC",
+                "status: allocation",
+                "tech-c: JN-ORG-ARIN",
+                "reg-date: 1989-02-21",
+                "changed: hostmaster@arin.net 20030718",
+                "source: ARIN",
+                "",
+                "----------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/192.51.194.0/18",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/192.51.208.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/192.51.224.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/192.51.194.0%2F23?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/192.51.196.0%2F22?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/192.51.198.21",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/192.51.200.0%2F21?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "192.51.194.0",
+    "endAddress": "192.51.239.255",
+    "objectClassName": "ip network",
+    "handle": "192.51.194.0 - 192.51.239.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:38Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "----------",
+                        "",
+                        "This record made from details in ARIN org: [JNIC].",
+                        "Because no poc-contact was listed at ARIN.",
+                        "",
+                        "----------"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/192.51.198.21",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/JNIC3-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Japan Network Information Center Maintainer For ERX Transfers"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Kokusai-kougyou-Kanda Bldg 6F\n2-3-4 Uchikanda"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+00 00 0000 0000"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "no-email-erx@apnic.net"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "JNIC3-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-07-23T04:24:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@nic.ad.jp was validated on 2020-07-23"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/192.51.198.21",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-JPNIC-JP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-JPNIC-JP"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda\nChiyoda-ku, Tokyo 101-0047, Japan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@nic.ad.jp"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-JPNIC-JP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "192.51.194.0",
+            "length": 23
+        },
+        {
+            "v4prefix": "192.51.208.0",
+            "length": 20
+        },
+        {
+            "v4prefix": "192.51.224.0",
+            "length": 20
+        },
+        {
+            "v4prefix": "192.51.196.0",
+            "length": 22
+        },
+        {
+            "v4prefix": "192.51.200.0",
+            "length": 21
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

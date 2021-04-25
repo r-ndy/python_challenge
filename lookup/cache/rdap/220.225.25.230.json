@@ -1,0 +1,168 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/220.225.25.230",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "IN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2010-09-17T14:55:46Z"
+        }
+    ],
+    "name": "RCOM-STATIC",
+    "remarks": [
+        {
+            "description": [
+                "This space is statically assigned"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/220.225.25.230",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/220.225.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/220.225.25.230",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/220.225.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "220.225.0.0",
+    "ipVersion": "v4",
+    "endAddress": "220.225.255.255",
+    "objectClassName": "ip network",
+    "handle": "220.225.0.0 - 220.225.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-12-06T00:10:18Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Send spam & abuse Reports",
+                        "include detailed information & time",
+                        "to antiabuse.support@relianceada.com"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/220.225.25.230",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/AH406-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Antiabuse Helpdesk"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Reliance Communication Ltd\nAntiabuse Helpdesk, 2nd Floor,\nInternational Area , A Block\nDhirubai Ambani Knowledge City,\nThane Belapur Road, KoparKhairane,\nNavi Mumbai - 400710"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+91-22-30334141-5"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+91-22-30334949"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "antiabuse.support@relianceada.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "AH406-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "220.225.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

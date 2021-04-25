@@ -1,0 +1,166 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.179.22.163",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "ID",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2009-06-09T07:20:33Z"
+        }
+    ],
+    "name": "GGSN-3G-ISAT-ID",
+    "remarks": [
+        {
+            "description": [
+                "GGSN 3G",
+                "INDOSAT's 3g Broadband Customer",
+                "Jakarta"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "For abuse and spam report please contact abuse@indosat.com"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/120.179.22.163",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/120.179.22.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/120.179.22.163",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/120.179.22.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED NON-PORTABLE",
+    "startAddress": "120.179.22.0",
+    "ipVersion": "v4",
+    "endAddress": "120.179.22.255",
+    "objectClassName": "ip network",
+    "handle": "120.179.22.0 - 120.179.22.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2015-11-30T04:59:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/120.179.22.163",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IH151-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "INDOSAT INP Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "PT Indosat\nJl. Medan Merdeka Barat 21\nJakarta Pusat"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-30072088     62-8557897897"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+62-21-30001073"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@indosatooredoo.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IH151-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "120.179.22.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

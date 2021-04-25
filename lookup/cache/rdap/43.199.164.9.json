@@ -1,0 +1,250 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/43.199.164.9",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-03-05T05:07:07Z"
+        }
+    ],
+    "name": "APIDTT-AU",
+    "remarks": [
+        {
+            "description": [
+                "APIDTT PTY LTD"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/43.199.164.9",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/43.192.0.0/12",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/43.199.164.9",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/43.192.0.0%2F12?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "43.192.0.0",
+    "endAddress": "43.207.255.255",
+    "objectClassName": "ip network",
+    "handle": "43.192.0.0 - 43.207.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-03-16T23:37:22Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/43.199.164.9",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/APLA37-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "APIDTT PTY LTD administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6 Cordelia St, South Brisbane Queensland 4101"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 7 3858 3100"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 7 3858 3100"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@apidtt.org"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "APLA37-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-10-08T23:20:41Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@apidtt.org was validated on 2020-10-08"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/43.199.164.9",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-APIDTT-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-APIDTT-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6 Cordelia St, South Brisbane Queensland 4101"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "abuse@apidtt.org"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@apidtt.org"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-APIDTT-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "43.192.0.0",
+            "length": 12
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

@@ -1,0 +1,565 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-165-120-0-0-2",
+    "startAddress": "165.120.0.0",
+    "endAddress": "165.120.255.255",
+    "ipVersion": "v4",
+    "name": "BTNET1",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-165-120-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2013-08-14T09:38:35-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2013-08-14T09:38:35-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/165.120.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-165-120-0-0-2"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/165.120.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C04669798",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "BT Public Internet Service"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Room 211, Telephone Exchange /CWT-LA/,\nCawthorne Street\nLancaster\nLANCASHIRE\nLA1 1TG\nUnited Kingdom"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C04669798"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C04669798"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-08-14T07:16:03-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2013-08-14T07:16:03-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "INFO",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "INFONET Services Corporation"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "2160 East Grand Avenue\nEl Segundo\nCA\n90245-1022\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/INFO"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/INFO"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2017-01-28T08:32:29-05:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "AR2-ORG-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "2160 East Grand Avenue\nEl Segundo\nCA\n90245-1022\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "American Registry for IP Numbers -Point of Contact"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "American Registry for IP Numbers -Point of Contact"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "matthias.blum@bt.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "ipadmin@bt.com"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "arin_poc@infonet.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-310-335-2600"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "fax"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-310-322-0310"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse",
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/AR2-ORG-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/AR2-ORG-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-03-10T07:00:49-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "1999-02-10T16:11:48-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ZI58-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "2160 East Grand Avenue\nEl Segundo\nCA\n90245\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "swip"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "swip"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "swip@bt.infonet.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-310-335-4759"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse",
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Unvalidated POC",
+                                    "description": [
+                                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2010-12-22"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ZI58-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ZI58-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2009-12-22T14:11:41-05:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2001-05-03T10:54:46-04:00"
+                                }
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "MMB12-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "Telecomlaan 9\nDiegem\nNA\nB-1831\nBelgium"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Matthias Manfred Blum"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Blum",
+                                            "Matthias",
+                                            "Manfred",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "matthias.blum@bt.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+3227002851"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/MMB12-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/165.120.142.1",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/MMB12-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2021-04-14T02:56:13-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2011-06-30T10:32:23-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "165.120.0.0",
+            "length": 16
+        }
+    ],
+    "arin_originas0_originautnums": [
+        2856
+    ]
+}

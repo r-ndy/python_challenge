@@ -1,0 +1,473 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "CN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-07-30T03:22:02Z"
+        }
+    ],
+    "name": "ALISOFT",
+    "remarks": [
+        {
+            "description": [
+                "Aliyun Computing Co., LTD",
+                "5F, Builing D, the West Lake International Plaza of S&T",
+                "No.391 Wen'er Road, Hangzhou, Zhejiang, China, 310099"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/121.197.164.152",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/121.196.0.0/14",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/121.197.164.152",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/121.196.0.0%2F14?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "121.196.0.0",
+    "endAddress": "121.199.255.255",
+    "objectClassName": "ip network",
+    "handle": "121.196.0.0 - 121.199.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-11-01T08:57:39Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "Please note that CNNIC is not an ISP and is not",
+                        "empowered to investigate complaints of network abuse.",
+                        "Please contact the tech-c or admin-c of the network."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CNNIC-CN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CNNIC-CN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Beijing, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipas@cnnic.cn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "ipas@cnnic.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CNNIC-CN"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2013-07-09T01:34:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM877-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Guowei Pan"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "5F, Builing D, the West Lake International Plaza of S&T\nNo.391 Wen'er Road, Hangzhou City\nZhejiang, China, 310099"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-0571-85022088-30763"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-0571-85022600"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "guowei.pangw@alibaba-inc.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM877-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-04-13T23:22:33Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM876-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "security trouble"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "5th,floor,Building D,the West Lake International Plaza of S&T,391\nHangzhou, Zhejiang, China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-0571-85022600"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yitian.gaoyt@alibaba-inc.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM876-AP"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-07-30T01:56:01Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM875-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Guoxin Gao"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "5F, Builing D, the West Lake International Plaza of S&T\nNo.391 Wen'er Road, Hangzhou City\nZhejiang, China, 310099"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-0571-85022600"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-0571-85022600"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "anti-spam@list.alibaba-inc.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM875-AP"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-07-30T02:02:01Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/121.197.164.152",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/ZM1015-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Li Jia"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "NO.969 West Wen Yi Road, Yu Hang District, Hangzhou"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-0571-85022088"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "jiali.jl@alibaba-inc.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "ZM1015-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "121.196.0.0",
+            "length": 14
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

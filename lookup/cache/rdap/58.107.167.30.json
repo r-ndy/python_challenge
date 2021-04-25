@@ -1,0 +1,164 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/58.107.167.30",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "name": "OPTUSINTERNET-AU",
+    "remarks": [
+        {
+            "description": [
+                "OPTUS INTERNET - RETAIL",
+                "CPE range for werrb1.cm (VIC)"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/58.107.167.30",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/58.107.167.0/24",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/58.107.167.30",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/58.107.167.0%2F24?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "58.107.167.0",
+    "ipVersion": "v4",
+    "endAddress": "58.107.167.255",
+    "objectClassName": "ip network",
+    "handle": "58.107.167.0 - 58.107.167.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2012-09-25T01:42:42Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "send spam/abuse reports to abuse@optus.net.au",
+                        "please use http://wq.apnic.net/apnic-bin/whois.pl",
+                        "to identify networks before sending reports and",
+                        "always include full headers/logs."
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/58.107.167.30",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/OI3-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Optus Internet"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1 Lyonpark Rd.\nMacquarie Park, NSW 2113"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61-2-8082 7800"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61-2-8082 7100"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "ipadmin@optus.net.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "OI3-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "58.107.167.0",
+            "length": 24
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

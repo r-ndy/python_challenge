@@ -1,0 +1,232 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/39.221.242.121",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "ID",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-20T22:24:55Z"
+        }
+    ],
+    "name": "TELKOMSELNET-ID",
+    "remarks": [
+        {
+            "description": [
+                "Gd. Wisma Mulia Lt.M-19"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/39.221.242.121",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/39.192.0.0/10",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/39.221.242.121",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/39.192.0.0%2F10?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "39.192.0.0",
+    "endAddress": "39.255.255.255",
+    "objectClassName": "ip network",
+    "handle": "39.192.0.0 - 39.255.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-04-15T02:03:02Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/39.221.242.121",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TL560-ID",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TELKOMSEL NET"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gd. Wisma Mulia Lt.M-19"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+62-21-5240811"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@telkomsel.co.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TL560-ID"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-04T22:25:02Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "hostmaster@telkomsel.co.id is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/39.221.242.121",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-TELKOMSELNET-ID",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-TELKOMSELNET-ID"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Gd. Wisma Mulia Lt.M-19"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@telkomsel.co.id"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "hostmaster@telkomsel.co.id"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-TELKOMSELNET-ID"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "39.192.0.0",
+            "length": 10
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

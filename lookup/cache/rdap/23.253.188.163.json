@@ -1,0 +1,642 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-23-253-188-160-1",
+    "startAddress": "23.253.188.160",
+    "endAddress": "23.253.188.167",
+    "ipVersion": "v4",
+    "name": "RACKS-8-1409734696979507",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-23-253-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2014-09-03T04:58:53-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2014-09-03T04:58:53-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/23.253.188.160"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-23-253-188-160-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/23.253.0.0/16"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C05279203",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "(Nestle) Servcom SA"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "SA INVOICE CENTRE, ROUTE DE BUYERE 4\nCH-1030 BUSSIGNY-PRES-LAUSANNE\nSURREY\nCH 1030\nSwitzerland"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C05279203"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C05279203"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2014-09-03T04:58:52-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2014-09-03T04:58:52-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "RACKS-8",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Rackspace Hosting"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1 Fanatical Place\nWindcrest\nTX\n78218\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/RACKS-8"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/RACKS-8"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2017-09-12T08:57:09-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2010-03-29T13:32:31-04:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "ZR9-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "5000 Walzem Rd\nSan Antonio\nTX\n78218\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "com Rackspace"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Rackspace",
+                                            "com",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@rackspace.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-210-312-4000"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ZR9-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ZR9-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-10-30T11:57:37-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2000-02-08T16:10:38-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "IPADM17-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "1 Fanatical Place\nSan Antonio\nTX\n78218\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IPADMIN"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "IPADMIN"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@rackspace.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-210-312-4000"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "administrative",
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/IPADM17-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/IPADM17-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-05-22T10:29:42-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-09-16T13:50:19-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "HANSE157-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "5000 Walzem Rd\nSan Antonio\nTX\n78218\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Chris Hansell"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Hansell",
+                                            "Chris",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "hostmaster@rackspace.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-210-312-4000"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "noc",
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/HANSE157-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/HANSE157-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-07-16T08:38:41-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2015-09-11T14:42:42-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ABUSE45-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "5000 Walzem Rd\nSan Antonio\nTX\n78218\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Abuse Desk"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Abuse Desk"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@rackspace.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-210-312-4000"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ABUSE45-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/23.253.188.163",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ABUSE45-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-09-30T09:28:31-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-09-25T15:10:56-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "23.253.188.160",
+            "length": 29
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

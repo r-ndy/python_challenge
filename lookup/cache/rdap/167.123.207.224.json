@@ -1,0 +1,243 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.123.207.224",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-05-13T04:20:16Z"
+        }
+    ],
+    "name": "DHPW-AU",
+    "remarks": [
+        {
+            "description": [
+                "DEPARTMENT OF HOUSING AND PUBLIC WORKS"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "--------------------------------------------------------",
+                "To report network abuse, please contact mnt-irt",
+                "For troubleshooting, please contact tech-c and admin-c",
+                "Report invalid contact via www.apnic.net/invalidcontact",
+                "--------------------------------------------------------"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/167.123.207.224",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/167.123.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/167.123.207.224",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/167.123.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "167.123.0.0",
+    "ipVersion": "v4",
+    "endAddress": "167.123.255.255",
+    "objectClassName": "ip network",
+    "handle": "167.123.0.0 - 167.123.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-01-27T05:37:37Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse@hpw.qld.gov.au was validated on 2020-11-17",
+                        "CTO-TSG-CyberOps@hpw.qld.gov.au was validated on 2021-01-27"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.123.207.224",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-DHPW-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-DHPW-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 21\n140 Creek Street\nBrisbane 4000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "CTO-TSG-CyberOps@hpw.qld.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@hpw.qld.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-DHPW-AU"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-01-16T01:45:13Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/167.123.207.224",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/DOHA3-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "DEPARTMENT OF HOUSING AND PUBLIC WORKS"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 21, 140 Creek Street"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 7 3719 7620"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "CTO-TSG-CyberOps@hpw.qld.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "DOHA3-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "167.123.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

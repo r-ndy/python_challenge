@@ -1,0 +1,292 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-174-136-47-0-1",
+    "startAddress": "174.136.47.0",
+    "endAddress": "174.136.47.255",
+    "ipVersion": "v4",
+    "name": "NET-174-136-47-0-1",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-174-136-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2017-07-05T16:39:48-04:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2017-07-05T16:39:48-04:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/174.136.47.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-174-136-47-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/174.136.0.0/18"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "SN-344",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Simpli Networks, Inc."
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6565 N. MacArthur Blvd.\nSuite 225\nIrving\nTX\n75039\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/SN-344"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/SN-344"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-06-26T13:10:56-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2017-06-26T13:10:56-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "JMS191-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "6565 N. MacArthur Blvd.\nSuite 225\nDallas\nTX\n75039\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Jonathan Michael Slivko"
+                            ],
+                            [
+                                "n",
+                                {},
+                                "text",
+                                [
+                                    "Slivko",
+                                    "Jonathan",
+                                    "Michael",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "individual"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "abuse@simplinetworks.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-844-474-6754;ext2"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "fax"
+                                    ]
+                                },
+                                "text",
+                                "+1-855-747-1925"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "technical",
+                        "abuse",
+                        "noc",
+                        "administrative"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Unvalidated POC",
+                            "description": [
+                                "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2020-06-24"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/JMS191-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/174.136.47.197",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/JMS191-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-06-25T07:15:03-04:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2009-08-07T10:42:03-04:00"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "174.136.47.0",
+            "length": 24
+        }
+    ],
+    "arin_originas0_originautnums": [
+        36024,
+        30496
+    ]
+}

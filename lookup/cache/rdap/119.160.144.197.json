@@ -1,0 +1,260 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.160.144.197",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "BN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-11-06T07:03:07Z"
+        }
+    ],
+    "name": "eSpeed-BN",
+    "remarks": [
+        {
+            "description": [
+                "eSpeed - Broadband DSL"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/119.160.144.197",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/119.160.144.0/20",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/119.160.144.197",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/119.160.144.0%2F20?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "119.160.144.0",
+    "ipVersion": "v4",
+    "endAddress": "119.160.159.255",
+    "objectClassName": "ip network",
+    "handle": "119.160.144.0 - 119.160.159.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-12-07T03:46:27Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "abuse-mailbox@unn.com.bn was validated on 2020-11-13",
+                        "unn-apnic@unn.com.bn was validated on 2020-12-07"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.160.144.197",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-UNN-BN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-UNN-BN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "K-HUB BUILDING 5TH FLOOR, SPG 32-37, KG ANGGEREK DESA, JALAN BERAKAS Berakas BB 3713"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "unn-apnic@unn.com.bn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse-mailbox@unn.com.bn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-UNN-BN"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2010-03-15T04:04:37Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "For any report relate with network abuse",
+                        "please include detail information;",
+                        "log and time of occurrence in GMT",
+                        "http://www.brunet.bn"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/119.160.144.197",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/BIA1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "BruNet IP Administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Telekom Brunei Bhd (TelBru)\nTelephone House, Istana Darussalam Road\nSumbiling. BS8511\nBS Begawan"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+673-22-444-24"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+673-22-402-24"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "bdcore@brunet.bn"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "abuse@brunet.bn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "BIA1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "119.160.144.0",
+            "length": 20
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

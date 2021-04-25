@@ -1,0 +1,244 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/151.178.140.178",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-09-09T09:06:08Z"
+        }
+    ],
+    "name": "CENITEX-AU",
+    "remarks": [
+        {
+            "description": [
+                "Cenitex",
+                "Victorian State Government"
+            ],
+            "title": "description"
+        },
+        {
+            "description": [
+                "-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+",
+                "This object can only be updated by APNIC hostmasters.",
+                "To update this object, please contact APNIC",
+                "hostmasters and include your organisation's account",
+                "name in the subject line.",
+                "-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+"
+            ],
+            "title": "remarks"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/151.178.140.178",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/151.178.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/151.178.140.178",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/151.178.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "151.178.0.0",
+    "ipVersion": "v4",
+    "endAddress": "151.178.255.255",
+    "objectClassName": "ip network",
+    "handle": "151.178.0.0 - 151.178.255.255",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-05-31T04:40:17Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/151.178.140.178",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/CA461-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cenitex Administrator"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "80 Collins St\nMelbourne VIC 3000"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 3 8688 0475"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "itsa@cenitex.vic.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "CA461-AP"
+        },
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-24T13:04:43Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "itsa@cenitex.vic.gov.au is invalid"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/151.178.140.178",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-CENITEX-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-CENITEX-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Level 18\n80 Collins Street\nMelbourne\nVictoria"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "itsa@cenitex.vic.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "itsa@cenitex.vic.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-CENITEX-AU"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "151.178.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

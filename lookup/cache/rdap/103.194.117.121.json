@@ -1,0 +1,224 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.194.117.121",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "IN",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2020-08-17T05:42:15Z"
+        }
+    ],
+    "name": "YASHITS",
+    "remarks": [
+        {
+            "description": [
+                "Yash It Solutions"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/103.194.117.121",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/103.194.116.0/22",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/103.194.117.121",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/103.194.116.0%2F22?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED PORTABLE",
+    "ipVersion": "v4",
+    "startAddress": "103.194.116.0",
+    "endAddress": "103.194.119.255",
+    "objectClassName": "ip network",
+    "handle": "103.194.116.0 - 103.194.119.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2020-05-23T06:33:21Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.194.117.121",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-YASHITS-IN",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-YASHITS-IN"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "WZ-1080 B, Nangal Raya,New Delhi,Delhi-110046"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yashit.tech@yahoo.com"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "yashit.tech@outlook.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-YASHITS-IN"
+        },
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2018-12-27T10:38:55Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/103.194.117.121",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/MA1315-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "mangaer admin"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "WZ-1080 B, Nangal Raya,New Delhi,Delhi-110046"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+91 9999177913"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "yashit.tech@outlook.com"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "MA1315-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "103.194.116.0",
+            "length": 22
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

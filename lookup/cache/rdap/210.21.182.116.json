@@ -1,0 +1,158 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/210.21.182.116",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "cn",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2008-09-04T06:57:04Z"
+        }
+    ],
+    "name": "guangzhou-xiushui-corp",
+    "remarks": [
+        {
+            "description": [
+                "guangzhou city"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/210.21.182.116",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/210.21.182.0/25",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/210.21.182.116",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/210.21.182.0%2F25?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ASSIGNED NON-PORTABLE",
+    "startAddress": "210.21.182.0",
+    "ipVersion": "v4",
+    "endAddress": "210.21.182.127",
+    "objectClassName": "ip network",
+    "handle": "210.21.182.0 - 210.21.182.127",
+    "entities": [
+        {
+            "roles": [
+                "administrative",
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2017-08-17T06:13:18Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/210.21.182.116",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/TC254-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "TECH GROUP CNC"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "9/F, Building A, Corporate Square, No. 35 Financial Street,\nXicheng District, Beijing 100032, P.R.China"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+86-10-88093588"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+86-10-88091442"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hqs-ipabuse@chinaunicom.cn"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "TC254-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "210.21.182.0",
+            "length": 25
+        }
+    ],
+    "port43": "whois.apnic.net"
+}

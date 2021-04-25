@@ -1,0 +1,286 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-98-144-0-0-1",
+    "startAddress": "98.144.0.0",
+    "endAddress": "98.157.255.255",
+    "ipVersion": "v4",
+    "name": "RRWE",
+    "type": "DIRECT ALLOCATION",
+    "parentHandle": "NET-98-0-0-0-0",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2009-12-11T10:15:40-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2007-12-18T12:42:34-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/98.144.0.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-98-144-0-0-1"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "CC-3517",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Charter Communications Inc"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "6399 S. Fiddler's Green Circle\nGreenwood Village\nCO\n80111\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "remarks": [
+                {
+                    "title": "Registration Comments",
+                    "description": [
+                        "Legacy Time Warner Cable IP Assets"
+                    ]
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/CC-3517"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/CC-3517"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-03-30T11:50:17-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2018-10-10T11:22:33-04:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "IPADD1-ARIN",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "6399 S Fiddlers Green Circle\nGreenwood Village\nCO\n80111\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "IPAddressing"
+                            ],
+                            [
+                                "org",
+                                {},
+                                "text",
+                                "IPAddressing"
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "group"
+                            ],
+                            [
+                                "email",
+                                {},
+                                "text",
+                                "ipaddressing@chartercom.com"
+                            ],
+                            [
+                                "tel",
+                                {
+                                    "type": [
+                                        "work",
+                                        "voice"
+                                    ]
+                                },
+                                "text",
+                                "+1-720-536-1278"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "abuse",
+                        "administrative",
+                        "technical"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "IP Addressing is used for corporate IP allocation and administration, we are unable to provide or reply to inquires regarding specific IP address lookups or subscriber information. ",
+                                "",
+                                "Law Enforcement Officials please visit:  https://www.spectrum.com/policies/lea  for assistance on subpoena, identification, and escalations. This information is for Law Enforcement officials only."
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/IPADD1-ARIN"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/98.152.86.65",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/poc/IPADD1-ARIN"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2021-01-11T11:26:41-05:00"
+                        },
+                        {
+                            "eventAction": "registration",
+                            "eventDate": "2002-09-10T11:10:50-04:00"
+                        }
+                    ],
+                    "status": [
+                        "validated"
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "98.144.0.0",
+            "length": 13
+        },
+        {
+            "v4prefix": "98.152.0.0",
+            "length": 14
+        },
+        {
+            "v4prefix": "98.156.0.0",
+            "length": 15
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

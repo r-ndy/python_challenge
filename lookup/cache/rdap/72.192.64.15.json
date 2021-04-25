@@ -1,0 +1,874 @@
+{
+    "rdapConformance": [
+        "rdap_level_0",
+        "cidr0",
+        "arin_originas0"
+    ],
+    "notices": [
+        {
+            "title": "Terms of Service",
+            "description": [
+                "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/tou/"
+                }
+            ]
+        },
+        {
+            "title": "Whois Inaccuracy Reporting",
+            "description": [
+                "If you see inaccuracies in the results, please visit: "
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                    "rel": "about",
+                    "type": "text/html",
+                    "href": "https://www.arin.net/resources/registry/whois/inaccuracy_reporting/"
+                }
+            ]
+        },
+        {
+            "title": "Copyright Notice",
+            "description": [
+                "Copyright 1997-2021, American Registry for Internet Numbers, Ltd."
+            ]
+        }
+    ],
+    "handle": "NET-72-192-64-0-1",
+    "startAddress": "72.192.64.0",
+    "endAddress": "72.192.127.255",
+    "ipVersion": "v4",
+    "name": "NETBLK-OK-RDC-72-192-64-0",
+    "type": "ASSIGNMENT",
+    "parentHandle": "NET-72-192-0-0-1",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2005-11-10T09:35:26-05:00"
+        },
+        {
+            "eventAction": "registration",
+            "eventDate": "2005-11-10T09:35:26-05:00"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+            "rel": "self",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/72.192.64.0"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+            "rel": "alternate",
+            "type": "application/xml",
+            "href": "https://whois.arin.net/rest/net/NET-72-192-64-0-1"
+        },
+        {
+            "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+            "rel": "up",
+            "type": "application/rdap+json",
+            "href": "https://rdap.arin.net/registry/ip/72.192.0.0/11"
+        }
+    ],
+    "entities": [
+        {
+            "handle": "C01217169",
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "Cox Communications"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "1400 Lake Hearn Dr.\nAtlanta\nGA\n30319\nUnited States"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "org"
+                    ]
+                ]
+            ],
+            "roles": [
+                "registrant"
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                    "rel": "self",
+                    "type": "application/rdap+json",
+                    "href": "https://rdap.arin.net/registry/entity/C01217169"
+                },
+                {
+                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                    "rel": "alternate",
+                    "type": "application/xml",
+                    "href": "https://whois.arin.net/rest/org/C01217169"
+                }
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2011-03-19T09:10:17-04:00"
+                },
+                {
+                    "eventAction": "registration",
+                    "eventDate": "2005-11-10T09:35:26-05:00"
+                }
+            ],
+            "entities": [
+                {
+                    "handle": "CXA",
+                    "vcardArray": [
+                        "vcard",
+                        [
+                            [
+                                "version",
+                                {},
+                                "text",
+                                "4.0"
+                            ],
+                            [
+                                "fn",
+                                {},
+                                "text",
+                                "Cox Communications Inc."
+                            ],
+                            [
+                                "adr",
+                                {
+                                    "label": "1400 Lake Hearn Dr.\nAtlanta\nGA\n30319\nUnited States"
+                                },
+                                "text",
+                                [
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ]
+                            ],
+                            [
+                                "kind",
+                                {},
+                                "text",
+                                "org"
+                            ]
+                        ]
+                    ],
+                    "roles": [
+                        "registrant"
+                    ],
+                    "remarks": [
+                        {
+                            "title": "Registration Comments",
+                            "description": [
+                                "For legal requests/assistance please use the\r",
+                                "following contact information:\r",
+                                "Cox Subpoena Info: https://www.cox.com/aboutus/policies/law-enforcement-and-subpoenas-information.html"
+                            ]
+                        }
+                    ],
+                    "links": [
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                            "rel": "self",
+                            "type": "application/rdap+json",
+                            "href": "https://rdap.arin.net/registry/entity/CXA"
+                        },
+                        {
+                            "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                            "rel": "alternate",
+                            "type": "application/xml",
+                            "href": "https://whois.arin.net/rest/org/CXA"
+                        }
+                    ],
+                    "events": [
+                        {
+                            "eventAction": "last changed",
+                            "eventDate": "2019-05-24T10:10:47-04:00"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "handle": "BERUB3-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6305-A Peachtree Dunwoody Road,\nAtlanta\nGA\n30328\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Tori Berube"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Berube",
+                                            "Tori",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "tori.berube@cox.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-4416"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical",
+                                "administrative"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/BERUB3-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/BERUB3-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-04-03T07:58:21-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2014-03-18T13:16:56-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "MEROL3-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6305-A Peachtree Dunwoody Rd\nAtlanta\nGA\n30328\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Cari Merola"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Merola",
+                                            "Cari",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "cari.merola@cox.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-4416"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/MEROL3-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/MEROL3-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-05-11T10:48:21-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2017-05-10T10:37:30-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "GOODW243-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6205-B Peachtree Dunwoody Rd\nAtlanta\nGA\n30328\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Mark Goodwin"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Goodwin",
+                                            "Mark",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "mark.goodwin@cox.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-4416"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Unvalidated POC",
+                                    "description": [
+                                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2020-05-23"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/GOODW243-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/GOODW243-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-05-24T10:14:39-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2019-05-23T12:37:28-04:00"
+                                }
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "ADA131-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6305 Peachtree dunwoody\nAtlanta\nGA\n30328\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Alvin Demond Anderson"
+                                    ],
+                                    [
+                                        "n",
+                                        {},
+                                        "text",
+                                        [
+                                            "Anderson",
+                                            "Alvin",
+                                            "Demond",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "individual"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "alvin.anderson@cox.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-4416"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/ADA131-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/ADA131-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2020-06-05T09:49:57-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2014-09-09T13:19:41-04:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "IPADM754-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "6305-A Peachtree Dunwoody Rd\nAtlanta\nGA\n30328\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "IP Adminstrator"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "IP Adminstrator"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "sophea.long@cox.com"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-0188"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "cell"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-0188"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "technical"
+                            ],
+                            "remarks": [
+                                {
+                                    "title": "Unvalidated POC",
+                                    "description": [
+                                        "ARIN has attempted to validate the data for this POC, but has received no response from the POC since 2020-04-23"
+                                    ]
+                                }
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/IPADM754-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/IPADM754-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-04-24T10:29:39-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2015-09-14T12:00:49-04:00"
+                                }
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        },
+                        {
+                            "handle": "IC146-ARIN",
+                            "vcardArray": [
+                                "vcard",
+                                [
+                                    [
+                                        "version",
+                                        {},
+                                        "text",
+                                        "4.0"
+                                    ],
+                                    [
+                                        "adr",
+                                        {
+                                            "label": "1400 Lake Hearn Drive\nAtlanta\nGA\n30319\nUnited States"
+                                        },
+                                        "text",
+                                        [
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            "",
+                                            ""
+                                        ]
+                                    ],
+                                    [
+                                        "fn",
+                                        {},
+                                        "text",
+                                        "Cox Communications Inc"
+                                    ],
+                                    [
+                                        "org",
+                                        {},
+                                        "text",
+                                        "Cox Communications Inc"
+                                    ],
+                                    [
+                                        "kind",
+                                        {},
+                                        "text",
+                                        "group"
+                                    ],
+                                    [
+                                        "email",
+                                        {},
+                                        "text",
+                                        "abuse@cox.net"
+                                    ],
+                                    [
+                                        "tel",
+                                        {
+                                            "type": [
+                                                "work",
+                                                "voice"
+                                            ]
+                                        },
+                                        "text",
+                                        "+1-404-269-7626"
+                                    ]
+                                ]
+                            ],
+                            "roles": [
+                                "abuse"
+                            ],
+                            "links": [
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "self",
+                                    "type": "application/rdap+json",
+                                    "href": "https://rdap.arin.net/registry/entity/IC146-ARIN"
+                                },
+                                {
+                                    "value": "https://rdap.arin.net/registry/ip/72.192.64.15",
+                                    "rel": "alternate",
+                                    "type": "application/xml",
+                                    "href": "https://whois.arin.net/rest/poc/IC146-ARIN"
+                                }
+                            ],
+                            "events": [
+                                {
+                                    "eventAction": "last changed",
+                                    "eventDate": "2019-10-11T13:53:11-04:00"
+                                },
+                                {
+                                    "eventAction": "registration",
+                                    "eventDate": "2002-02-12T11:20:45-05:00"
+                                }
+                            ],
+                            "status": [
+                                "validated"
+                            ],
+                            "port43": "whois.arin.net",
+                            "objectClassName": "entity"
+                        }
+                    ],
+                    "port43": "whois.arin.net",
+                    "objectClassName": "entity"
+                }
+            ],
+            "port43": "whois.arin.net",
+            "objectClassName": "entity"
+        }
+    ],
+    "port43": "whois.arin.net",
+    "status": [
+        "active"
+    ],
+    "objectClassName": "ip network",
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "72.192.64.0",
+            "length": 18
+        }
+    ],
+    "arin_originas0_originautnums": []
+}

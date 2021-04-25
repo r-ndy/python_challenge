@@ -1,0 +1,315 @@
+{
+    "rdapConformance": [
+        "history_version_0",
+        "cidr0",
+        "rdap_level_0"
+    ],
+    "notices": [
+        {
+            "title": "Source",
+            "description": [
+                "Objects returned came from source",
+                "APNIC"
+            ]
+        },
+        {
+            "title": "Terms and Conditions",
+            "description": [
+                "This is the APNIC WHOIS Database query service. The objects are in RDAP format."
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.97.246.212",
+                    "rel": "terms-of-service",
+                    "href": "http://www.apnic.net/db/dbcopyright.html",
+                    "type": "text/html"
+                }
+            ]
+        }
+    ],
+    "country": "AU",
+    "events": [
+        {
+            "eventAction": "last changed",
+            "eventDate": "2021-01-15T01:28:25Z"
+        }
+    ],
+    "name": "AUSDEFENCE",
+    "remarks": [
+        {
+            "description": [
+                "Australian Department of Defence",
+                "Bonshaw Rd, HMAS Harman",
+                "Canberra ACT 2600"
+            ],
+            "title": "description"
+        }
+    ],
+    "links": [
+        {
+            "value": "https://rdap.apnic.net/ip/144.97.246.212",
+            "rel": "self",
+            "href": "https://rdap.apnic.net/ip/144.97.0.0/16",
+            "type": "application/rdap+json"
+        },
+        {
+            "value": "https://rdap.apnic.net/ip/144.97.246.212",
+            "rel": "related",
+            "href": "https://netox.apnic.net/search/144.97.0.0%2F16?utm_source=rdap&utm_medium=result&utm_campaign=rdap_result",
+            "type": "text/html"
+        }
+    ],
+    "type": "ALLOCATED PORTABLE",
+    "startAddress": "144.97.0.0",
+    "ipVersion": "v4",
+    "endAddress": "144.97.255.255",
+    "objectClassName": "ip network",
+    "handle": "144.97.0.0 - 144.97.255.255",
+    "entities": [
+        {
+            "roles": [
+                "abuse"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2021-02-26T01:26:26Z"
+                }
+            ],
+            "remarks": [
+                {
+                    "description": [
+                        "architecture.support@defence.gov.au was validated on 2021-02-26"
+                    ],
+                    "title": "remarks"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.97.246.212",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/IRT-AUS-DEFENCE-AU",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "IRT-AUS-DEFENCE-AU"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "group"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Department of Defence\nBonshaw Rd, HMAS Harman\nCannberra, ACT 2600\nAustralia"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "architecture.support@defence.gov.au"
+                    ],
+                    [
+                        "email",
+                        {
+                            "pref": "1"
+                        },
+                        "text",
+                        "architecture.support@defence.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "IRT-AUS-DEFENCE-AU"
+        },
+        {
+            "roles": [
+                "technical"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:32Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.97.246.212",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/DHM2-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ADF Hostmaster"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Australian Department of Defence\n109 Kent St, Deakin\nCanberra ACT 2600"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 02 6265 8598"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "hostmaster@defence.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "DHM2-AP"
+        },
+        {
+            "roles": [
+                "administrative"
+            ],
+            "events": [
+                {
+                    "eventAction": "last changed",
+                    "eventDate": "2008-09-04T07:29:32Z"
+                }
+            ],
+            "links": [
+                {
+                    "value": "https://rdap.apnic.net/ip/144.97.246.212",
+                    "rel": "self",
+                    "href": "https://rdap.apnic.net/entity/FMGR1-AP",
+                    "type": "application/rdap+json"
+                }
+            ],
+            "vcardArray": [
+                "vcard",
+                [
+                    [
+                        "version",
+                        {},
+                        "text",
+                        "4.0"
+                    ],
+                    [
+                        "fn",
+                        {},
+                        "text",
+                        "ADF Firewall Manager"
+                    ],
+                    [
+                        "kind",
+                        {},
+                        "text",
+                        "individual"
+                    ],
+                    [
+                        "adr",
+                        {
+                            "label": "Australian Department of Defence\n109 Kent St, Deakin\nCanberra ACT 2600"
+                        },
+                        "text",
+                        [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "voice"
+                        },
+                        "text",
+                        "+61 02 6265 8598"
+                    ],
+                    [
+                        "tel",
+                        {
+                            "type": "fax"
+                        },
+                        "text",
+                        "+61 02 6265 8924"
+                    ],
+                    [
+                        "email",
+                        {},
+                        "text",
+                        "fwmgr@defence.gov.au"
+                    ]
+                ]
+            ],
+            "objectClassName": "entity",
+            "handle": "FMGR1-AP"
+        }
+    ],
+    "cidr0_cidrs": [
+        {
+            "v4prefix": "144.97.0.0",
+            "length": 16
+        }
+    ],
+    "port43": "whois.apnic.net"
+}
