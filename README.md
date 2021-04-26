@@ -149,7 +149,7 @@ query_dict = {
         'value': '8.8.8.8'
     }
 }
-geo_ip_list = query.query_geo_ip(query_dict=query_dict))
+geo_ip_list = query.query_geo_ip(query_dict=query_dict)
 ```
 The result will be a list filled by the data that matches the query.
 <br><br>
@@ -173,7 +173,7 @@ query_dict = {
         },
     ]
 }
-geo_ip_list = query.query_geo_ip(query_dict=query_dict))
+geo_ip_list = query.query_geo_ip(query_dict=query_dict)
 ```
 
 ### Single RDAP IP query 
@@ -189,7 +189,7 @@ query_dict = {
         'value': 'JP'
     }
 }
-rdap_list = query.query_geo_ip(query_dict=query_dict))
+rdap_list = query.get_rdap_info(query_dict=query_dict)
 ```
 
 ### Nested RDAP IP query
@@ -211,7 +211,7 @@ query_dict = {
         },
     ]
 }
-rdap_list = query.query_geo_ip(query_dict=query_dict))
+rdap_list = query.get_rdap_info(query_dict=query_dict)
 ```
 
 ## Examples
